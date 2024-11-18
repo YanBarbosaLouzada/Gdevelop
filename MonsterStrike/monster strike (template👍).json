@@ -20,7 +20,7 @@
     "templateSlug": "",
     "useExternalSourceFiles": false,
     "version": "1.0.0",
-    "name": "monster strike (template👍)",
+    "name": "Monster Strike",
     "description": "",
     "author": "",
     "windowWidth": 1280,
@@ -2324,7 +2324,7 @@
       "title": "",
       "v": 6,
       "uiSettings": {
-        "grid": false,
+        "grid": true,
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
@@ -2332,8 +2332,8 @@
         "gridOffsetY": 0,
         "gridColor": 8289918,
         "gridAlpha": 0.17,
-        "snap": false,
-        "zoomFactor": 0.05547241800881409,
+        "snap": true,
+        "zoomFactor": 0.33253870912509015,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -2486,7 +2486,7 @@
           "width": 68,
           "x": 1024,
           "y": 516,
-          "zOrder": 100,
+          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2846,7 +2846,7 @@
           "persistentUuid": "0650cfca-de8b-4a6e-a1ed-679ace5e58e9",
           "width": 96,
           "x": 160,
-          "y": 227,
+          "y": 224,
           "zOrder": 165,
           "numberProperties": [],
           "stringProperties": [],
@@ -3034,7 +3034,7 @@
           "width": 68,
           "x": 32,
           "y": 352,
-          "zOrder": 182,
+          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3051,7 +3051,7 @@
           "width": 68,
           "x": -256,
           "y": 529,
-          "zOrder": 183,
+          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3062,7 +3062,7 @@
           "depth": 4,
           "height": 64,
           "keepRatio": true,
-          "layer": "",
+          "layer": "Interface",
           "name": "SilverKey2",
           "persistentUuid": "f86494fb-3769-4bc0-9997-90e36dc958b6",
           "width": 64,
@@ -3078,7 +3078,7 @@
           "customSize": false,
           "height": 0,
           "keepRatio": true,
-          "layer": "",
+          "layer": "Interface",
           "name": "KeyTXT2",
           "persistentUuid": "d845be3f-71e4-4bf6-96ce-89e41ef51074",
           "width": 0,
@@ -3118,7 +3118,7 @@
           "width": 68,
           "x": 1024,
           "y": 352,
-          "zOrder": 100,
+          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3807,7 +3807,7 @@
           "persistentUuid": "a322dca9-aa2e-41c3-8bc4-56cf76d58c3c",
           "width": 3360,
           "x": -1504,
-          "y": 3633,
+          "y": 3648,
           "zOrder": 103,
           "numberProperties": [],
           "stringProperties": [],
@@ -4643,8 +4643,8 @@
           "name": "BigZombie",
           "persistentUuid": "017a5ab5-82c1-421d-804e-7a79fc559446",
           "width": 96,
-          "x": 800,
-          "y": 3520,
+          "x": 672,
+          "y": 3552,
           "zOrder": 146,
           "numberProperties": [],
           "stringProperties": [],
@@ -4729,7 +4729,7 @@
           "persistentUuid": "34715979-7c0c-4913-a41d-be0ca16ae049",
           "width": 96,
           "x": -1184,
-          "y": 3520,
+          "y": 3536,
           "zOrder": 180,
           "numberProperties": [],
           "stringProperties": [],
@@ -5418,8 +5418,8 @@
           "name": "BigZombie",
           "persistentUuid": "94b86760-4f6f-424f-9e43-a5db61b9b713",
           "width": 96,
-          "x": 1056,
-          "y": 3520,
+          "x": 1024,
+          "y": 3552,
           "zOrder": 146,
           "numberProperties": [],
           "stringProperties": [],
@@ -5435,8 +5435,8 @@
           "name": "BigZombie",
           "persistentUuid": "60a66e60-38c4-4212-8cb1-e394c8bb77f2",
           "width": 96,
-          "x": 1376,
-          "y": 3520,
+          "x": 1504,
+          "y": 3552,
           "zOrder": 146,
           "numberProperties": [],
           "stringProperties": [],
@@ -5452,8 +5452,8 @@
           "name": "BigZombie",
           "persistentUuid": "155814df-44da-4222-b9de-b77fa220924b",
           "width": 96,
-          "x": 1216,
-          "y": 3520,
+          "x": 1344,
+          "y": 3552,
           "zOrder": 146,
           "numberProperties": [],
           "stringProperties": [],
@@ -5469,8 +5469,8 @@
           "name": "BigZombie",
           "persistentUuid": "182d086f-4773-453d-afae-6acd1fc9085a",
           "width": 96,
-          "x": 928,
-          "y": 3520,
+          "x": 864,
+          "y": 3552,
           "zOrder": 146,
           "numberProperties": [],
           "stringProperties": [],
@@ -5486,8 +5486,8 @@
           "name": "BigZombie",
           "persistentUuid": "c8720608-a55e-41b9-bcc5-7b1ffd362dd1",
           "width": 96,
-          "x": 1152,
-          "y": 3520,
+          "x": 1184,
+          "y": 3552,
           "zOrder": 146,
           "numberProperties": [],
           "stringProperties": [],
@@ -5615,14 +5615,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 112,
+          "height": 96,
           "keepRatio": true,
           "layer": "",
           "name": "NewSprite",
           "persistentUuid": "2ba7ab61-57bb-4647-8f95-114198ca6767",
           "width": 3400,
           "x": -1533,
-          "y": 3632,
+          "y": 3648,
           "zOrder": 191,
           "numberProperties": [],
           "stringProperties": [],
@@ -5641,6 +5641,23 @@
           "x": 3706,
           "y": 3645,
           "zOrder": 191,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 3,
+          "height": 96,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Necromancer",
+          "persistentUuid": "01aee04e-27ee-4c3d-b83f-c2605cb43e38",
+          "width": 96,
+          "x": -768,
+          "y": 608,
+          "zOrder": 192,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -10485,7 +10502,15 @@
           "width": 64,
           "variables": [],
           "effects": [],
-          "behaviors": []
+          "behaviors": [
+            {
+              "canBeGrabbed": true,
+              "name": "Platform",
+              "platformType": "NormalPlatform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "yGrabOffset": 0
+            }
+          ]
         },
         {
           "assetStoreId": "94a2949fe04d8011f03f2c6e16c0af0f27b5fa39f63423f41bbdb60510e64974",
@@ -10826,10 +10851,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
@@ -14141,6 +14166,7 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
+                  "folded": true,
                   "name": "Tiro",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -16042,10 +16068,48 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Key2",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
-          "events": [],
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "DepartScene"
+                  },
+                  "parameters": [
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "SilverKey2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "KeyTXT2"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
+            }
+          ],
           "parameters": []
         },
         {
