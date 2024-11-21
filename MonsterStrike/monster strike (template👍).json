@@ -2259,6 +2259,24 @@
         "name": "NewSprite4",
         "smoothed": true,
         "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite5.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite5",
+        "smoothed": true,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite6.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite6",
+        "smoothed": true,
+        "userAdded": true
       }
     ],
     "resourceFolders": []
@@ -2295,6 +2313,18 @@
     },
     {
       "folded": true,
+      "name": "Key2",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
+      "name": "Chefao",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "folded": true,
       "name": "Qtd_bomba",
       "type": "number",
       "value": 3
@@ -2314,15 +2344,15 @@
   ],
   "layouts": [
     {
-      "b": 32,
+      "b": 8,
       "disableInputWhenNotFocused": true,
       "mangledName": "Main",
       "name": "Main",
-      "r": 6,
+      "r": 29,
       "standardSortMethod": true,
       "stopSoundsOnStartup": true,
       "title": "",
-      "v": 6,
+      "v": 15,
       "uiSettings": {
         "grid": true,
         "gridType": "rectangular",
@@ -2333,7 +2363,7 @@
         "gridColor": 8289918,
         "gridAlpha": 0.17,
         "snap": true,
-        "zoomFactor": 0.33253870912509015,
+        "zoomFactor": 0.16572117247527526,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -2349,8 +2379,8 @@
           "name": "MergedFullBackground",
           "persistentUuid": "bffb86b4-cb92-4c2c-befc-ad3621d30d6a",
           "width": 8800,
-          "x": -3136,
-          "y": -512,
+          "x": -3104,
+          "y": -527,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -2368,7 +2398,7 @@
           "width": 3364,
           "x": 3712,
           "y": 3648,
-          "zOrder": 100,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2384,8 +2414,8 @@
           "persistentUuid": "5f2ec951-4d28-41c5-b537-fc536b65dc0a",
           "width": 64,
           "x": 1024,
-          "y": 512,
-          "zOrder": 112,
+          "y": 576,
+          "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2402,7 +2432,7 @@
           "width": 96,
           "x": -128,
           "y": 433,
-          "zOrder": 0,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2419,7 +2449,7 @@
           "width": 288,
           "x": -192,
           "y": 529,
-          "zOrder": 100,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2436,24 +2466,7 @@
           "width": 544,
           "x": 96,
           "y": 352,
-          "zOrder": 100,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 95,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Diego2",
-          "persistentUuid": "bdb048c8-cae6-4599-955c-f1df49243754",
-          "width": 64,
-          "x": -1856,
-          "y": 609,
-          "zOrder": 100,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2469,7 +2482,7 @@
           "width": 0,
           "x": 2568,
           "y": 384,
-          "zOrder": 100,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2486,7 +2499,7 @@
           "width": 68,
           "x": 1024,
           "y": 516,
-          "zOrder": 0,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2503,7 +2516,7 @@
           "width": 576,
           "x": 1312,
           "y": 256,
-          "zOrder": 2,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2520,7 +2533,7 @@
           "width": 96,
           "x": 1088,
           "y": 352,
-          "zOrder": 2,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2537,7 +2550,7 @@
           "width": 32,
           "x": 1184,
           "y": 320,
-          "zOrder": 3,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2554,7 +2567,7 @@
           "width": 32,
           "x": 1216,
           "y": 288,
-          "zOrder": 3,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2571,7 +2584,7 @@
           "width": 64,
           "x": 1248,
           "y": 256,
-          "zOrder": 3,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2588,7 +2601,7 @@
           "width": 352,
           "x": 1536,
           "y": 21,
-          "zOrder": 5,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2605,7 +2618,7 @@
           "width": 320,
           "x": 320,
           "y": 60,
-          "zOrder": 100,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2621,7 +2634,7 @@
           "width": 0,
           "x": 5376,
           "y": 1830,
-          "zOrder": 104,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2637,7 +2650,7 @@
           "width": 0,
           "x": 5556,
           "y": 1829,
-          "zOrder": 105,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2653,7 +2666,7 @@
           "width": 0,
           "x": 5684,
           "y": 1829,
-          "zOrder": 106,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2669,7 +2682,7 @@
           "width": 0,
           "x": 5812,
           "y": 1828,
-          "zOrder": 107,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2685,7 +2698,7 @@
           "width": 0,
           "x": 5940,
           "y": 1828,
-          "zOrder": 108,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2701,7 +2714,7 @@
           "width": 0,
           "x": 6068,
           "y": 1827,
-          "zOrder": 109,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2717,7 +2730,7 @@
           "width": 0,
           "x": 6196,
           "y": 1827,
-          "zOrder": 110,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2733,7 +2746,7 @@
           "width": 0,
           "x": 6324,
           "y": 1827,
-          "zOrder": 111,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2749,7 +2762,7 @@
           "width": 0,
           "x": 6452,
           "y": 1826,
-          "zOrder": 112,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2765,7 +2778,7 @@
           "width": 0,
           "x": 6580,
           "y": 1826,
-          "zOrder": 113,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2781,7 +2794,7 @@
           "width": 0,
           "x": 6708,
           "y": 1825,
-          "zOrder": 114,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2797,7 +2810,7 @@
           "width": 0,
           "x": 6836,
           "y": 1825,
-          "zOrder": 115,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2813,7 +2826,7 @@
           "width": 0,
           "x": 6964,
           "y": 1824,
-          "zOrder": 116,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2830,7 +2843,7 @@
           "width": 96,
           "x": 160,
           "y": 35,
-          "zOrder": 164,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2847,7 +2860,7 @@
           "width": 96,
           "x": 160,
           "y": 224,
-          "zOrder": 165,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2864,7 +2877,7 @@
           "width": 96,
           "x": 160,
           "y": 99,
-          "zOrder": 166,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2881,7 +2894,7 @@
           "width": 94,
           "x": 162,
           "y": 163,
-          "zOrder": 167,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2898,7 +2911,7 @@
           "width": 64,
           "x": 64,
           "y": 99,
-          "zOrder": 168,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2915,7 +2928,7 @@
           "width": 34,
           "x": 81,
           "y": 182,
-          "zOrder": 169,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2932,7 +2945,7 @@
           "width": 64,
           "x": 64,
           "y": 224,
-          "zOrder": 171,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2949,7 +2962,7 @@
           "width": 64,
           "x": 64,
           "y": 35,
-          "zOrder": 173,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2966,7 +2979,7 @@
           "width": 192,
           "x": -1920,
           "y": 574,
-          "zOrder": 174,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -2983,7 +2996,7 @@
           "width": 96,
           "x": 1312,
           "y": 160,
-          "zOrder": 0,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3000,7 +3013,7 @@
           "width": 96,
           "x": 576,
           "y": 608,
-          "zOrder": 0,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3017,7 +3030,7 @@
           "width": 51,
           "x": 397,
           "y": 288,
-          "zOrder": 179,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3034,7 +3047,7 @@
           "width": 68,
           "x": 32,
           "y": 352,
-          "zOrder": 0,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3051,7 +3064,7 @@
           "width": 68,
           "x": -256,
           "y": 529,
-          "zOrder": 0,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3068,7 +3081,7 @@
           "width": 64,
           "x": 64,
           "y": 224,
-          "zOrder": 184,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3084,7 +3097,7 @@
           "width": 0,
           "x": 160,
           "y": 224,
-          "zOrder": 185,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3099,9 +3112,9 @@
           "name": "LockClosed2",
           "persistentUuid": "cccff38a-45ba-44a0-b764-38e3a231c781",
           "width": 64,
-          "x": 2728,
-          "y": 544,
-          "zOrder": 186,
+          "x": 2560,
+          "y": 566,
+          "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3118,7 +3131,7 @@
           "width": 68,
           "x": 1024,
           "y": 352,
-          "zOrder": 0,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3135,7 +3148,7 @@
           "width": 64,
           "x": 1620,
           "y": 192,
-          "zOrder": 187,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3151,7 +3164,7 @@
           "width": 0,
           "x": 3712,
           "y": 3250,
-          "zOrder": 106,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3167,7 +3180,7 @@
           "width": 0,
           "x": 3712,
           "y": 3378,
-          "zOrder": 105,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3183,7 +3196,7 @@
           "width": 0,
           "x": 3712,
           "y": 3122,
-          "zOrder": 107,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3199,7 +3212,7 @@
           "width": 0,
           "x": 3712,
           "y": 2994,
-          "zOrder": 108,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3215,7 +3228,7 @@
           "width": 0,
           "x": 3712,
           "y": 2866,
-          "zOrder": 109,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3231,7 +3244,7 @@
           "width": 0,
           "x": 3712,
           "y": 2738,
-          "zOrder": 110,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3247,7 +3260,7 @@
           "width": 0,
           "x": 3712,
           "y": 2610,
-          "zOrder": 111,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3263,7 +3276,7 @@
           "width": 0,
           "x": 3712,
           "y": 2482,
-          "zOrder": 112,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3279,7 +3292,7 @@
           "width": 0,
           "x": 3712,
           "y": 2354,
-          "zOrder": 113,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3295,7 +3308,7 @@
           "width": 0,
           "x": 3712,
           "y": 2226,
-          "zOrder": 114,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3311,7 +3324,7 @@
           "width": 0,
           "x": 3712,
           "y": 2098,
-          "zOrder": 115,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3327,7 +3340,7 @@
           "width": 0,
           "x": 3712,
           "y": 1970,
-          "zOrder": 116,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3343,7 +3356,7 @@
           "width": 0,
           "x": 3712,
           "y": 3506,
-          "zOrder": 104,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3359,7 +3372,7 @@
           "width": 0,
           "x": 6964,
           "y": 3250,
-          "zOrder": 106,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3375,7 +3388,7 @@
           "width": 0,
           "x": 6964,
           "y": 3378,
-          "zOrder": 105,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3391,7 +3404,7 @@
           "width": 0,
           "x": 6964,
           "y": 3122,
-          "zOrder": 107,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3407,7 +3420,7 @@
           "width": 0,
           "x": 6964,
           "y": 2994,
-          "zOrder": 108,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3423,7 +3436,7 @@
           "width": 0,
           "x": 6964,
           "y": 2866,
-          "zOrder": 109,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3439,7 +3452,7 @@
           "width": 0,
           "x": 6964,
           "y": 2738,
-          "zOrder": 110,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3455,7 +3468,7 @@
           "width": 0,
           "x": 6964,
           "y": 2610,
-          "zOrder": 111,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3471,7 +3484,7 @@
           "width": 0,
           "x": 6964,
           "y": 2482,
-          "zOrder": 112,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3487,7 +3500,7 @@
           "width": 0,
           "x": 6964,
           "y": 2354,
-          "zOrder": 113,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3503,7 +3516,7 @@
           "width": 0,
           "x": 6964,
           "y": 2226,
-          "zOrder": 114,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3519,7 +3532,7 @@
           "width": 0,
           "x": 6964,
           "y": 2098,
-          "zOrder": 115,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3535,7 +3548,7 @@
           "width": 0,
           "x": 6964,
           "y": 1970,
-          "zOrder": 116,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3551,7 +3564,7 @@
           "width": 0,
           "x": 6964,
           "y": 3506,
-          "zOrder": 104,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3567,7 +3580,7 @@
           "width": 0,
           "x": 3988,
           "y": 1829,
-          "zOrder": 106,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3583,7 +3596,7 @@
           "width": 0,
           "x": 3860,
           "y": 1829,
-          "zOrder": 105,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3599,7 +3612,7 @@
           "width": 0,
           "x": 4116,
           "y": 1828,
-          "zOrder": 107,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3615,7 +3628,7 @@
           "width": 0,
           "x": 4244,
           "y": 1828,
-          "zOrder": 108,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3631,7 +3644,7 @@
           "width": 0,
           "x": 4372,
           "y": 1827,
-          "zOrder": 109,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3647,7 +3660,7 @@
           "width": 0,
           "x": 4500,
           "y": 1827,
-          "zOrder": 110,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3663,7 +3676,7 @@
           "width": 0,
           "x": 4628,
           "y": 1827,
-          "zOrder": 111,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3679,7 +3692,7 @@
           "width": 0,
           "x": 4756,
           "y": 1826,
-          "zOrder": 112,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3695,7 +3708,7 @@
           "width": 0,
           "x": 4884,
           "y": 1826,
-          "zOrder": 113,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3711,7 +3724,7 @@
           "width": 0,
           "x": 5012,
           "y": 1825,
-          "zOrder": 114,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3727,7 +3740,7 @@
           "width": 0,
           "x": 5140,
           "y": 1825,
-          "zOrder": 115,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3743,7 +3756,7 @@
           "width": 0,
           "x": 5268,
           "y": 1824,
-          "zOrder": 116,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3759,7 +3772,7 @@
           "width": 0,
           "x": 3712,
           "y": 1830,
-          "zOrder": 104,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3775,7 +3788,7 @@
           "width": 0,
           "x": 5428,
           "y": 1830,
-          "zOrder": 104,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3791,7 +3804,7 @@
           "width": 0,
           "x": 3732,
           "y": 1830,
-          "zOrder": 104,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3808,7 +3821,7 @@
           "width": 3360,
           "x": -1504,
           "y": 3648,
-          "zOrder": 103,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3824,7 +3837,7 @@
           "width": 0,
           "x": 128,
           "y": 1844,
-          "zOrder": 104,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3840,7 +3853,7 @@
           "width": 0,
           "x": 308,
           "y": 1843,
-          "zOrder": 105,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3856,7 +3869,7 @@
           "width": 0,
           "x": 436,
           "y": 1843,
-          "zOrder": 106,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3872,7 +3885,7 @@
           "width": 0,
           "x": 564,
           "y": 1842,
-          "zOrder": 107,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3888,7 +3901,7 @@
           "width": 0,
           "x": 692,
           "y": 1842,
-          "zOrder": 108,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3904,7 +3917,7 @@
           "width": 0,
           "x": 820,
           "y": 1841,
-          "zOrder": 109,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3920,7 +3933,7 @@
           "width": 0,
           "x": 948,
           "y": 1841,
-          "zOrder": 110,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3936,7 +3949,7 @@
           "width": 0,
           "x": 1076,
           "y": 1841,
-          "zOrder": 111,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3952,7 +3965,7 @@
           "width": 0,
           "x": 1204,
           "y": 1840,
-          "zOrder": 112,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3968,7 +3981,7 @@
           "width": 0,
           "x": 1332,
           "y": 1840,
-          "zOrder": 113,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -3984,7 +3997,7 @@
           "width": 0,
           "x": 1460,
           "y": 1839,
-          "zOrder": 114,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4000,7 +4013,7 @@
           "width": 0,
           "x": 1588,
           "y": 1839,
-          "zOrder": 115,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4016,7 +4029,7 @@
           "width": 0,
           "x": 1716,
           "y": 1838,
-          "zOrder": 116,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4032,7 +4045,7 @@
           "width": 0,
           "x": 352,
           "y": 3520,
-          "zOrder": 120,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4048,7 +4061,7 @@
           "width": 0,
           "x": 352,
           "y": 3392,
-          "zOrder": 121,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4064,7 +4077,7 @@
           "width": 0,
           "x": 352,
           "y": 3264,
-          "zOrder": 122,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4080,7 +4093,7 @@
           "width": 0,
           "x": 352,
           "y": 3136,
-          "zOrder": 123,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4096,7 +4109,7 @@
           "width": 0,
           "x": 352,
           "y": 3008,
-          "zOrder": 124,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4112,7 +4125,7 @@
           "width": 0,
           "x": 352,
           "y": 2880,
-          "zOrder": 125,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4128,7 +4141,7 @@
           "width": 0,
           "x": 352,
           "y": 2752,
-          "zOrder": 126,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4144,7 +4157,7 @@
           "width": 0,
           "x": 352,
           "y": 2624,
-          "zOrder": 127,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4160,7 +4173,7 @@
           "width": 0,
           "x": 352,
           "y": 2496,
-          "zOrder": 128,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4176,7 +4189,7 @@
           "width": 0,
           "x": 352,
           "y": 2368,
-          "zOrder": 129,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4193,7 +4206,7 @@
           "width": 68,
           "x": -612,
           "y": 3104,
-          "zOrder": 130,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4209,7 +4222,7 @@
           "width": 0,
           "x": -96,
           "y": 2880,
-          "zOrder": 133,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4225,7 +4238,7 @@
           "width": 0,
           "x": -864,
           "y": 2880,
-          "zOrder": 134,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4241,7 +4254,7 @@
           "width": 0,
           "x": -1119,
           "y": 2658,
-          "zOrder": 138,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4257,7 +4270,7 @@
           "width": 0,
           "x": -1380,
           "y": 2427,
-          "zOrder": 141,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4274,7 +4287,7 @@
           "width": 96,
           "x": -512,
           "y": 2304,
-          "zOrder": 146,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4290,7 +4303,7 @@
           "width": 0,
           "x": 572,
           "y": 2619,
-          "zOrder": 158,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4306,7 +4319,7 @@
           "width": 0,
           "x": 1084,
           "y": 2363,
-          "zOrder": 160,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4323,7 +4336,7 @@
           "width": 256,
           "x": -32,
           "y": 2880,
-          "zOrder": 177,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4340,7 +4353,7 @@
           "width": 68,
           "x": -362,
           "y": 3104,
-          "zOrder": 130,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4356,7 +4369,7 @@
           "width": 0,
           "x": -736,
           "y": 3419,
-          "zOrder": 130,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4373,7 +4386,7 @@
           "width": 384,
           "x": -672,
           "y": 3392,
-          "zOrder": 177,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4390,7 +4403,7 @@
           "width": 256,
           "x": 832,
           "y": 2848,
-          "zOrder": 177,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4407,7 +4420,7 @@
           "width": 256,
           "x": -864,
           "y": 3104,
-          "zOrder": 177,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4424,7 +4437,7 @@
           "width": 256,
           "x": -1120,
           "y": 2880,
-          "zOrder": 177,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4441,7 +4454,7 @@
           "width": 256,
           "x": -1376,
           "y": 2656,
-          "zOrder": 177,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4458,7 +4471,7 @@
           "width": 256,
           "x": -1312,
           "y": 2400,
-          "zOrder": 177,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4475,7 +4488,7 @@
           "width": 256,
           "x": -864,
           "y": 2464,
-          "zOrder": 177,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4492,7 +4505,7 @@
           "width": 256,
           "x": -544,
           "y": 2400,
-          "zOrder": 177,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4509,7 +4522,7 @@
           "width": 256,
           "x": -160,
           "y": 2464,
-          "zOrder": 177,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4526,7 +4539,7 @@
           "width": 256,
           "x": 96,
           "y": 2368,
-          "zOrder": 177,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4543,7 +4556,7 @@
           "width": 256,
           "x": 512,
           "y": 2368,
-          "zOrder": 177,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4560,7 +4573,7 @@
           "width": 256,
           "x": 832,
           "y": 2368,
-          "zOrder": 177,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4577,7 +4590,7 @@
           "width": 256,
           "x": 896,
           "y": 2592,
-          "zOrder": 177,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4594,7 +4607,7 @@
           "width": 256,
           "x": 640,
           "y": 2592,
-          "zOrder": 177,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4611,24 +4624,7 @@
           "width": 256,
           "x": 564,
           "y": 2848,
-          "zOrder": 177,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 4,
-          "height": 64,
-          "keepRatio": true,
-          "layer": "",
-          "name": "SilverKey",
-          "persistentUuid": "38c3646d-9d46-4556-9840-1e57aa1a12da",
-          "width": 64,
-          "x": 736,
-          "y": 2528,
-          "zOrder": 178,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4645,7 +4641,7 @@
           "width": 96,
           "x": 672,
           "y": 3552,
-          "zOrder": 146,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4662,7 +4658,7 @@
           "width": 96,
           "x": -736,
           "y": 3008,
-          "zOrder": 146,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4679,7 +4675,7 @@
           "width": 96,
           "x": -992,
           "y": 2784,
-          "zOrder": 146,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4696,7 +4692,7 @@
           "width": 256,
           "x": -288,
           "y": 3104,
-          "zOrder": 177,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4713,7 +4709,7 @@
           "width": 96,
           "x": -288,
           "y": 3008,
-          "zOrder": 146,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4730,7 +4726,7 @@
           "width": 96,
           "x": -1184,
           "y": 3536,
-          "zOrder": 180,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4747,7 +4743,7 @@
           "width": 109,
           "x": 896,
           "y": 2726,
-          "zOrder": 181,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4763,7 +4759,7 @@
           "width": 0,
           "x": -1536,
           "y": 3264,
-          "zOrder": 106,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4779,7 +4775,7 @@
           "width": 0,
           "x": -1536,
           "y": 3392,
-          "zOrder": 105,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4795,7 +4791,7 @@
           "width": 0,
           "x": -1536,
           "y": 3136,
-          "zOrder": 107,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4811,7 +4807,7 @@
           "width": 0,
           "x": -1536,
           "y": 3008,
-          "zOrder": 108,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4827,7 +4823,7 @@
           "width": 0,
           "x": -1536,
           "y": 2880,
-          "zOrder": 109,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4843,7 +4839,7 @@
           "width": 0,
           "x": -1536,
           "y": 2752,
-          "zOrder": 110,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4859,7 +4855,7 @@
           "width": 0,
           "x": -1536,
           "y": 2624,
-          "zOrder": 111,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4875,7 +4871,7 @@
           "width": 0,
           "x": -1536,
           "y": 2496,
-          "zOrder": 112,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4891,7 +4887,7 @@
           "width": 0,
           "x": -1536,
           "y": 2368,
-          "zOrder": 113,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4907,7 +4903,7 @@
           "width": 0,
           "x": -1536,
           "y": 2240,
-          "zOrder": 114,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4923,7 +4919,7 @@
           "width": 0,
           "x": -1536,
           "y": 2112,
-          "zOrder": 115,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4939,7 +4935,7 @@
           "width": 0,
           "x": -1536,
           "y": 1984,
-          "zOrder": 116,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4955,7 +4951,7 @@
           "width": 0,
           "x": -1536,
           "y": 3520,
-          "zOrder": 104,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4971,7 +4967,7 @@
           "width": 0,
           "x": 1716,
           "y": 3264,
-          "zOrder": 106,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4987,7 +4983,7 @@
           "width": 0,
           "x": 1716,
           "y": 3392,
-          "zOrder": 105,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5003,7 +4999,7 @@
           "width": 0,
           "x": 1716,
           "y": 3136,
-          "zOrder": 107,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5019,7 +5015,7 @@
           "width": 0,
           "x": 1716,
           "y": 3008,
-          "zOrder": 108,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5035,7 +5031,7 @@
           "width": 0,
           "x": 1716,
           "y": 2880,
-          "zOrder": 109,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5051,7 +5047,7 @@
           "width": 0,
           "x": 1716,
           "y": 2752,
-          "zOrder": 110,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5067,7 +5063,7 @@
           "width": 0,
           "x": 1716,
           "y": 2624,
-          "zOrder": 111,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5083,7 +5079,7 @@
           "width": 0,
           "x": 1716,
           "y": 2496,
-          "zOrder": 112,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5099,7 +5095,7 @@
           "width": 0,
           "x": 1716,
           "y": 2368,
-          "zOrder": 113,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5115,7 +5111,7 @@
           "width": 0,
           "x": 1716,
           "y": 2240,
-          "zOrder": 114,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5131,7 +5127,7 @@
           "width": 0,
           "x": 1716,
           "y": 2112,
-          "zOrder": 115,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5146,8 +5142,8 @@
           "persistentUuid": "942a1e07-a8df-42fa-8dbd-cebf5d0ee93c",
           "width": 0,
           "x": 1716,
-          "y": 1984,
-          "zOrder": 116,
+          "y": 1908,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5163,7 +5159,7 @@
           "width": 0,
           "x": 1716,
           "y": 3520,
-          "zOrder": 104,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5179,7 +5175,7 @@
           "width": 0,
           "x": -1260,
           "y": 1843,
-          "zOrder": 106,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5195,7 +5191,7 @@
           "width": 0,
           "x": -1388,
           "y": 1843,
-          "zOrder": 105,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5211,7 +5207,7 @@
           "width": 0,
           "x": -1132,
           "y": 1842,
-          "zOrder": 107,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5227,7 +5223,7 @@
           "width": 0,
           "x": -1004,
           "y": 1842,
-          "zOrder": 108,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5243,7 +5239,7 @@
           "width": 0,
           "x": -876,
           "y": 1841,
-          "zOrder": 109,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5259,7 +5255,7 @@
           "width": 0,
           "x": -748,
           "y": 1841,
-          "zOrder": 110,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5275,7 +5271,7 @@
           "width": 0,
           "x": -620,
           "y": 1841,
-          "zOrder": 111,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5291,7 +5287,7 @@
           "width": 0,
           "x": -492,
           "y": 1840,
-          "zOrder": 112,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5307,7 +5303,7 @@
           "width": 0,
           "x": -364,
           "y": 1840,
-          "zOrder": 113,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5323,7 +5319,7 @@
           "width": 0,
           "x": -236,
           "y": 1839,
-          "zOrder": 114,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5339,7 +5335,7 @@
           "width": 0,
           "x": -108,
           "y": 1839,
-          "zOrder": 115,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5355,7 +5351,7 @@
           "width": 0,
           "x": 20,
           "y": 1838,
-          "zOrder": 116,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5371,7 +5367,7 @@
           "width": 0,
           "x": -1536,
           "y": 1844,
-          "zOrder": 104,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5387,7 +5383,7 @@
           "width": 0,
           "x": 180,
           "y": 1844,
-          "zOrder": 104,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5403,7 +5399,7 @@
           "width": 0,
           "x": -1516,
           "y": 1844,
-          "zOrder": 104,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5420,7 +5416,7 @@
           "width": 96,
           "x": 1024,
           "y": 3552,
-          "zOrder": 146,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5437,7 +5433,7 @@
           "width": 96,
           "x": 1504,
           "y": 3552,
-          "zOrder": 146,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5454,7 +5450,7 @@
           "width": 96,
           "x": 1344,
           "y": 3552,
-          "zOrder": 146,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5471,7 +5467,7 @@
           "width": 96,
           "x": 864,
           "y": 3552,
-          "zOrder": 146,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5488,7 +5484,7 @@
           "width": 96,
           "x": 1184,
           "y": 3552,
-          "zOrder": 146,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5505,7 +5501,7 @@
           "width": 96,
           "x": 64,
           "y": 2784,
-          "zOrder": 146,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5522,7 +5518,7 @@
           "width": 109,
           "x": 4051,
           "y": 3485,
-          "zOrder": 188,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5530,16 +5526,16 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 8,
-          "height": 256,
+          "depth": 6,
+          "height": 192,
           "keepRatio": true,
           "layer": "",
           "name": "Necromancer",
           "persistentUuid": "2d37f39d-7c60-4efa-afbb-9fa60413c259",
-          "width": 256,
-          "x": 5248,
-          "y": 3360,
-          "zOrder": 189,
+          "width": 192,
+          "x": 5664,
+          "y": 3456,
+          "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5556,7 +5552,7 @@
           "width": 6048,
           "x": -2592,
           "y": 704,
-          "zOrder": 100,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5587,9 +5583,9 @@
           "name": "TUTORIAL",
           "persistentUuid": "ec0e4cb0-87f4-43ad-bdaf-ce526683fc7f",
           "width": 0,
-          "x": -1856,
-          "y": 105,
-          "zOrder": 190,
+          "x": -1696,
+          "y": 256,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5623,7 +5619,7 @@
           "width": 3400,
           "x": -1533,
           "y": 3648,
-          "zOrder": 191,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5640,7 +5636,23 @@
           "width": 3400,
           "x": 3706,
           "y": 3645,
-          "zOrder": 191,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "RedFlatBar2",
+          "persistentUuid": "54d1fbfd-3385-4f90-a635-eb320aa3dd26",
+          "width": 0,
+          "x": 5632,
+          "y": 3392,
+          "zOrder": 22,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5648,16 +5660,83 @@
         {
           "angle": 0,
           "customSize": true,
-          "depth": 3,
-          "height": 96,
+          "depth": 1,
+          "height": 288,
           "keepRatio": true,
           "layer": "",
-          "name": "Necromancer",
-          "persistentUuid": "01aee04e-27ee-4c3d-b83f-c2605cb43e38",
-          "width": 96,
-          "x": -768,
+          "name": "Barreira",
+          "persistentUuid": "d68632de-2bbb-4cd9-bede-0fe348bd3ab8",
+          "width": 288,
+          "x": 2592,
+          "y": 416,
+          "zOrder": 23,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 224,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Barreira2",
+          "persistentUuid": "038793f1-ca24-4b1b-a67c-bbf6abf02dca",
+          "width": 64,
+          "x": 1024,
+          "y": 352,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 95,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Diego2",
+          "persistentUuid": "782c165c-9cb1-4a65-91a7-331773a0e99b",
+          "width": 64,
+          "x": -1856,
           "y": 608,
-          "zOrder": 192,
+          "zOrder": 25,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 4,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "SilverKey",
+          "persistentUuid": "e0d74b0d-39a5-41e5-b9ea-4c82fa738bcc",
+          "width": 64,
+          "x": 768,
+          "y": 2496,
+          "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "IndustrialBlock3",
+          "persistentUuid": "28dc1beb-75c7-420d-9f8c-94c1fd13ab7b",
+          "width": 0,
+          "x": 1716,
+          "y": 1984,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -5797,13 +5876,13 @@
               "UpwardSpeed": 0.9,
               "DownwardSpeed": 0.9,
               "FollowOnX": true,
-              "FollowOnY": false,
+              "FollowOnY": true,
               "FollowFreeAreaLeft": 0,
               "FollowFreeAreaRight": 0,
               "FollowFreeAreaTop": 0,
               "FollowFreeAreaBottom": 0,
               "CameraOffsetX": 0,
-              "CameraOffsetY": 0,
+              "CameraOffsetY": -200,
               "CameraDelay": 0,
               "ForecastTime": 0,
               "ForecastHistoryDuration": 0,
@@ -10504,10 +10583,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ]
@@ -10842,7 +10921,7 @@
           ]
         },
         {
-          "adaptCollisionMaskAutomatically": true,
+          "adaptCollisionMaskAutomatically": false,
           "assetStoreId": "644d736a622ffccc3c6e8b3e16851f41f9fe017d8a1be06f5ab060de3028f015",
           "name": "LockClosed",
           "type": "Sprite",
@@ -13754,7 +13833,7 @@
           "string": "Para andar aperte as setas direcionais do teclado \n\nPara pular aperte a teclar espaço\n\nPara atirar aperte a letra Z\n\nPara soltar bomba letra F\n\nPara agachar letra C\n\nPara o dash letra X",
           "font": "",
           "textAlignment": "left",
-          "characterSize": 30,
+          "characterSize": 25,
           "color": {
             "b": 0,
             "g": 236,
@@ -13777,7 +13856,7 @@
             "text": "Para andar aperte as setas direcionais do teclado \n\nPara pular aperte a teclar espaço\n\nPara atirar aperte a letra Z\n\nPara soltar bomba letra F\n\nPara agachar letra C\n\nPara o dash letra X",
             "font": "",
             "textAlignment": "left",
-            "characterSize": 30,
+            "characterSize": 25,
             "color": "255;236;0"
           }
         },
@@ -13835,6 +13914,159 @@
                           }
                         ]
                       ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "FundoTerra",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Barreira",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [
+            {
+              "name": "Platform",
+              "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
+              "yGrabOffset": 0
+            }
+          ],
+          "animations": [
+            {
+              "name": "NewSprite2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Barreira2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": false,
+                      "image": "NewSprite6",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
                     }
                   ]
                 }
@@ -13960,6 +14192,9 @@
             "folderName": "Background",
             "children": [
               {
+                "objectName": "FundoTerra"
+              },
+              {
                 "objectName": "paredeCasa"
               },
               {
@@ -14040,6 +14275,12 @@
                 "objectName": "MergedFullBackground"
               }
             ]
+          },
+          {
+            "objectName": "Barreira"
+          },
+          {
+            "objectName": "Barreira2"
           }
         ]
       },
@@ -15374,7 +15615,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Boss",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -15512,553 +15752,569 @@
               ]
             },
             {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "folded": true,
-              "name": "Movimentação",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "PosY"
-                      },
-                      "parameters": [
-                        "Necromancer",
-                        ">=",
-                        "162"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetBooleanVariable"
-                      },
-                      "parameters": [
-                        "Ataque",
-                        "False",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "AddForceXY"
-                      },
-                      "parameters": [
-                        "Necromancer",
-                        "0",
-                        "-100",
-                        "0"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "PosY"
-                      },
-                      "parameters": [
-                        "Necromancer",
-                        "<=",
-                        "162"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetBooleanVariable"
-                      },
-                      "parameters": [
-                        "Ataque",
-                        "True",
-                        ""
-                      ]
-                    }
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "Chefao",
+                    "True",
+                    ""
                   ]
                 }
               ],
-              "parameters": []
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "folded": true,
-              "name": "Ataque",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
+              "actions": [],
               "events": [
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
+                  "colorB": 228,
+                  "colorG": 176,
+                  "colorR": 74,
+                  "creationTime": 0,
+                  "folded": true,
+                  "name": "Movimentação",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
+                  "events": [
                     {
-                      "type": {
-                        "value": "BooleanVariable"
-                      },
-                      "parameters": [
-                        "Ataque",
-                        "True",
-                        ""
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "PosY"
+                          },
+                          "parameters": [
+                            "Necromancer",
+                            ">",
+                            "3200"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetBooleanVariable"
+                          },
+                          "parameters": [
+                            "Ataque",
+                            "False",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AddForceXY"
+                          },
+                          "parameters": [
+                            "Necromancer",
+                            "0",
+                            "-100",
+                            "0"
+                          ]
+                        }
                       ]
                     },
                     {
-                      "type": {
-                        "value": "CompareTimer"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Magia\"",
-                        ">=",
-                        "2"
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "PosY"
+                          },
+                          "parameters": [
+                            "Necromancer",
+                            "<=",
+                            "3200"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetBooleanVariable"
+                          },
+                          "parameters": [
+                            "Ataque",
+                            "True",
+                            ""
+                          ]
+                        }
                       ]
                     }
                   ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Create"
-                      },
-                      "parameters": [
-                        "",
-                        "BlueFlame",
-                        "Necromancer.X()+40",
-                        "Necromancer.Y()+180",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ResetTimer"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Magia\""
-                      ]
-                    }
-                  ]
+                  "parameters": []
                 },
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
+                  "colorB": 228,
+                  "colorG": 176,
+                  "colorR": 74,
+                  "creationTime": 0,
+                  "folded": true,
+                  "name": "Ataque",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
+                  "events": [
                     {
-                      "type": {
-                        "value": "CenterY"
-                      },
-                      "parameters": [
-                        "BlueFlame",
-                        ">",
-                        "SceneWindowHeight()+20"
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "BooleanVariable"
+                          },
+                          "parameters": [
+                            "Ataque",
+                            "True",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "CompareTimer"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Magia\"",
+                            ">=",
+                            "2"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Create"
+                          },
+                          "parameters": [
+                            "",
+                            "BlueFlame",
+                            "Necromancer.X()+40",
+                            "Necromancer.Y()+180",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ResetTimer"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Magia\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CenterY"
+                          },
+                          "parameters": [
+                            "BlueFlame",
+                            ">",
+                            "3645"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "BlueFlame",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "BlueFlame",
+                            "Diego2",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Health::Health::Hit"
+                          },
+                          "parameters": [
+                            "Diego2",
+                            "Health",
+                            "4",
+                            "",
+                            "",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "BlueFlame",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "BooleanVariable"
+                          },
+                          "parameters": [
+                            "Ataque",
+                            "True",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "CompareTimer"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Inimigos\"",
+                            ">=",
+                            "5"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Create"
+                          },
+                          "parameters": [
+                            "",
+                            "Ogre",
+                            "RandomInRange(4584,6312)",
+                            "3648",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ResetTimer"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Inimigos\""
+                          ]
+                        }
                       ]
                     }
                   ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Delete"
-                      },
-                      "parameters": [
-                        "BlueFlame",
-                        ""
-                      ]
-                    }
-                  ]
+                  "parameters": []
                 },
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
+                  "colorB": 228,
+                  "colorG": 176,
+                  "colorR": 74,
+                  "creationTime": 0,
+                  "name": "Dano",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
+                  "events": [
                     {
-                      "type": {
-                        "value": "CollisionNP"
-                      },
-                      "parameters": [
-                        "BlueFlame",
-                        "Diego2",
-                        "",
-                        "",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Health::Health::Hit"
-                      },
-                      "parameters": [
-                        "Diego2",
-                        "Health",
-                        "4",
-                        "",
-                        "",
-                        ""
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Necromancer",
+                            "Fireball",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Health::Health::Hit"
+                          },
+                          "parameters": [
+                            "Necromancer",
+                            "Health",
+                            "1",
+                            "",
+                            "",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "Fireball",
+                            ""
+                          ]
+                        }
                       ]
                     },
                     {
-                      "type": {
-                        "value": "Delete"
-                      },
-                      "parameters": [
-                        "BlueFlame",
-                        ""
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "Health::Health::IsJustDamaged"
+                          },
+                          "parameters": [
+                            "Necromancer",
+                            "Health",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Flash::Flash::Flash"
+                          },
+                          "parameters": [
+                            "Necromancer",
+                            "Flash",
+                            "0.4",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "Health::Health::IsDead"
+                          },
+                          "parameters": [
+                            "Necromancer",
+                            "Health",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Create"
+                          },
+                          "parameters": [
+                            "",
+                            "BlueExplosion",
+                            "Necromancer.X()",
+                            "Necromancer.Y()",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Create"
+                          },
+                          "parameters": [
+                            "",
+                            "BlueExplosion",
+                            "Necromancer.X()",
+                            "Necromancer.Y()",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Arreter"
+                          },
+                          "parameters": [
+                            "Necromancer"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "Necromancer",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Wait"
+                          },
+                          "parameters": [
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "BlueExplosion",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Create"
+                          },
+                          "parameters": [
+                            "",
+                            "GoldKey",
+                            "Necromancer.X()",
+                            "Necromancer.Y()",
+                            ""
+                          ]
+                        }
                       ]
                     }
-                  ]
+                  ],
+                  "parameters": []
                 },
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
+                  "colorB": 228,
+                  "colorG": 176,
+                  "colorR": 74,
+                  "creationTime": 0,
+                  "name": "Drop",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
+                  "events": [
                     {
-                      "type": {
-                        "value": "BooleanVariable"
-                      },
-                      "parameters": [
-                        "Ataque",
-                        "True",
-                        ""
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "GoldKey",
+                            "GraveyardTilePlatformCenter",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetBooleanVariable"
+                          },
+                          "parameters": [
+                            "Ataque",
+                            "False",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Arreter"
+                          },
+                          "parameters": [
+                            "GoldKey"
+                          ]
+                        }
                       ]
                     },
                     {
-                      "type": {
-                        "value": "CompareTimer"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Inimigos\"",
-                        ">=",
-                        "5"
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "GoldKey",
+                            "Diego2",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "SetBooleanVariable"
+                          },
+                          "parameters": [
+                            "Key1",
+                            "True",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Montre"
+                          },
+                          "parameters": [
+                            "GoldKey2",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Montre"
+                          },
+                          "parameters": [
+                            "KeyTXT",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "GoldKey",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "MettreXY"
+                          },
+                          "parameters": [
+                            "Diego2",
+                            "=",
+                            "Door4.X() - 150",
+                            "=",
+                            "Door4.Y()"
+                          ]
+                        }
                       ]
                     }
                   ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Create"
-                      },
-                      "parameters": [
-                        "",
-                        "Ogre",
-                        "RandomInRange(0,1184)",
-                        "705",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ResetTimer"
-                      },
-                      "parameters": [
-                        "",
-                        "\"Inimigos\""
-                      ]
-                    }
-                  ]
+                  "parameters": []
                 }
-              ],
-              "parameters": []
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "folded": true,
-              "name": "Dano",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CollisionNP"
-                      },
-                      "parameters": [
-                        "Necromancer",
-                        "Fireball",
-                        "",
-                        "",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Health::Health::Hit"
-                      },
-                      "parameters": [
-                        "Necromancer",
-                        "Health",
-                        "1",
-                        "",
-                        "",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Delete"
-                      },
-                      "parameters": [
-                        "Fireball",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "Health::Health::IsJustDamaged"
-                      },
-                      "parameters": [
-                        "Necromancer",
-                        "Health",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Flash::Flash::Flash"
-                      },
-                      "parameters": [
-                        "Necromancer",
-                        "Flash",
-                        "0.4",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "Health::Health::IsDead"
-                      },
-                      "parameters": [
-                        "Necromancer",
-                        "Health",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::Once"
-                      },
-                      "parameters": []
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Create"
-                      },
-                      "parameters": [
-                        "",
-                        "BlueExplosion",
-                        "Necromancer.X()",
-                        "Necromancer.Y()",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Create"
-                      },
-                      "parameters": [
-                        "",
-                        "BlueExplosion",
-                        "Necromancer.X()",
-                        "Necromancer.Y()",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Arreter"
-                      },
-                      "parameters": [
-                        "Necromancer"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Delete"
-                      },
-                      "parameters": [
-                        "Necromancer",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Wait"
-                      },
-                      "parameters": [
-                        "1"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Delete"
-                      },
-                      "parameters": [
-                        "BlueExplosion",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Create"
-                      },
-                      "parameters": [
-                        "",
-                        "GoldKey",
-                        "Necromancer.X()",
-                        "Necromancer.Y()",
-                        ""
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": []
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "folded": true,
-              "name": "Drop",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CollisionNP"
-                      },
-                      "parameters": [
-                        "GoldKey",
-                        "GraveyardTilePlatformCenter",
-                        "",
-                        "",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetBooleanVariable"
-                      },
-                      "parameters": [
-                        "Ataque",
-                        "False",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Arreter"
-                      },
-                      "parameters": [
-                        "GoldKey"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CollisionNP"
-                      },
-                      "parameters": [
-                        "GoldKey",
-                        "Diego2",
-                        "",
-                        "",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetBooleanVariable"
-                      },
-                      "parameters": [
-                        "Key1",
-                        "True",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Montre"
-                      },
-                      "parameters": [
-                        "GoldKey2",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Montre"
-                      },
-                      "parameters": [
-                        "KeyTXT",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Delete"
-                      },
-                      "parameters": [
-                        "GoldKey",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "MettreXY"
-                      },
-                      "parameters": [
-                        "Diego2",
-                        "=",
-                        "colisor1.X()",
-                        "=",
-                        "colisor1.Y()"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": []
+              ]
             }
           ],
           "parameters": []
@@ -16106,8 +16362,163 @@
             },
             {
               "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": []
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Diego2",
+                    "SilverKey",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "SilverKey",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "KeyTXT2",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "SilverKey2",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SetBooleanVariable"
+                  },
+                  "parameters": [
+                    "Key2",
+                    "True",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "Fase Boos",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "ScalableCapability::ScalableBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "LockOpen",
+                        "Scale",
+                        "=",
+                        "5"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Diego2",
+                        "LockClosed",
+                        "80",
+                        "",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanVariable"
+                      },
+                      "parameters": [
+                        "Key2",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Create"
+                      },
+                      "parameters": [
+                        "",
+                        "LockOpen",
+                        "LockClosed.X()",
+                        "LockClosed.Y()",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "LockClosed",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "Barreira2",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Cache"
+                      },
+                      "parameters": [
+                        "KeyTXT2"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Cache"
+                      },
+                      "parameters": [
+                        "SilverKey2"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
             }
           ],
           "parameters": []
@@ -16117,10 +16528,154 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Colision doors",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
-          "events": [],
+          "events": [
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "folded": true,
+              "name": "Door 1",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Diego2",
+                        "Door",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "Diego2",
+                        "=",
+                        "Door2.X()",
+                        "=",
+                        "Door2.Y()"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "folded": true,
+              "name": "Door 3",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Diego2",
+                        "Door3",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "Diego2",
+                        "=",
+                        "Door.X()-100",
+                        "=",
+                        "Door.Y()"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "folded": true,
+              "name": "Door 4",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Diego2",
+                        "Door4",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "MettreXY"
+                      },
+                      "parameters": [
+                        "Diego2",
+                        "=",
+                        "Door5.X()",
+                        "=",
+                        "Door5.Y()"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "Chefao",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            }
+          ],
           "parameters": []
         },
         {
@@ -16128,10 +16683,279 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Final",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
-          "events": [],
+          "events": [
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "Key2",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Diego2",
+                        "SilverKey",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Delete"
+                      },
+                      "parameters": [
+                        "SilverKey",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Montre"
+                      },
+                      "parameters": [
+                        "KeyTXT2",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "Montre"
+                      },
+                      "parameters": [
+                        "SilverKey2",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "Key2",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "colorB": 228,
+                  "colorG": 176,
+                  "colorR": 74,
+                  "creationTime": 0,
+                  "name": "Fase Final",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ScalableCapability::ScalableBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "LockOpen",
+                            "Scale",
+                            "=",
+                            "5"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Diego2",
+                            "LockClosed2",
+                            "80",
+                            "",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BooleanVariable"
+                          },
+                          "parameters": [
+                            "Key1",
+                            "True",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Create"
+                          },
+                          "parameters": [
+                            "",
+                            "LockOpen2",
+                            "LockClosed2.X()",
+                            "LockClosed2.Y()",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "LockClosed2",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "Barreira",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Cache"
+                          },
+                          "parameters": [
+                            "KeyTXT"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Cache"
+                          },
+                          "parameters": [
+                            "GoldKey2"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Diego2",
+                            "Portal",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Scene"
+                          },
+                          "parameters": [
+                            "",
+                            "\"Fim\"",
+                            ""
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "parameters": []
+                }
+              ],
+              "parameters": []
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Dev",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "p"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Health::Health::Heal"
+                  },
+                  "parameters": [
+                    "Diego2",
+                    "Health",
+                    "1000",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "o"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Health::Health::Heal"
+                  },
+                  "parameters": [
+                    "Necromancer",
+                    "Health",
+                    "1",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ],
           "parameters": []
         }
       ],
@@ -16311,7 +17135,19 @@
       "stopSoundsOnStartup": true,
       "title": "",
       "v": 209,
-      "uiSettings": {},
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.546875,
+        "windowMask": false
+      },
       "objectsGroups": [],
       "variables": [],
       "instances": [],
