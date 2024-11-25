@@ -444,7 +444,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.43357743047023745,
+        "zoomFactor": 0.7130377630690399,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -1693,9 +1693,9 @@
               "PercentDamageReduction": 0
             },
             {
-              "ignoreDefaultControls": true,
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "ignoreDefaultControls": true,
               "acceleration": 1500,
               "canGoDownFromJumpthru": true,
               "canGrabPlatforms": false,
@@ -2989,7 +2989,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Sukuna",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -3662,7 +3661,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Gojo",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",

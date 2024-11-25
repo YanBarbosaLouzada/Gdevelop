@@ -2147,6 +2147,17 @@
       "name": "LevelWalk",
       "type": "number",
       "value": 0
+    },
+    {
+      "folded": true,
+      "name": "ParaCima",
+      "type": "boolean",
+      "value": false
+    },
+    {
+      "name": "ParaBaixo",
+      "type": "boolean",
+      "value": false
     }
   ],
   "layouts": [
@@ -6457,7 +6468,7 @@
         "gridColor": 10197915,
         "gridAlpha": 0.33,
         "snap": true,
-        "zoomFactor": 0.4335774304702474,
+        "zoomFactor": 0.367325754505891,
         "windowMask": false
       },
       "objectsGroups": [
@@ -6603,7 +6614,7 @@
           "layer": "",
           "name": "SummerTilePlatformCenter",
           "persistentUuid": "97540dfa-5da4-44a2-9330-498900b6bb2b",
-          "width": 392,
+          "width": 384,
           "x": 0,
           "y": 290,
           "zOrder": 100,
@@ -6664,13 +6675,13 @@
           "angle": 0,
           "customSize": true,
           "depth": 3,
-          "height": 129,
+          "height": 127,
           "keepRatio": true,
           "layer": "",
           "name": "WoodPlatform",
           "persistentUuid": "bf087979-5c15-4b53-9a95-c92e4d3316e3",
           "width": 160,
-          "x": 389,
+          "x": 384,
           "y": 288,
           "zOrder": 100,
           "numberProperties": [],
@@ -6715,14 +6726,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 334,
+          "height": 367,
           "keepRatio": true,
           "layer": "",
           "name": "GrassAndTreeBackground",
           "persistentUuid": "3d620011-677a-4e74-9ed0-88fe62dbf25a",
           "width": 1283,
           "x": 0,
-          "y": 1,
+          "y": -32,
           "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
@@ -12166,6 +12177,67 @@
           "effects": [],
           "behaviors": [],
           "animations": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "ColisorStop",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite2",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite5",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -12261,6 +12333,9 @@
               },
               {
                 "objectName": "ColisorFerro"
+              },
+              {
+                "objectName": "ColisorStop"
               }
             ]
           },

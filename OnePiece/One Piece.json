@@ -7415,7 +7415,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.6040838749988877,
+        "zoomFactor": 0.49508400737488956,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -7773,7 +7773,13 @@
           }
         ]
       },
-      "events": [],
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [],
+          "actions": []
+        }
+      ],
       "layers": [
         {
           "ambientLightColorB": 200,
