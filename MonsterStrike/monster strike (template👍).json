@@ -2340,6 +2340,259 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Pixel Platformer Pack/Building/25a026f33b5e093c8924530e3c5d5cb269192d57720b1ae766d8350f1d1f5667_House.png",
           "name": "House.png"
         }
+      },
+      {
+        "file": "Warrior's_Honor.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Warrior's_Honor.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Run_07.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "546e566e901b227dff7e6320efe0d3a95a9706ee7e019702895ecc09da114501_Run_07.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/SoundEffects/Nox Footsteps/Grass/Run/546e566e901b227dff7e6320efe0d3a95a9706ee7e019702895ecc09da114501_Run_07.wav",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Gun 5.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "11eced6b87fafec1d0cd90f71213fb28910ebd8e05a614bdbd44a1040f876472_Gun 5.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Sound/11eced6b87fafec1d0cd90f71213fb28910ebd8e05a614bdbd44a1040f876472_Gun 5.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/No Ammo.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "b269d9a0a2e04d9b928d91cf538a30732681a119260676abf93ccb8e001bee8e_No Ammo.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Sound/b269d9a0a2e04d9b928d91cf538a30732681a119260676abf93ccb8e001bee8e_No Ammo.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Reload.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "308f50057e3ab8cf188991c0f789c61641675f0cde46a94c0343d30e2db99f00_Reload.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Sound/308f50057e3ab8cf188991c0f789c61641675f0cde46a94c0343d30e2db99f00_Reload.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Shield up effect.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "313139735e7db9a445f119f9eacfd9b87b589758d74d586b59acb1fd11fb6f3b_Shield up effect.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Space Shooter/313139735e7db9a445f119f9eacfd9b87b589758d74d586b59acb1fd11fb6f3b_Shield up effect.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Death.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "95fe7f6a064b3e17dce2774ad92cee83f877d2d6dda1cd16d79b876ca572911c_Death.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Space Shooter by Pixel boy/Sound/95fe7f6a064b3e17dce2774ad92cee83f877d2d6dda1cd16d79b876ca572911c_Death.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Explosion 3.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "3f85124583aa66e58db8c5fee9196cec591107e3ec0d6ccb5b03062d25c087e1_Explosion 3.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Arcade/Sound effects/Explosions/3f85124583aa66e58db8c5fee9196cec591107e3ec0d6ccb5b03062d25c087e1_Explosion 3.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Arrow.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "3bd7554e8249d64b0e2b62bbef263214ed7a0dffca63a3b55b3a9a9b5256e203_Arrow.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Sound/3bd7554e8249d64b0e2b62bbef263214ed7a0dffca63a3b55b3a9a9b5256e203_Arrow.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Run_02.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "89861edef331b324f30593acea986999440a5eefa8d292cd207f2d980faed402_Run_02.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/SoundEffects/Nox Footsteps/DirtyGround/Run/89861edef331b324f30593acea986999440a5eefa8d292cd207f2d980faed402_Run_02.wav",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Jump_Land_02.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "ec3d1da8b19b50e56b58229ad2b42ae998f41666272c14372dfafd7571fe8451_Jump_Land_02.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/SoundEffects/Nox Footsteps/Grass/Jump/ec3d1da8b19b50e56b58229ad2b42ae998f41666272c14372dfafd7571fe8451_Jump_Land_02.wav",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Hit9.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "534f87043b664cbd8f8fb8af914d2453ec101b3f9313c020f6b04cd2762d0a47_Hit 8.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Arcade/Sound effects/Hit/534f87043b664cbd8f8fb8af914d2453ec101b3f9313c020f6b04cd2762d0a47_Hit 8.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Gold 1.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "97701ff6384d4127d73de32c166e50e4e65cf893c7f781956fe966f192812d0b_Gold 1.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Space Shooter by Pixel boy/Sound/97701ff6384d4127d73de32c166e50e4e65cf893c7f781956fe966f192812d0b_Gold 1.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/door.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "a0504f03501150f453bf2d3b3877abbcb96efd6296e366cc1cbf00c75220eb3b_door.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/GDevelop examples/Platformer/Audio/a0504f03501150f453bf2d3b3877abbcb96efd6296e366cc1cbf00c75220eb3b_door.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Epic Boss Battle.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "20cf126eb6af22a79ebdefaf678127a45db4f1ff5475504b1bdacab0078821d1_Epic Boss Battle.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Music/Epic Dramatic/20cf126eb6af22a79ebdefaf678127a45db4f1ff5475504b1bdacab0078821d1_Epic Boss Battle.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Final Step.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "3b0de12f6f195f26ba77b751eb7654f59fab583e829c9bafb9dc5e7d7f169a92_Final Step.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Music/Underscoring/3b0de12f6f195f26ba77b751eb7654f59fab583e829c9bafb9dc5e7d7f169a92_Final Step.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "Warrior's_Honor2.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Warrior's_Honor2.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite7.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite7",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/Run_06.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "3b99c639524503187dbd1c2504b484b55501a46ab633fc2908bc106e84490311_Run_06.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/SoundEffects/Nox Footsteps/Wood/Run/3b99c639524503187dbd1c2504b484b55501a46ab633fc2908bc106e84490311_Run_06.wav",
+          "name": "gdevelop-asset-store"
+        }
       }
     ],
     "resourceFolders": []
@@ -2426,7 +2679,7 @@
         "gridColor": 8289918,
         "gridAlpha": 0.17,
         "snap": true,
-        "zoomFactor": 0.20902556228336197,
+        "zoomFactor": 0.15002679255026255,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -2493,8 +2746,8 @@
           "name": "BigZombie",
           "persistentUuid": "1b46ed42-622c-4c00-a9c0-177406ff979f",
           "width": 96,
-          "x": -128,
-          "y": 433,
+          "x": -1312,
+          "y": 608,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -5639,22 +5892,6 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "TUTORIAL",
-          "persistentUuid": "ec0e4cb0-87f4-43ad-bdaf-ce526683fc7f",
-          "width": 0,
-          "x": -1696,
-          "y": 256,
-          "zOrder": 10,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
           "customSize": true,
           "depth": 1,
           "height": 1728,
@@ -5817,6 +6054,23 @@
           "x": -2624,
           "y": -544,
           "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 96,
+          "keepRatio": true,
+          "layer": "",
+          "name": "BigZombie",
+          "persistentUuid": "fe5a3b41-e91b-4557-889a-0dc96578c89f",
+          "width": 96,
+          "x": -128,
+          "y": 433,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -10924,10 +11178,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
@@ -14425,11 +14679,38 @@
       },
       "events": [
         {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PlaySoundCanal"
+              },
+              "parameters": [
+                "",
+                "Warrior's_Honor.mp3",
+                "100",
+                "yes",
+                "50",
+                "1"
+              ]
+            }
+          ]
+        },
+        {
           "colorB": 228,
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Personagem",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -14451,6 +14732,96 @@
               ],
               "actions": [],
               "events": [
+                {
+                  "colorB": 228,
+                  "colorG": 176,
+                  "colorR": 74,
+                  "creationTime": 0,
+                  "name": "Movimentação Sons",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                          },
+                          "parameters": [
+                            "Diego2",
+                            "PlatformerObject"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "PlatformBehavior::IsJumping"
+                          },
+                          "parameters": [
+                            "Diego2",
+                            "PlatformerObject"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "89861edef331b324f30593acea986999440a5eefa8d292cd207f2d980faed402_Run_02.wav",
+                            "no",
+                            "100",
+                            "1"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::IsJumping"
+                          },
+                          "parameters": [
+                            "Diego2",
+                            "PlatformerObject"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "ec3d1da8b19b50e56b58229ad2b42ae998f41666272c14372dfafd7571fe8451_Jump_Land_02.wav",
+                            "",
+                            "100",
+                            "1"
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "parameters": []
+                },
                 {
                   "colorB": 228,
                   "colorG": 176,
@@ -14483,6 +14854,18 @@
                             "Animation",
                             "=",
                             "\"dash\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "3bd7554e8249d64b0e2b62bbef263214ed7a0dffca63a3b55b3a9a9b5256e203_Arrow.aac",
+                            "",
+                            "15",
+                            "1"
                           ]
                         },
                         {
@@ -14675,6 +15058,18 @@
                                 "Diego2",
                                 "Animation"
                               ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "11eced6b87fafec1d0cd90f71213fb28910ebd8e05a614bdbd44a1040f876472_Gun 5.aac",
+                                "",
+                                "10",
+                                "1"
+                              ]
                             }
                           ]
                         },
@@ -14794,6 +15189,18 @@
                               "parameters": [
                                 "Diego2",
                                 "Animation"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "11eced6b87fafec1d0cd90f71213fb28910ebd8e05a614bdbd44a1040f876472_Gun 5.aac",
+                                "",
+                                "10",
+                                "1"
                               ]
                             }
                           ]
@@ -14916,6 +15323,18 @@
                               "parameters": [
                                 "Diego2",
                                 "Animation"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "11eced6b87fafec1d0cd90f71213fb28910ebd8e05a614bdbd44a1040f876472_Gun 5.aac",
+                                "",
+                                "10",
+                                "1"
                               ]
                             }
                           ]
@@ -15059,11 +15478,285 @@
                                 "=",
                                 "30"
                               ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "308f50057e3ab8cf188991c0f789c61641675f0cde46a94c0343d30e2db99f00_Reload.aac",
+                                "",
+                                "15",
+                                "1"
+                              ]
                             }
                           ]
                         }
                       ],
                       "parameters": []
+                    }
+                  ],
+                  "parameters": []
+                },
+                {
+                  "colorB": 228,
+                  "colorG": 176,
+                  "colorR": 74,
+                  "creationTime": 0,
+                  "name": "Bomba",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                          },
+                          "parameters": [
+                            "Diego2",
+                            "Flippable"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "Qtd_bomba",
+                            ">",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "KeyReleased"
+                          },
+                          "parameters": [
+                            "",
+                            "f"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "FireBullet::FireBullet::Fire"
+                          },
+                          "parameters": [
+                            "Diego2",
+                            "FireBullet",
+                            "Diego2.X() +  47",
+                            "Diego2.Y()+30",
+                            "Bomb",
+                            "-45",
+                            "800",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "Qtd_bomba",
+                            "-",
+                            "1"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                          },
+                          "parameters": [
+                            "Diego2",
+                            "Flippable"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "NumberVariable"
+                          },
+                          "parameters": [
+                            "Qtd_bomba",
+                            ">",
+                            "0"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "KeyReleased"
+                          },
+                          "parameters": [
+                            "",
+                            "f"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "FireBullet::FireBullet::Fire"
+                          },
+                          "parameters": [
+                            "Diego2",
+                            "FireBullet",
+                            "Diego2.X() +  47",
+                            "Diego2.Y()+30",
+                            "Bomb",
+                            "-135",
+                            "800",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "SetNumberVariable"
+                          },
+                          "parameters": [
+                            "Qtd_bomba",
+                            "-",
+                            "1"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Bomb",
+                            "GraveyardTilePlatformCenter",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Create"
+                          },
+                          "parameters": [
+                            "",
+                            "RedExplosion",
+                            "Bomb.X()",
+                            "Bomb.Y()",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "3f85124583aa66e58db8c5fee9196cec591107e3ec0d6ccb5b03062d25c087e1_Explosion 3.aac",
+                            "",
+                            "30",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "Bomb",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "RedExplosion",
+                            "Ogre",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Health::Health::Hit"
+                          },
+                          "parameters": [
+                            "Ogre",
+                            "Health",
+                            "3",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "AddForceXY"
+                          },
+                          "parameters": [
+                            "Bomb",
+                            "0",
+                            "30",
+                            "1"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "BombaTXT",
+                            "Text",
+                            "=",
+                            "ToString(Qtd_bomba)+\"x\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ScalableCapability::ScalableBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "Bomb",
+                            "Scale",
+                            "=",
+                            "2"
+                          ]
+                        }
+                      ]
                     }
                   ],
                   "parameters": []
@@ -15136,6 +15829,18 @@
                         },
                         {
                           "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "313139735e7db9a445f119f9eacfd9b87b589758d74d586b59acb1fd11fb6f3b_Shield up effect.aac",
+                            "",
+                            "15",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
                             "value": "Delete"
                           },
                           "parameters": [
@@ -15204,6 +15909,18 @@
                 },
                 {
                   "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "95fe7f6a064b3e17dce2774ad92cee83f877d2d6dda1cd16d79b876ca572911c_Death.aac",
+                    "",
+                    "30",
+                    "1"
+                  ]
+                },
+                {
+                  "type": {
                     "value": "Wait"
                   },
                   "parameters": [
@@ -15230,7 +15947,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Enemy",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -15543,6 +16259,12 @@
                         "",
                         ""
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
                     }
                   ],
                   "actions": [
@@ -15557,6 +16279,18 @@
                         "",
                         "",
                         ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "534f87043b664cbd8f8fb8af914d2453ec101b3f9313c020f6b04cd2762d0a47_Hit 8.aac",
+                        "",
+                        "100",
+                        "1"
                       ]
                     }
                   ]
@@ -15587,6 +16321,12 @@
                         "",
                         ""
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "BuiltinCommonInstructions::Once"
+                      },
+                      "parameters": []
                     }
                   ],
                   "actions": [
@@ -15602,6 +16342,18 @@
                         "",
                         ""
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "534f87043b664cbd8f8fb8af914d2453ec101b3f9313c020f6b04cd2762d0a47_Hit 8.aac",
+                        "",
+                        "100",
+                        "1"
+                      ]
                     }
                   ]
                 }
@@ -15616,7 +16368,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Points",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -15646,258 +16397,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
-          "name": "Bomba",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": true,
-                    "value": "FlippableCapability::FlippableBehavior::FlippedX"
-                  },
-                  "parameters": [
-                    "Diego2",
-                    "Flippable"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "NumberVariable"
-                  },
-                  "parameters": [
-                    "Qtd_bomba",
-                    ">",
-                    "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "KeyReleased"
-                  },
-                  "parameters": [
-                    "",
-                    "f"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "FireBullet::FireBullet::Fire"
-                  },
-                  "parameters": [
-                    "Diego2",
-                    "FireBullet",
-                    "Diego2.X() +  47",
-                    "Diego2.Y()+30",
-                    "Bomb",
-                    "-45",
-                    "800",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "Qtd_bomba",
-                    "-",
-                    "1"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "FlippableCapability::FlippableBehavior::FlippedX"
-                  },
-                  "parameters": [
-                    "Diego2",
-                    "Flippable"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "NumberVariable"
-                  },
-                  "parameters": [
-                    "Qtd_bomba",
-                    ">",
-                    "0"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "KeyReleased"
-                  },
-                  "parameters": [
-                    "",
-                    "f"
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "FireBullet::FireBullet::Fire"
-                  },
-                  "parameters": [
-                    "Diego2",
-                    "FireBullet",
-                    "Diego2.X() +  47",
-                    "Diego2.Y()+30",
-                    "Bomb",
-                    "-135",
-                    "800",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "Qtd_bomba",
-                    "-",
-                    "1"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "Bomb",
-                    "GraveyardTilePlatformCenter",
-                    "",
-                    "",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Create"
-                  },
-                  "parameters": [
-                    "",
-                    "RedExplosion",
-                    "Bomb.X()",
-                    "Bomb.Y()",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Delete"
-                  },
-                  "parameters": [
-                    "Bomb",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "RedExplosion",
-                    "Ogre",
-                    "",
-                    "",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "Health::Health::Hit"
-                  },
-                  "parameters": [
-                    "Ogre",
-                    "Health",
-                    "3",
-                    "",
-                    "",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "AddForceXY"
-                  },
-                  "parameters": [
-                    "Bomb",
-                    "0",
-                    "30",
-                    "1"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "BombaTXT",
-                    "Text",
-                    "=",
-                    "ToString(Qtd_bomba)+\"x\""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "ScalableCapability::ScalableBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "Bomb",
-                    "Scale",
-                    "=",
-                    "2"
-                  ]
-                }
-              ]
-            }
-          ],
-          "parameters": []
-        },
-        {
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "folded": true,
           "name": "Boss",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -16202,6 +16701,18 @@
                       "actions": [
                         {
                           "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "3f85124583aa66e58db8c5fee9196cec591107e3ec0d6ccb5b03062d25c087e1_Explosion 3.aac",
+                            "",
+                            "30",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
                             "value": "Delete"
                           },
                           "parameters": [
@@ -16225,6 +16736,12 @@
                             "",
                             ""
                           ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
                         }
                       ],
                       "actions": [
@@ -16239,6 +16756,18 @@
                             "",
                             "",
                             ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "534f87043b664cbd8f8fb8af914d2453ec101b3f9313c020f6b04cd2762d0a47_Hit 8.aac",
+                            "",
+                            "15",
+                            "1"
                           ]
                         },
                         {
@@ -16553,6 +17082,40 @@
                         },
                         {
                           "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "97701ff6384d4127d73de32c166e50e4e65cf893c7f781956fe966f192812d0b_Gold 1.aac",
+                            "",
+                            "15",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "StopSoundCanal"
+                          },
+                          "parameters": [
+                            "",
+                            "100"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlaySoundCanal"
+                          },
+                          "parameters": [
+                            "",
+                            "Warrior's_Honor2.mp3",
+                            "100",
+                            "",
+                            "50",
+                            "1"
+                          ]
+                        },
+                        {
+                          "type": {
                             "value": "Montre"
                           },
                           "parameters": [
@@ -16605,7 +17168,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Key2",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -16655,16 +17217,35 @@
                     "",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
                 {
                   "type": {
-                    "value": "Delete"
+                    "value": "SetBooleanVariable"
                   },
                   "parameters": [
-                    "SilverKey",
+                    "Key2",
+                    "True",
                     ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySound"
+                  },
+                  "parameters": [
+                    "",
+                    "97701ff6384d4127d73de32c166e50e4e65cf893c7f781956fe966f192812d0b_Gold 1.aac",
+                    "",
+                    "15",
+                    "1"
                   ]
                 },
                 {
@@ -16687,11 +17268,10 @@
                 },
                 {
                   "type": {
-                    "value": "SetBooleanVariable"
+                    "value": "Delete"
                   },
                   "parameters": [
-                    "Key2",
-                    "True",
+                    "SilverKey",
                     ""
                   ]
                 }
@@ -16809,7 +17389,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Colision doors",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -16851,6 +17430,18 @@
                         "=",
                         "Door2.Y()"
                       ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "3b99c639524503187dbd1c2504b484b55501a46ab633fc2908bc106e84490311_Run_06.wav",
+                        "",
+                        "100",
+                        "1"
+                      ]
                     }
                   ]
                 }
@@ -16890,9 +17481,21 @@
                       "parameters": [
                         "Diego2",
                         "=",
-                        "Door.X()-100",
+                        "Door.X()-250",
                         "=",
                         "Door.Y()"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "3b99c639524503187dbd1c2504b484b55501a46ab633fc2908bc106e84490311_Run_06.wav",
+                        "",
+                        "100",
+                        "1"
                       ]
                     }
                   ]
@@ -16940,6 +17543,40 @@
                     },
                     {
                       "type": {
+                        "value": "PlaySound"
+                      },
+                      "parameters": [
+                        "",
+                        "3b99c639524503187dbd1c2504b484b55501a46ab633fc2908bc106e84490311_Run_06.wav",
+                        "",
+                        "100",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "StopSoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "100"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlaySoundCanal"
+                      },
+                      "parameters": [
+                        "",
+                        "20cf126eb6af22a79ebdefaf678127a45db4f1ff5475504b1bdacab0078821d1_Epic Boss Battle.aac",
+                        "100",
+                        "",
+                        "25",
+                        "1"
+                      ]
+                    },
+                    {
+                      "type": {
                         "value": "SetBooleanVariable"
                       },
                       "parameters": [
@@ -16961,7 +17598,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Final",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -17175,7 +17811,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Dev",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -17426,7 +18061,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.3111974942445203,
+        "zoomFactor": 0.604083874998888,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -17475,7 +18110,7 @@
           "persistentUuid": "ddabcb1a-c357-4983-b83d-f1f89f38984e",
           "width": 0,
           "x": 512,
-          "y": 352,
+          "y": 288,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -17579,6 +18214,22 @@
           "x": 887,
           "y": 320,
           "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "OnScreenControlsButton3",
+          "persistentUuid": "77a506c0-3a05-4085-833d-840d6022f28a",
+          "width": 0,
+          "x": 512,
+          "y": 384,
+          "zOrder": 9,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -20395,6 +21046,89 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "26f7912e497fefccd32817a0c24533c9304633b47c6e556065dc498219877e81",
+          "name": "OnScreenControlsButton3",
+          "type": "PanelSpriteButton::PanelSpriteButton",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "LeftPadding": 0,
+            "RightPadding": 0,
+            "PressedLabelOffsetY": 1,
+            "BottomPadding": 0,
+            "TopPadding": 0,
+            "HoveredFadeOutDuration": 0.2
+          },
+          "childrenContent": {
+            "Hovered": {
+              "bottomMargin": 6,
+              "height": 64,
+              "leftMargin": 6,
+              "rightMargin": 6,
+              "texture": "On Screen Controls Button_Hovered.png",
+              "tiled": false,
+              "topMargin": 6,
+              "width": 192
+            },
+            "Idle": {
+              "bottomMargin": 6,
+              "height": 64,
+              "leftMargin": 6,
+              "rightMargin": 6,
+              "texture": "On Screen Controls Button_Idle.png",
+              "tiled": false,
+              "topMargin": 6,
+              "width": 192
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "Tutorial",
+              "font": "Roboto-Bold.ttf",
+              "textAlignment": "center",
+              "characterSize": 40,
+              "color": {
+                "b": 255,
+                "g": 255,
+                "r": 255
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Tutorial",
+                "font": "Roboto-Bold.ttf",
+                "textAlignment": "center",
+                "characterSize": 40,
+                "color": "255;255;255"
+              }
+            },
+            "Pressed": {
+              "bottomMargin": 6,
+              "height": 64,
+              "leftMargin": 6,
+              "rightMargin": 6,
+              "texture": "On Screen Controls Button_Pressed.png",
+              "tiled": false,
+              "topMargin": 6,
+              "width": 192
+            }
+          }
         }
       ],
       "objectsFolderStructure": {
@@ -20416,6 +21150,9 @@
             "objectName": "OnScreenControlsButton2"
           },
           {
+            "objectName": "OnScreenControlsButton3"
+          },
+          {
             "objectName": "TxtTITULO"
           },
           {
@@ -20430,6 +21167,32 @@
         ]
       },
       "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+              },
+              "parameters": [
+                "OnScreenControlsButton3",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Tutorial\"",
+                ""
+              ]
+            }
+          ]
+        },
         {
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
@@ -20561,6 +21324,3481 @@
     {
       "b": 209,
       "disableInputWhenNotFocused": true,
+      "mangledName": "Tutorial",
+      "name": "Tutorial",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": true,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": true,
+        "zoomFactor": 0.43357743047023767,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 96,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Diego",
+          "persistentUuid": "28c138ab-c54e-40df-9a27-0cef0dcb9554",
+          "width": 64,
+          "x": 352,
+          "y": 544,
+          "zOrder": 4,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 96,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Ogre",
+          "persistentUuid": "b1868a6b-8b48-4521-84c9-aceef22b1cd2",
+          "width": 96,
+          "x": 800,
+          "y": 544,
+          "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 96,
+          "keepRatio": true,
+          "layer": "",
+          "name": "BigZombie",
+          "persistentUuid": "0a552246-2770-4bdc-a31f-c3cfa4d4ff30",
+          "width": 96,
+          "x": 32,
+          "y": 544,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 800,
+          "keepRatio": true,
+          "layer": "",
+          "name": "MergedFullBackground",
+          "persistentUuid": "ec77451c-d5b9-464a-9738-12249ce3b9b4",
+          "width": 1376,
+          "x": -64,
+          "y": -64,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "GraveyardTilePlatformCenter",
+          "persistentUuid": "9542de2c-d9c9-48dc-a793-9d2ead8f6a39",
+          "width": 1344,
+          "x": -43,
+          "y": 640,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 5,
+          "height": 320,
+          "keepRatio": true,
+          "layer": "",
+          "name": "House",
+          "persistentUuid": "4b4c397a-eeee-4293-bf4e-47ba4e5aa473",
+          "width": 393,
+          "x": 887,
+          "y": 320,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 96,
+          "keepRatio": true,
+          "layer": "",
+          "name": "TxtTITULO",
+          "persistentUuid": "d68e5273-6f0e-4650-b110-3fedf4f36597",
+          "width": 427,
+          "x": 437,
+          "y": 32,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Tutorial",
+          "persistentUuid": "f66a22c6-60ad-4eed-b4f2-bdd4e61d2679",
+          "width": 0,
+          "x": 320,
+          "y": 160,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 576,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Fundo",
+          "persistentUuid": "18b4f5d7-59f1-47bd-adf0-d728e2866dfd",
+          "width": 768,
+          "x": 256,
+          "y": 32,
+          "zOrder": 0,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "OnScreenControlsButton4",
+          "persistentUuid": "a8b7ac99-7ff5-45d3-8802-4305a665be07",
+          "width": 0,
+          "x": 736,
+          "y": 352,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "174bbff152a60d7d2e85e03388e64d6bc1cd970e9acd34809b5b96ce1de72fb0",
+          "name": "Ogre",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.125,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Ogre_Idle_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 6
+                          },
+                          {
+                            "x": 26,
+                            "y": 6
+                          },
+                          {
+                            "x": 26,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Ogre_Idle_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 6
+                          },
+                          {
+                            "x": 26,
+                            "y": 6
+                          },
+                          {
+                            "x": 26,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Ogre_Idle_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 6
+                          },
+                          {
+                            "x": 26,
+                            "y": 6
+                          },
+                          {
+                            "x": 26,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Ogre_Idle_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 6
+                          },
+                          {
+                            "x": 26,
+                            "y": 6
+                          },
+                          {
+                            "x": 26,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Run",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.125,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Ogre_Run_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 6
+                          },
+                          {
+                            "x": 26,
+                            "y": 6
+                          },
+                          {
+                            "x": 26,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Ogre_Run_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 6
+                          },
+                          {
+                            "x": 26,
+                            "y": 6
+                          },
+                          {
+                            "x": 26,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Ogre_Run_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 6
+                          },
+                          {
+                            "x": 26,
+                            "y": 6
+                          },
+                          {
+                            "x": 26,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Ogre_Run_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 6,
+                            "y": 6
+                          },
+                          {
+                            "x": 26,
+                            "y": 6
+                          },
+                          {
+                            "x": 26,
+                            "y": 32
+                          },
+                          {
+                            "x": 6,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "b7cf20b0d1a4d926367febd992c9a02d6322ace0d4ef614492c127977fe5f7c3",
+          "name": "BigZombie",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.125,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Big Zombie_Idle_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 7,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 34
+                          },
+                          {
+                            "x": 7,
+                            "y": 34
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Big Zombie_Idle_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 7,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 34
+                          },
+                          {
+                            "x": 7,
+                            "y": 34
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Big Zombie_Idle_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 7,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 34
+                          },
+                          {
+                            "x": 7,
+                            "y": 34
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Big Zombie_Idle_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 7,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 34
+                          },
+                          {
+                            "x": 7,
+                            "y": 34
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Run",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.125,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Big Zombie_Run_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 7,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 34
+                          },
+                          {
+                            "x": 7,
+                            "y": 34
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Big Zombie_Run_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 7,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 34
+                          },
+                          {
+                            "x": 7,
+                            "y": 34
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Big Zombie_Run_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 7,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 34
+                          },
+                          {
+                            "x": 7,
+                            "y": 34
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Big Zombie_Run_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 7,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 7
+                          },
+                          {
+                            "x": 25,
+                            "y": 34
+                          },
+                          {
+                            "x": 7,
+                            "y": 34
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "0a5afd5f5960c8dee464bb239fc1e4198bc94935c86ebf21b3b3275300030de6",
+          "name": "Diego",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Idle",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.25,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Idle_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Idle_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Idle_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Idle_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Jump",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Jump.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Hurt",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Hurt.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Blink",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.3333,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Blink_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Blink_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Blink_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Crouching",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Crouching.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Reloading while crouching",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.1429,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Reloading while crouching_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Reloading while crouching_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Reloading while crouching_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Reloading while crouching_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Reloading while crouching_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Reloading while crouching_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Reloading while crouching_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Reloading while standing",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.1429,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Reloading while standing_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Reloading while standing_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Reloading while standing_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Reloading while standing_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Reloading while standing_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Reloading while standing_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Reloading while standing_7.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Running",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.1667,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Running_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Running_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Running_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Running_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Running_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Running_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Shooting while crouching",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.3333,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Shooting while crouching_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Shooting while crouching_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Shooting while crouching_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Shooting while jumping",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.3333,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Shooting while jumping_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Shooting while jumping_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Shooting while jumping_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Shooting while running",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.1667,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Shooting while running_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Shooting while running_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Shooting while running_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Shooting while running_4.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Shooting while running_5.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Shooting while running_6.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Shooting while standing",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.3333,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Shooting while standing_1.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Shooting while standing_2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    },
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Shooting while standing_3.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "Standing",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Diego_Standing.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 9
+                          },
+                          {
+                            "x": 30,
+                            "y": 48
+                          },
+                          {
+                            "x": 2,
+                            "y": 48
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "26f7912e497fefccd32817a0c24533c9304633b47c6e556065dc498219877e81",
+          "name": "OnScreenControlsButton",
+          "type": "PanelSpriteButton::PanelSpriteButton",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "LeftPadding": 0,
+            "RightPadding": 0,
+            "PressedLabelOffsetY": 1,
+            "BottomPadding": 0,
+            "TopPadding": 0,
+            "HoveredFadeOutDuration": 0.2
+          },
+          "childrenContent": {
+            "Hovered": {
+              "bottomMargin": 6,
+              "height": 64,
+              "leftMargin": 6,
+              "rightMargin": 6,
+              "texture": "On Screen Controls Button_Hovered.png",
+              "tiled": false,
+              "topMargin": 6,
+              "width": 192
+            },
+            "Idle": {
+              "bottomMargin": 6,
+              "height": 64,
+              "leftMargin": 6,
+              "rightMargin": 6,
+              "texture": "On Screen Controls Button_Idle.png",
+              "tiled": false,
+              "topMargin": 6,
+              "width": 192
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "Jogar",
+              "font": "Roboto-Bold.ttf",
+              "textAlignment": "center",
+              "characterSize": 40,
+              "color": {
+                "b": 255,
+                "g": 255,
+                "r": 255
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Jogar",
+                "font": "Roboto-Bold.ttf",
+                "textAlignment": "center",
+                "characterSize": 40,
+                "color": "255;255;255"
+              }
+            },
+            "Pressed": {
+              "bottomMargin": 6,
+              "height": 64,
+              "leftMargin": 6,
+              "rightMargin": 6,
+              "texture": "On Screen Controls Button_Pressed.png",
+              "tiled": false,
+              "topMargin": 6,
+              "width": 192
+            }
+          }
+        },
+        {
+          "assetStoreId": "26f7912e497fefccd32817a0c24533c9304633b47c6e556065dc498219877e81",
+          "name": "OnScreenControlsButton2",
+          "type": "PanelSpriteButton::PanelSpriteButton",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "LeftPadding": 0,
+            "RightPadding": 0,
+            "PressedLabelOffsetY": 1,
+            "BottomPadding": 0,
+            "TopPadding": 0,
+            "HoveredFadeOutDuration": 0.2
+          },
+          "childrenContent": {
+            "Hovered": {
+              "bottomMargin": 6,
+              "height": 64,
+              "leftMargin": 6,
+              "rightMargin": 6,
+              "texture": "On Screen Controls Button_Hovered.png",
+              "tiled": false,
+              "topMargin": 6,
+              "width": 192
+            },
+            "Idle": {
+              "bottomMargin": 6,
+              "height": 64,
+              "leftMargin": 6,
+              "rightMargin": 6,
+              "texture": "On Screen Controls Button_Idle.png",
+              "tiled": false,
+              "topMargin": 6,
+              "width": 192
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "Sair",
+              "font": "Roboto-Bold.ttf",
+              "textAlignment": "center",
+              "characterSize": 40,
+              "color": {
+                "b": 255,
+                "g": 255,
+                "r": 255
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Sair",
+                "font": "Roboto-Bold.ttf",
+                "textAlignment": "center",
+                "characterSize": 40,
+                "color": "255;255;255"
+              }
+            },
+            "Pressed": {
+              "bottomMargin": 6,
+              "height": 64,
+              "leftMargin": 6,
+              "rightMargin": 6,
+              "texture": "On Screen Controls Button_Pressed.png",
+              "tiled": false,
+              "topMargin": 6,
+              "width": 192
+            }
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": true,
+          "name": "TxtTITULO",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Monster Strike",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 60,
+          "color": {
+            "b": 28,
+            "g": 231,
+            "r": 248
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": true,
+            "isShadowEnabled": true,
+            "italic": true,
+            "outlineColor": "0;0;0",
+            "outlineThickness": 6,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 6,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Monster Strike",
+            "font": "",
+            "textAlignment": "left",
+            "characterSize": 60,
+            "color": "248;231;28"
+          }
+        },
+        {
+          "assetStoreId": "94a2949fe04d8011f03f2c6e16c0af0f27b5fa39f63423f41bbdb60510e64974",
+          "height": 64,
+          "name": "GraveyardTilePlatformCenter",
+          "texture": "tiled_Graveyard Tile Platform Center.png",
+          "type": "TiledSpriteObject::TiledSprite",
+          "width": 64,
+          "variables": [],
+          "effects": [],
+          "behaviors": []
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "42db1b71a89cf8bffa7ac1bac947ce08d47fd80a7ce377c65179509bf6baa059",
+          "name": "MergedFullBackground",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Merged Full Background.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 340,
+                            "y": 0
+                          },
+                          {
+                            "x": 340,
+                            "y": 240
+                          },
+                          {
+                            "x": 0,
+                            "y": 240
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "b5c9b1ae44a59c880adb56c8b50454297a7a0a8f1ee1b9271240c48e8c9667a4",
+          "name": "House",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "House.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 3,
+                            "y": 10
+                          },
+                          {
+                            "x": 80,
+                            "y": 10
+                          },
+                          {
+                            "x": 80,
+                            "y": 64
+                          },
+                          {
+                            "x": 3,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "26f7912e497fefccd32817a0c24533c9304633b47c6e556065dc498219877e81",
+          "name": "OnScreenControlsButton3",
+          "type": "PanelSpriteButton::PanelSpriteButton",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "LeftPadding": 0,
+            "RightPadding": 0,
+            "PressedLabelOffsetY": 1,
+            "BottomPadding": 0,
+            "TopPadding": 0,
+            "HoveredFadeOutDuration": 0.2
+          },
+          "childrenContent": {
+            "Hovered": {
+              "bottomMargin": 6,
+              "height": 64,
+              "leftMargin": 6,
+              "rightMargin": 6,
+              "texture": "On Screen Controls Button_Hovered.png",
+              "tiled": false,
+              "topMargin": 6,
+              "width": 192
+            },
+            "Idle": {
+              "bottomMargin": 6,
+              "height": 64,
+              "leftMargin": 6,
+              "rightMargin": 6,
+              "texture": "On Screen Controls Button_Idle.png",
+              "tiled": false,
+              "topMargin": 6,
+              "width": 192
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "Tutorial",
+              "font": "Roboto-Bold.ttf",
+              "textAlignment": "center",
+              "characterSize": 40,
+              "color": {
+                "b": 255,
+                "g": 255,
+                "r": 255
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Tutorial",
+                "font": "Roboto-Bold.ttf",
+                "textAlignment": "center",
+                "characterSize": 40,
+                "color": "255;255;255"
+              }
+            },
+            "Pressed": {
+              "bottomMargin": 6,
+              "height": 64,
+              "leftMargin": 6,
+              "rightMargin": 6,
+              "texture": "On Screen Controls Button_Pressed.png",
+              "tiled": false,
+              "topMargin": 6,
+              "width": 192
+            }
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": true,
+          "name": "Tutorial",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Para andar aperte as setas direcionais do teclado \n\nPara pular aperte a teclar espaço\n\nPara atirar aperte a letra Z\n\nPara soltar bomba letra F\n\nPara agachar letra C\n\nPara o dash letra X",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 25,
+          "color": {
+            "b": 28,
+            "g": 231,
+            "r": 248
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": true,
+            "isShadowEnabled": true,
+            "italic": true,
+            "outlineColor": "0;0;0",
+            "outlineThickness": 6,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 6,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Para andar aperte as setas direcionais do teclado \n\nPara pular aperte a teclar espaço\n\nPara atirar aperte a letra Z\n\nPara soltar bomba letra F\n\nPara agachar letra C\n\nPara o dash letra X",
+            "font": "",
+            "textAlignment": "left",
+            "characterSize": 25,
+            "color": "248;231;28"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Fundo",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite7",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "26f7912e497fefccd32817a0c24533c9304633b47c6e556065dc498219877e81",
+          "name": "OnScreenControlsButton4",
+          "type": "PanelSpriteButton::PanelSpriteButton",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "LeftPadding": 0,
+            "RightPadding": 0,
+            "PressedLabelOffsetY": 1,
+            "BottomPadding": 0,
+            "TopPadding": 0,
+            "HoveredFadeOutDuration": 0.2
+          },
+          "childrenContent": {
+            "Hovered": {
+              "bottomMargin": 6,
+              "height": 64,
+              "leftMargin": 6,
+              "rightMargin": 6,
+              "texture": "On Screen Controls Button_Hovered.png",
+              "tiled": false,
+              "topMargin": 6,
+              "width": 192
+            },
+            "Idle": {
+              "bottomMargin": 6,
+              "height": 64,
+              "leftMargin": 6,
+              "rightMargin": 6,
+              "texture": "On Screen Controls Button_Idle.png",
+              "tiled": false,
+              "topMargin": 6,
+              "width": 192
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "Voltar",
+              "font": "Roboto-Bold.ttf",
+              "textAlignment": "center",
+              "characterSize": 40,
+              "color": {
+                "b": 255,
+                "g": 255,
+                "r": 255
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Voltar",
+                "font": "Roboto-Bold.ttf",
+                "textAlignment": "center",
+                "characterSize": 40,
+                "color": "255;255;255"
+              }
+            },
+            "Pressed": {
+              "bottomMargin": 6,
+              "height": 64,
+              "leftMargin": 6,
+              "rightMargin": 6,
+              "texture": "On Screen Controls Button_Pressed.png",
+              "tiled": false,
+              "topMargin": 6,
+              "width": 192
+            }
+          }
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "Ogre"
+          },
+          {
+            "objectName": "BigZombie"
+          },
+          {
+            "objectName": "Diego"
+          },
+          {
+            "objectName": "OnScreenControlsButton"
+          },
+          {
+            "objectName": "OnScreenControlsButton2"
+          },
+          {
+            "objectName": "OnScreenControlsButton3"
+          },
+          {
+            "objectName": "OnScreenControlsButton4"
+          },
+          {
+            "objectName": "TxtTITULO"
+          },
+          {
+            "objectName": "Tutorial"
+          },
+          {
+            "objectName": "Fundo"
+          },
+          {
+            "objectName": "GraveyardTilePlatformCenter"
+          },
+          {
+            "objectName": "MergedFullBackground"
+          },
+          {
+            "objectName": "House"
+          }
+        ]
+      },
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+              },
+              "parameters": [
+                "OnScreenControlsButton",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Main\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+              },
+              "parameters": [
+                "OnScreenControlsButton4",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Scene"
+              },
+              "parameters": [
+                "",
+                "\"Menu\"",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+              },
+              "parameters": [
+                "OnScreenControlsButton2",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Quit"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Animation",
+          "type": "AnimatableCapability::AnimatableBehavior"
+        },
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Flippable",
+          "type": "FlippableCapability::FlippableBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        },
+        {
+          "name": "Resizable",
+          "type": "ResizableCapability::ResizableBehavior"
+        },
+        {
+          "name": "Scale",
+          "type": "ScalableCapability::ScalableBehavior"
+        },
+        {
+          "name": "Text",
+          "type": "TextContainerCapability::TextContainerBehavior"
+        }
+      ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
       "mangledName": "Fim",
       "name": "Fim",
       "r": 209,
@@ -20578,7 +24816,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.2550455473354342,
+        "zoomFactor": 0.36732575450588256,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -20699,7 +24937,7 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "Créditos\n\n\n\nMonster Strike\n\n\n\n\n\n\nProgamação: Alice Nunes\n\n\n\n\n\nDesigners: Alice Nunes e Davi Gomes\n\n\n\n\n\nProdução: Alice Nunes, Alice Gobo, Davi Gomes e Yan Barbosa\n\n\n\n\n\n\n\nEsse foi nosso jogo e muito obrigado pela presença de todos.\n\n\n\n\nFim\n\n",
+          "string": "Créditos\n\n\n\nMonster Strike\n\n\n\n\n\n\nProgamação: Alice Gobo\n\n\n\n\n\nDesigners: Alice Nunes e Davi Gomes\n\n\n\n\n\nProdução: Alice Nunes, Alice Gobo, Davi Gomes e Yan Barbosa\n\n\n\n\n\n\n\nEsse foi nosso TCC e muito obrigado pela presença de todos.\n\n\n\n\nFim\n\n",
           "font": "",
           "textAlignment": "center",
           "characterSize": 60,
@@ -20722,7 +24960,7 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "Créditos\n\n\n\nMonster Strike\n\n\n\n\n\n\nProgamação: Alice Nunes\n\n\n\n\n\nDesigners: Alice Nunes e Davi Gomes\n\n\n\n\n\nProdução: Alice Nunes, Alice Gobo, Davi Gomes e Yan Barbosa\n\n\n\n\n\n\n\nEsse foi nosso jogo e muito obrigado pela presença de todos.\n\n\n\n\nFim\n\n",
+            "text": "Créditos\n\n\n\nMonster Strike\n\n\n\n\n\n\nProgamação: Alice Gobo\n\n\n\n\n\nDesigners: Alice Nunes e Davi Gomes\n\n\n\n\n\nProdução: Alice Nunes, Alice Gobo, Davi Gomes e Yan Barbosa\n\n\n\n\n\n\n\nEsse foi nosso TCC e muito obrigado pela presença de todos.\n\n\n\n\nFim\n\n",
             "font": "",
             "textAlignment": "center",
             "characterSize": 60,
@@ -23610,6 +27848,18 @@
                 "Ogre",
                 "0",
                 "-60",
+                "1"
+              ]
+            },
+            {
+              "type": {
+                "value": "PlaySound"
+              },
+              "parameters": [
+                "",
+                "3b0de12f6f195f26ba77b751eb7654f59fab583e829c9bafb9dc5e7d7f169a92_Final Step.aac",
+                "yes",
+                "50",
                 "1"
               ]
             }

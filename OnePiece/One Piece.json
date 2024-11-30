@@ -11,11 +11,11 @@
     "antialiasingMode": "MSAA",
     "antialisingEnabledOnMobile": false,
     "folderProject": false,
-    "orientation": "landscape",
+    "orientation": "default",
     "packageName": "com.example.gamename",
     "pixelsRounding": true,
     "projectUuid": "baf8808f-0916-4187-9542-422b5ac52da9",
-    "scaleMode": "linear",
+    "scaleMode": "nearest",
     "sizeOnStartupMode": "",
     "templateSlug": "",
     "useExternalSourceFiles": false,
@@ -3614,8 +3614,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
-          "name": "Luffy",
+          "name": "MapaSeleionado",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
@@ -3624,257 +3623,126 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "DepartScene"
+                    "value": "NumberVariable"
                   },
                   "parameters": [
-                    ""
+                    "PosicaoSelecao",
+                    "=",
+                    "0"
                   ]
                 }
               ],
               "actions": [
                 {
                   "type": {
-                    "value": "FlippableCapability::FlippableBehavior::FlipX"
+                    "value": "Montre"
                   },
                   "parameters": [
-                    "Luffy",
-                    "Flippable",
-                    "yes"
+                    "Wano",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Skypeia"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Arquipelogo_Sabaody"
                   ]
                 }
               ]
             },
             {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "name": "Movimento",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "d"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::SimulateRightKey"
-                      },
-                      "parameters": [
-                        "Luffy",
-                        "PlatformerObject"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "FlippableCapability::FlippableBehavior::FlipX"
-                      },
-                      "parameters": [
-                        "Luffy",
-                        "Flippable",
-                        "yes"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "a"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::SimulateLeftKey"
-                      },
-                      "parameters": [
-                        "Luffy",
-                        "PlatformerObject"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "FlippableCapability::FlippableBehavior::FlipX"
-                      },
-                      "parameters": [
-                        "Luffy",
-                        "Flippable",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "w"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::SimulateJumpKey"
-                      },
-                      "parameters": [
-                        "Luffy",
-                        "PlatformerObject"
-                      ]
-                    }
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "PosicaoSelecao",
+                    "=",
+                    "1"
                   ]
                 }
               ],
-              "parameters": []
-            }
-          ],
-          "parameters": []
-        },
-        {
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "folded": true,
-          "name": "Zoro",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": []
+              "actions": [
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "Arquipelogo_Sabaody",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Skypeia"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Wano"
+                  ]
+                }
+              ]
             },
             {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "name": "Movimento",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "Right"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::SimulateRightKey"
-                      },
-                      "parameters": [
-                        "Zoro",
-                        "PlatformerObject"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "FlippableCapability::FlippableBehavior::FlipX"
-                      },
-                      "parameters": [
-                        "Zoro",
-                        "Flippable",
-                        "yes"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "Left"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::SimulateLeftKey"
-                      },
-                      "parameters": [
-                        "Zoro",
-                        "PlatformerObject"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "FlippableCapability::FlippableBehavior::FlipX"
-                      },
-                      "parameters": [
-                        "Zoro",
-                        "Flippable",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "Up"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::SimulateJumpKey"
-                      },
-                      "parameters": [
-                        "Zoro",
-                        "PlatformerObject"
-                      ]
-                    }
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "PosicaoSelecao",
+                    "=",
+                    "2"
                   ]
                 }
               ],
-              "parameters": []
+              "actions": [
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "Skypeia",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Wano"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Arquipelogo_Sabaody"
+                  ]
+                }
+              ]
             }
           ],
           "parameters": []
@@ -3985,7 +3853,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.4743835604831383,
+        "zoomFactor": 0.4589089976070381,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -7044,7 +6912,7 @@
                   "parameters": [
                     "PosicaoSelecao",
                     ">",
-                    "3"
+                    "2"
                   ]
                 }
               ],
@@ -7147,7 +7015,7 @@
                       "parameters": [
                         "PosicaoSelecao",
                         "=",
-                        "1"
+                        "0"
                       ]
                     }
                   ],
@@ -7201,7 +7069,7 @@
                       "parameters": [
                         "PosicaoSelecao",
                         "=",
-                        "2"
+                        "1"
                       ]
                     }
                   ],
@@ -7255,7 +7123,7 @@
                       "parameters": [
                         "PosicaoSelecao",
                         "=",
-                        "3"
+                        "2"
                       ]
                     }
                   ],
@@ -7295,6 +7163,44 @@
                       },
                       "parameters": [
                         "Arquipelogo_Sabaody2"
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "MapaSelecionado",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyReleased"
+                      },
+                      "parameters": [
+                        "",
+                        "Return"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "Scene"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Main\"",
+                        ""
                       ]
                     }
                   ]
@@ -7425,14 +7331,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 743,
+          "height": 768,
           "keepRatio": true,
           "layer": "",
           "name": "BgOnePiece",
           "persistentUuid": "0fa0c95c-5668-4e9e-bffb-c16a828384a5",
-          "width": 1312,
+          "width": 1344,
           "x": -32,
-          "y": -7,
+          "y": -32,
           "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
@@ -7773,13 +7679,7 @@
           }
         ]
       },
-      "events": [
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
-        }
-      ],
+      "events": [],
       "layers": [
         {
           "ambientLightColorB": 200,
