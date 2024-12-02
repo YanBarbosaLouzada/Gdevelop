@@ -364,6 +364,166 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/ab812c7d15ad3474b6e55761235713b68f34374f3f064d1b8685ed46720df2f8_ArchitectsDaughter.ttf",
           "name": "ArchitectsDaughter.ttf"
         }
+      },
+      {
+        "file": "Gojo vs sukuna - Domain clash.mp4",
+        "kind": "video",
+        "metadata": "",
+        "name": "Gojo vs sukuna - Domain clash.mp4",
+        "userAdded": true
+      },
+      {
+        "file": "GojoAnim.mp4",
+        "kind": "video",
+        "metadata": "",
+        "name": "GojoAnim.mp4",
+        "userAdded": true
+      },
+      {
+        "file": "assets/Walk_06.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "fd326f470bae4e39b8a6f5300b7f9437f392212d5c4e3ae7bd62c73ca5eb842a_Walk_06.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/SoundEffects/Nox Footsteps/Sand/Walk/fd326f470bae4e39b8a6f5300b7f9437f392212d5c4e3ae7bd62c73ca5eb842a_Walk_06.wav",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Arrow.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "3bd7554e8249d64b0e2b62bbef263214ed7a0dffca63a3b55b3a9a9b5256e203_Arrow.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Western FPS 2D/Sound/3bd7554e8249d64b0e2b62bbef263214ed7a0dffca63a3b55b3a9a9b5256e203_Arrow.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Hit 1.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "35050b95a0e87ff94beb868c98c76367570bb5ce35dd1d792e3a84f57dd16b73_Hit 1.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Arcade/Sound effects/Hit/35050b95a0e87ff94beb868c98c76367570bb5ce35dd1d792e3a84f57dd16b73_Hit 1.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "file": "assets/Cornfield Chase.aac",
+        "kind": "audio",
+        "metadata": "",
+        "name": "a4ebd0f063bbb6f3107e2b0c11782d489bd77db960a8ebaffd08f68e52c4e1d8_Cornfield Chase.aac",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": true,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Music/Epic Dramatic/a4ebd0f063bbb6f3107e2b0c11782d489bd77db960a8ebaffd08f68e52c4e1d8_Cornfield Chase.aac",
+          "name": "gdevelop-asset-store"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite8",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite9",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/X Button.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "X Button.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Controller And Input Icons/Button/Button/x32/Dark Light/1ae2e433e412480a82921049b41cbc7974de8f9c85bb34c4176dd93a9ab6faad_X Button.png",
+          "name": "X Button.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Block.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Block",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/On Screen Controls Button_Hovered.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "On Screen Controls Button_Hovered.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/16e804dda11f82902d6b7469420d7b3b81d68ef00af71783070dd284114e8cdc_On Screen Controls Button_Hovered.png",
+          "name": "On Screen Controls Button_Hovered.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/On Screen Controls Button_Idle.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "On Screen Controls Button_Idle.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/174644b98156cc55e10a4eb991aebb06e0a2c9f98915abb1422cababc3124de3_On Screen Controls Button_Idle.png",
+          "name": "On Screen Controls Button_Idle.png"
+        }
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/On Screen Controls Button_Pressed.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "On Screen Controls Button_Pressed.png",
+        "smoothed": false,
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/5a44f1cb97ef7da59c97179346b71d3f5b913af0208795784707c062fc20749f_On Screen Controls Button_Pressed.png",
+          "name": "On Screen Controls Button_Pressed.png"
+        }
+      },
+      {
+        "file": "assets/Roboto-Regular.ttf",
+        "kind": "font",
+        "metadata": "",
+        "name": "Roboto-Regular.ttf",
+        "userAdded": false,
+        "origin": {
+          "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/e96b43b0ca3fd7775d75a702f44cd1b0dfd325e1db317f7cba84efdf572571fe_Roboto-Regular.ttf",
+          "name": "Roboto-Regular.ttf"
+        }
       }
     ],
     "resourceFolders": []
@@ -444,7 +604,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.7130377630690399,
+        "zoomFactor": 0.4633111824513978,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -494,7 +654,7 @@
           "persistentUuid": "1eab5c04-7b7b-4467-82d5-a3e2dfaa9fca",
           "width": 0,
           "x": 544,
-          "y": 320,
+          "y": 288,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -510,7 +670,7 @@
           "persistentUuid": "0f8f350f-830a-49b5-8d99-2138418e6aa5",
           "width": 0,
           "x": 544,
-          "y": 448,
+          "y": 480,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -528,6 +688,89 @@
           "x": 421,
           "y": 151,
           "zOrder": 5,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "WhiteDecoratedButton3",
+          "persistentUuid": "d813794b-cf0f-42ca-864c-f0d3cf464421",
+          "width": 0,
+          "x": 544,
+          "y": 384,
+          "zOrder": 6,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 672,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Block2",
+          "persistentUuid": "c9c7050d-e9ac-4855-9595-ddd55a201596",
+          "width": 1120,
+          "x": 96,
+          "y": 32,
+          "zOrder": 7,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 576,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Text2",
+          "persistentUuid": "490562c8-03b6-4d8f-9f48-267e9026e2a8",
+          "width": 327,
+          "x": 153,
+          "y": 64,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Text3",
+          "persistentUuid": "5a5c4be8-8e25-4ff9-8158-fa244a2d7d41",
+          "width": 0,
+          "x": 736,
+          "y": 64,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 2,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "XButton",
+          "persistentUuid": "21b6c2b8-eac2-412e-aa50-2977fd7f8322",
+          "width": 64,
+          "x": 1088,
+          "y": 64,
+          "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -861,25 +1104,336 @@
             "characterSize": 50,
             "color": "148;47;47"
           }
+        },
+        {
+          "assetStoreId": "d907b5df38595e6d3f128058fbb3dbd0861f86505cc6d7bf9859ddcc3eceeb1f",
+          "name": "WhiteDecoratedButton3",
+          "type": "PanelSpriteButton::PanelSpriteButton",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "LeftPadding": 16,
+            "RightPadding": 16,
+            "PressedLabelOffsetY": 6,
+            "BottomPadding": 24,
+            "TopPadding": 20,
+            "HoveredFadeOutDuration": 0.25
+          },
+          "childrenContent": {
+            "Hovered": {
+              "bottomMargin": 22,
+              "height": 64,
+              "leftMargin": 16,
+              "rightMargin": 16,
+              "texture": "White Decorated Button_Hovered.png",
+              "tiled": true,
+              "topMargin": 16,
+              "width": 192
+            },
+            "Idle": {
+              "bottomMargin": 22,
+              "height": 64,
+              "leftMargin": 16,
+              "rightMargin": 16,
+              "texture": "White Decorated Button_Idle.png",
+              "tiled": true,
+              "topMargin": 16,
+              "width": 192
+            },
+            "Label": {
+              "bold": true,
+              "italic": true,
+              "smoothed": true,
+              "underlined": false,
+              "string": "Tutorial",
+              "font": "ArchitectsDaughter.ttf",
+              "textAlignment": "center",
+              "characterSize": 20,
+              "color": {
+                "b": 0,
+                "g": 0,
+                "r": 0
+              },
+              "content": {
+                "bold": true,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": true,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Tutorial",
+                "font": "ArchitectsDaughter.ttf",
+                "textAlignment": "center",
+                "characterSize": 20,
+                "color": "0;0;0"
+              }
+            },
+            "Pressed": {
+              "bottomMargin": 16,
+              "height": 64,
+              "leftMargin": 16,
+              "rightMargin": 16,
+              "texture": "White Decorated Button_Pressed.png",
+              "tiled": true,
+              "topMargin": 22,
+              "width": 192
+            }
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Block2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite8",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": true,
+          "name": "Text2",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Gojo\n\n\n[ Movimentação ]\n\nAndar para direita - [ D ]\n\nAndar para esquerda - [ A ]\n\nPular - [ W ]\n\n\n\n[ Ataques ]\n\nAtk padrão  - Letra [ E ]\n\nAtk pesado - Letra [ F ]\n\nAtk especial - Letra [ R ]\n\nDespertar - Letra [ T ]",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 22,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": true,
+            "isShadowEnabled": true,
+            "italic": true,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 6,
+            "shadowColor": "255;255;255",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Gojo\n\n\n[ Movimentação ]\n\nAndar para direita - [ D ]\n\nAndar para esquerda - [ A ]\n\nPular - [ W ]\n\n\n\n[ Ataques ]\n\nAtk padrão  - Letra [ E ]\n\nAtk pesado - Letra [ F ]\n\nAtk especial - Letra [ R ]\n\nDespertar - Letra [ T ]",
+            "font": "",
+            "textAlignment": "left",
+            "characterSize": 22,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": true,
+          "name": "Text3",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Sukuna\n\n\n[ Movimentação ]\n\nAndar para direita - [ Seta direita ]\n\nAndar para esquerda - [  Seta esquerda ]\n\nPular - [ Seta para cima ]\n\n\n\n[ Ataques ]\n\nAtk padrão  - Letra [ Num 0 ]\n\nAtk pesado - Letra [ Num 1 ]\n\nAtk especial - Letra [ Num 3 ]\n\nDespertar - Letra [ Num 2 ]",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 22,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 0
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": true,
+            "isShadowEnabled": true,
+            "italic": true,
+            "outlineColor": "255;255;255",
+            "outlineThickness": 2,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 6,
+            "shadowColor": "255;255;255",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Sukuna\n\n\n[ Movimentação ]\n\nAndar para direita - [ Seta direita ]\n\nAndar para esquerda - [  Seta esquerda ]\n\nPular - [ Seta para cima ]\n\n\n\n[ Ataques ]\n\nAtk padrão  - Letra [ Num 0 ]\n\nAtk pesado - Letra [ Num 1 ]\n\nAtk especial - Letra [ Num 3 ]\n\nDespertar - Letra [ Num 2 ]",
+            "font": "",
+            "textAlignment": "left",
+            "characterSize": 22,
+            "color": "0;0;0"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "8522ddd4ac9f357b8bf5d335885b8ff58761e62732a1e9847c16bfade1315424",
+          "name": "XButton",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": true,
+                  "timeBetweenFrames": 0.025,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "X Button.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 0
+                          },
+                          {
+                            "x": 32,
+                            "y": 32
+                          },
+                          {
+                            "x": 0,
+                            "y": 32
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
         "folderName": "__ROOT",
         "children": [
           {
-            "objectName": "Background"
+            "folderName": "Text",
+            "children": [
+              {
+                "objectName": "Text3"
+              },
+              {
+                "objectName": "Text2"
+              },
+              {
+                "objectName": "Text"
+              }
+            ]
           },
           {
-            "objectName": "Block"
-          },
-          {
-            "objectName": "WhiteDecoratedButton"
-          },
-          {
-            "objectName": "WhiteDecoratedButton2"
-          },
-          {
-            "objectName": "Text"
+            "folderName": "Background",
+            "children": [
+              {
+                "objectName": "XButton"
+              },
+              {
+                "objectName": "Block2"
+              },
+              {
+                "objectName": "WhiteDecoratedButton3"
+              },
+              {
+                "objectName": "WhiteDecoratedButton2"
+              },
+              {
+                "objectName": "WhiteDecoratedButton"
+              },
+              {
+                "objectName": "Block"
+              },
+              {
+                "objectName": "Background"
+              }
+            ]
           }
         ]
       },
@@ -930,6 +1484,164 @@
               },
               "parameters": [
                 ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+              },
+              "parameters": [
+                "WhiteDecoratedButton3",
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "Text2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "Text3",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "Block2",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "Montre"
+              },
+              "parameters": [
+                "XButton",
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "SourisSurObjet"
+              },
+              "parameters": [
+                "XButton",
+                "",
+                "",
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "MouseButtonReleased"
+              },
+              "parameters": [
+                "XButton",
+                "Left"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "Text2"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "Text3"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "Block2"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "XButton"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "Text2"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "Text3"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "Block2"
+              ]
+            },
+            {
+              "type": {
+                "value": "Cache"
+              },
+              "parameters": [
+                "XButton"
               ]
             }
           ]
@@ -1023,7 +1735,7 @@
       "title": "",
       "v": 209,
       "uiSettings": {
-        "grid": true,
+        "grid": false,
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
@@ -1031,8 +1743,8 @@
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
-        "snap": true,
-        "zoomFactor": 0.4633111824514002,
+        "snap": false,
+        "zoomFactor": 0.35534345588170085,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -1055,14 +1767,15 @@
           "angle": 268,
           "customSize": true,
           "depth": 1,
-          "height": 61,
+          "height": 34,
           "keepRatio": true,
           "layer": "",
+          "locked": true,
           "name": "Chão",
           "persistentUuid": "43685042-501c-4638-8c51-5959a2143171",
-          "width": 1297,
-          "x": -702,
-          "y": 619,
+          "width": 713,
+          "x": -386,
+          "y": 340,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -1072,14 +1785,15 @@
           "angle": 268,
           "customSize": true,
           "depth": 1,
-          "height": 61,
+          "height": 35,
           "keepRatio": true,
           "layer": "",
+          "locked": true,
           "name": "Chão",
           "persistentUuid": "90c19e28-b1ac-469d-85f8-4b9b8c895509",
-          "width": 1297,
-          "x": 685,
-          "y": 619,
+          "width": 741,
+          "x": 947,
+          "y": 354,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -1089,14 +1803,14 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 748,
+          "height": 800,
           "keepRatio": true,
           "layer": "interface",
           "name": "Cidade_normal",
           "persistentUuid": "0e9eceb3-e4e0-45d3-93cb-d1ffdf314a91",
-          "width": 1340,
-          "x": -28,
-          "y": -12,
+          "width": 1344,
+          "x": -32,
+          "y": -32,
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
@@ -1106,47 +1820,15 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 141,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Chão",
-          "persistentUuid": "7c92312d-aa31-4741-90dc-301ee31ac2e8",
-          "width": 1313,
-          "x": 31,
-          "y": -717,
-          "zOrder": 13,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": false,
-          "height": 0,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Chão",
-          "persistentUuid": "50aa563f-710a-4b6c-a4af-c9fadaff125a",
-          "width": 0,
-          "x": 569,
-          "y": 893,
-          "zOrder": 14,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 1,
-          "height": 736,
+          "height": 800,
           "keepRatio": true,
           "layer": "interface",
+          "locked": true,
           "name": "Sukana_Dominio",
           "persistentUuid": "23ac435f-48b4-45cd-899c-a593bebbe432",
-          "width": 1280,
-          "x": 32,
-          "y": 0,
+          "width": 1342,
+          "x": -30,
+          "y": -32,
           "zOrder": 17,
           "numberProperties": [],
           "stringProperties": [],
@@ -1156,14 +1838,15 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 736,
+          "height": 800,
           "keepRatio": true,
           "layer": "interface",
+          "locked": true,
           "name": "Gojo_Dominio",
           "persistentUuid": "431ce38b-df79-4717-b5f5-8f850120f24b",
-          "width": 1326,
+          "width": 1344,
           "x": -32,
-          "y": 0,
+          "y": -32,
           "zOrder": 18,
           "numberProperties": [],
           "stringProperties": [],
@@ -1173,14 +1856,15 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 754,
+          "height": 800,
           "keepRatio": true,
           "layer": "interface",
+          "locked": true,
           "name": "Mistura_De_Dominios",
           "persistentUuid": "508d903b-f545-4789-9ea9-ff1740924c88",
           "width": 1344,
           "x": -32,
-          "y": -18,
+          "y": -32,
           "zOrder": 19,
           "numberProperties": [],
           "stringProperties": [],
@@ -1264,8 +1948,8 @@
           "name": "Chão",
           "persistentUuid": "cf6ba386-f9dc-449f-884c-0e9f24b70a72",
           "width": 1327,
-          "x": -32,
-          "y": 672,
+          "x": -29,
+          "y": -453,
           "zOrder": 24,
           "numberProperties": [],
           "stringProperties": [],
@@ -1299,6 +1983,136 @@
           "x": 96,
           "y": 32,
           "zOrder": 26,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 21,
+          "height": 806,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Block",
+          "persistentUuid": "9161e0f2-8db2-4d0e-ac10-697c64681298",
+          "width": 1347,
+          "x": -28,
+          "y": -1192,
+          "zOrder": 27,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Gojo_text2",
+          "persistentUuid": "5651904d-a2b4-472d-b818-d9b9720bb1cc",
+          "width": 0,
+          "x": 811,
+          "y": -1035,
+          "zOrder": 28,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Gojo2",
+          "persistentUuid": "9579c243-d6a3-49ad-82a6-7d141a2199c5",
+          "width": 0,
+          "x": 881,
+          "y": -832,
+          "zOrder": 29,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Sukuna_text2",
+          "persistentUuid": "4699570d-e05a-44ae-bd4b-0c020557c88d",
+          "width": 0,
+          "x": 762,
+          "y": -1035,
+          "zOrder": 31,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 128,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Chão",
+          "persistentUuid": "2a49bc2e-d938-425a-8ebf-37f53890e9d6",
+          "width": 1327,
+          "x": -32,
+          "y": 672,
+          "zOrder": 24,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Sukuna2",
+          "persistentUuid": "9f287d84-33d8-43ee-9961-81f7f1895e62",
+          "width": 0,
+          "x": 860,
+          "y": -876,
+          "zOrder": 32,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Menu",
+          "persistentUuid": "cc0a8473-d012-432c-bdb1-534b56a141e0",
+          "width": 0,
+          "x": 67,
+          "y": -881,
+          "zOrder": 33,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "OnScreenControlsButton",
+          "persistentUuid": "d59678ec-32e6-4949-829a-2596dfa9d17b",
+          "width": 0,
+          "x": 201,
+          "y": -771,
+          "zOrder": 34,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1553,6 +2367,7 @@
               "PercentDamageReduction": 0
             },
             {
+              "jumpSpeed": 750,
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 1500,
@@ -1562,7 +2377,6 @@
               "deceleration": 1500,
               "gravity": 1000,
               "ignoreDefaultControls": true,
-              "jumpSpeed": 600,
               "jumpSustainTime": 0.2,
               "ladderClimbingSpeed": 150,
               "maxFallingSpeed": 700,
@@ -1693,6 +2507,7 @@
               "PercentDamageReduction": 0
             },
             {
+              "jumpSpeed": 750,
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
               "ignoreDefaultControls": true,
@@ -1702,7 +2517,6 @@
               "canGrabWithoutMoving": true,
               "deceleration": 1500,
               "gravity": 1000,
-              "jumpSpeed": 750,
               "jumpSustainTime": 0.2,
               "ladderClimbingSpeed": 150,
               "maxFallingSpeed": 700,
@@ -2272,17 +3086,6 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "Pivo",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": []
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
           "name": "Arrow",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -2496,17 +3299,6 @@
         {
           "adaptCollisionMaskAutomatically": true,
           "assetStoreId": "",
-          "name": "NewSprite",
-          "type": "Sprite",
-          "updateIfNotVisible": false,
-          "variables": [],
-          "effects": [],
-          "behaviors": [],
-          "animations": []
-        },
-        {
-          "adaptCollisionMaskAutomatically": true,
-          "assetStoreId": "",
           "name": "atk_gojo_1",
           "type": "Sprite",
           "updateIfNotVisible": false,
@@ -2625,73 +3417,497 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": true,
+          "name": "Sukuna_text2",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Sukuna Win",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 70,
+          "color": {
+            "b": 0,
+            "g": 0,
+            "r": 255
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": true,
+            "isShadowEnabled": true,
+            "italic": true,
+            "outlineColor": "0;0;0",
+            "outlineThickness": 5,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 6,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Sukuna Win",
+            "font": "",
+            "textAlignment": "left",
+            "characterSize": 70,
+            "color": "255;0;0"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": true,
+          "name": "Gojo_text2",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Gojo win",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 70,
+          "color": {
+            "b": 195,
+            "g": 252,
+            "r": 0
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": true,
+            "isShadowEnabled": true,
+            "italic": true,
+            "outlineColor": "0;0;0",
+            "outlineThickness": 5,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 6,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Gojo win",
+            "font": "",
+            "textAlignment": "left",
+            "characterSize": 70,
+            "color": "0;252;195"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Block",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "Block",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Block",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Gojo2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "524a84a508a5a16-removebg-preview",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "524a84a508a5a16-removebg-preview",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 2,
+                            "y": 0
+                          },
+                          {
+                            "x": 132,
+                            "y": 0
+                          },
+                          {
+                            "x": 132,
+                            "y": 350
+                          },
+                          {
+                            "x": 2,
+                            "y": 350
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Sukuna2",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "deawg2i-7e4895ba-ff5a-407f-8835-931ee42c37d7-removebg-preview",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "deawg2i-7e4895ba-ff5a-407f-8835-931ee42c37d7-removebg-preview2",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 195,
+                            "y": 0
+                          },
+                          {
+                            "x": 195,
+                            "y": 406
+                          },
+                          {
+                            "x": 0,
+                            "y": 406
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": true,
+          "name": "Menu",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "Voltar para o menu ",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 50,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": true,
+            "isShadowEnabled": true,
+            "italic": true,
+            "outlineColor": "0;0;0",
+            "outlineThickness": 5,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 6,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "Voltar para o menu ",
+            "font": "",
+            "textAlignment": "left",
+            "characterSize": 50,
+            "color": "255;255;255"
+          }
+        },
+        {
+          "assetStoreId": "26f7912e497fefccd32817a0c24533c9304633b47c6e556065dc498219877e81",
+          "name": "OnScreenControlsButton",
+          "type": "PanelSpriteButton::PanelSpriteButton",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "LeftPadding": 0,
+            "RightPadding": 0,
+            "PressedLabelOffsetY": 1,
+            "BottomPadding": 0,
+            "TopPadding": 0,
+            "HoveredFadeOutDuration": 0.2
+          },
+          "childrenContent": {
+            "Hovered": {
+              "bottomMargin": 6,
+              "height": 64,
+              "leftMargin": 6,
+              "rightMargin": 6,
+              "texture": "On Screen Controls Button_Hovered.png",
+              "tiled": false,
+              "topMargin": 6,
+              "width": 192
+            },
+            "Idle": {
+              "bottomMargin": 6,
+              "height": 64,
+              "leftMargin": 6,
+              "rightMargin": 6,
+              "texture": "On Screen Controls Button_Idle.png",
+              "tiled": false,
+              "topMargin": 6,
+              "width": 192
+            },
+            "Label": {
+              "bold": false,
+              "italic": false,
+              "smoothed": true,
+              "underlined": false,
+              "string": "Menu",
+              "font": "Roboto-Bold.ttf",
+              "textAlignment": "center",
+              "characterSize": 40,
+              "color": {
+                "b": 255,
+                "g": 255,
+                "r": 255
+              },
+              "content": {
+                "bold": false,
+                "isOutlineEnabled": false,
+                "isShadowEnabled": false,
+                "italic": false,
+                "outlineColor": "255;255;255",
+                "outlineThickness": 2,
+                "shadowAngle": 90,
+                "shadowBlurRadius": 2,
+                "shadowColor": "0;0;0",
+                "shadowDistance": 4,
+                "shadowOpacity": 127,
+                "smoothed": true,
+                "underlined": false,
+                "text": "Menu",
+                "font": "Roboto-Bold.ttf",
+                "textAlignment": "center",
+                "characterSize": 40,
+                "color": "255;255;255"
+              }
+            },
+            "Pressed": {
+              "bottomMargin": 6,
+              "height": 64,
+              "leftMargin": 6,
+              "rightMargin": 6,
+              "texture": "On Screen Controls Button_Pressed.png",
+              "tiled": false,
+              "topMargin": 6,
+              "width": 192
+            }
+          }
         }
       ],
       "objectsFolderStructure": {
         "folderName": "__ROOT",
         "children": [
           {
-            "objectName": "Sukana_Dominio"
+            "folderName": "Text",
+            "children": [
+              {
+                "objectName": "Gojo_text"
+              },
+              {
+                "objectName": "Gojo_text2"
+              },
+              {
+                "objectName": "Sukuna_text"
+              },
+              {
+                "objectName": "Sukuna_text2"
+              },
+              {
+                "objectName": "Menu"
+              }
+            ]
           },
           {
-            "objectName": "Gojo_Dominio"
+            "folderName": "Personagens",
+            "children": [
+              {
+                "objectName": "Sukuna"
+              },
+              {
+                "objectName": "Sukuna2"
+              },
+              {
+                "objectName": "Gojo"
+              },
+              {
+                "objectName": "Gojo2"
+              }
+            ]
           },
           {
-            "objectName": "Mistura_De_Dominios"
+            "folderName": "Itens",
+            "children": [
+              {
+                "objectName": "atk_gojo_1"
+              },
+              {
+                "objectName": "atk_3_sukuna"
+              },
+              {
+                "objectName": "Arrow"
+              },
+              {
+                "objectName": "Atk_Sukuna_1"
+              },
+              {
+                "objectName": "Atk_Sukuna_2"
+              },
+              {
+                "objectName": "power_roxo"
+              },
+              {
+                "objectName": "POWER_GOJO"
+              }
+            ]
           },
           {
-            "objectName": "POWER_GOJO"
+            "folderName": "Background",
+            "children": [
+              {
+                "objectName": "NewVideo"
+              },
+              {
+                "objectName": "Cidade_normal"
+              },
+              {
+                "objectName": "RedFlatBar2"
+              },
+              {
+                "objectName": "RedFlatBar"
+              },
+              {
+                "objectName": "Chão"
+              },
+              {
+                "objectName": "Mistura_De_Dominios"
+              },
+              {
+                "objectName": "Gojo_Dominio"
+              },
+              {
+                "objectName": "Sukana_Dominio"
+              },
+              {
+                "objectName": "Block"
+              }
+            ]
           },
           {
-            "objectName": "Gojo"
-          },
-          {
-            "objectName": "power_roxo"
-          },
-          {
-            "objectName": "Sukuna"
-          },
-          {
-            "objectName": "Chão"
-          },
-          {
-            "objectName": "Atk_Sukuna_2"
-          },
-          {
-            "objectName": "RedFlatBar"
-          },
-          {
-            "objectName": "Sukuna_text"
-          },
-          {
-            "objectName": "Gojo_text"
-          },
-          {
-            "objectName": "RedFlatBar2"
-          },
-          {
-            "objectName": "Cidade_normal"
-          },
-          {
-            "objectName": "Atk_Sukuna_1"
-          },
-          {
-            "objectName": "NewVideo"
-          },
-          {
-            "objectName": "Pivo"
-          },
-          {
-            "objectName": "Arrow"
-          },
-          {
-            "objectName": "atk_3_sukuna"
-          },
-          {
-            "objectName": "NewSprite"
-          },
-          {
-            "objectName": "atk_gojo_1"
+            "objectName": "OnScreenControlsButton"
           }
         ]
       },
@@ -2718,6 +3934,12 @@
                     "=",
                     "0"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -2753,6 +3975,19 @@
                     "Cidade_normal",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "a4ebd0f063bbb6f3107e2b0c11782d489bd77db960a8ebaffd08f68e52c4e1d8_Cornfield Chase.aac",
+                    "1",
+                    "yes",
+                    "50",
+                    "1"
+                  ]
                 }
               ]
             },
@@ -2768,6 +4003,12 @@
                     "=",
                     "1"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -2803,6 +4044,19 @@
                   "parameters": [
                     "Cidade_normal"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "a4ebd0f063bbb6f3107e2b0c11782d489bd77db960a8ebaffd08f68e52c4e1d8_Cornfield Chase.aac",
+                    "1",
+                    "yes",
+                    "50",
+                    "1"
+                  ]
                 }
               ]
             },
@@ -2818,6 +4072,12 @@
                     "=",
                     "2"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -2853,6 +4113,19 @@
                   "parameters": [
                     "Cidade_normal"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "a4ebd0f063bbb6f3107e2b0c11782d489bd77db960a8ebaffd08f68e52c4e1d8_Cornfield Chase.aac",
+                    "1",
+                    "yes",
+                    "50",
+                    "1"
+                  ]
                 }
               ]
             },
@@ -2868,6 +4141,12 @@
                     "=",
                     "3"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -2903,6 +4182,19 @@
                   "parameters": [
                     "Cidade_normal"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "PlaySoundCanal"
+                  },
+                  "parameters": [
+                    "",
+                    "a4ebd0f063bbb6f3107e2b0c11782d489bd77db960a8ebaffd08f68e52c4e1d8_Cornfield Chase.aac",
+                    "1",
+                    "yes",
+                    "50",
+                    "1"
+                  ]
                 }
               ]
             },
@@ -2918,6 +4210,12 @@
                     "=",
                     "4"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "BuiltinCommonInstructions::Once"
+                  },
+                  "parameters": []
                 }
               ],
               "actions": [
@@ -2994,198 +4292,417 @@
           "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "folded": true,
-              "name": "Movimento",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "Right"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::SimulateRightKey"
-                      },
-                      "parameters": [
-                        "Sukuna",
-                        "PlatformerObject"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "FlippableCapability::FlippableBehavior::FlipX"
-                      },
-                      "parameters": [
-                        "Sukuna",
-                        "Flippable",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "Left"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::SimulateLeftKey"
-                      },
-                      "parameters": [
-                        "Sukuna",
-                        "PlatformerObject"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "FlippableCapability::FlippableBehavior::FlipX"
-                      },
-                      "parameters": [
-                        "Sukuna",
-                        "Flippable",
-                        "yes"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "Up"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::SimulateJumpKey"
-                      },
-                      "parameters": [
-                        "Sukuna",
-                        "PlatformerObject"
-                      ]
-                    }
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Sukuna",
+                    "Health",
+                    ""
                   ]
                 }
               ],
-              "parameters": []
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "folded": true,
-              "name": "Atk_1",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
+              "actions": [],
               "events": [
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
-                      },
-                      "parameters": [
-                        "RedFlatBar",
-                        "=",
-                        "Sukuna.Health::Health()",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
-                      },
-                      "parameters": [
-                        "RedFlatBar2",
-                        "=",
-                        "Gojo.Health::Health()",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "ScalableCapability::ScalableBehavior::SetValue"
-                      },
-                      "parameters": [
-                        "Atk_Sukuna_1",
-                        "Scale",
-                        "=",
-                        "2"
-                      ]
-                    }
-                  ]
-                },
-                {
+                  "colorB": 228,
+                  "colorG": 176,
+                  "colorR": 74,
+                  "creationTime": 0,
                   "folded": true,
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": true,
-                        "value": "FlippableCapability::FlippableBehavior::FlippedX"
-                      },
-                      "parameters": [
-                        "Sukuna",
-                        "Flippable"
-                      ]
-                    }
-                  ],
-                  "actions": [],
+                  "name": "Movimento",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
                   "events": [
                     {
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
                         {
                           "type": {
-                            "value": "KeyReleased"
+                            "value": "KeyPressed"
                           },
                           "parameters": [
                             "",
-                            "Numpad0"
+                            "Right"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::SimulateRightKey"
+                          },
+                          "parameters": [
+                            "Sukuna",
+                            "PlatformerObject"
                           ]
                         },
                         {
                           "type": {
-                            "value": "BooleanVariable"
+                            "value": "FlippableCapability::FlippableBehavior::FlipX"
                           },
                           "parameters": [
-                            "Sukuna_atk_1",
+                            "Sukuna",
+                            "Flippable",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "Left"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::SimulateLeftKey"
+                          },
+                          "parameters": [
+                            "Sukuna",
+                            "PlatformerObject"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "FlippableCapability::FlippableBehavior::FlipX"
+                          },
+                          "parameters": [
+                            "Sukuna",
+                            "Flippable",
+                            "yes"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "Up"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::SimulateJumpKey"
+                          },
+                          "parameters": [
+                            "Sukuna",
+                            "PlatformerObject"
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "parameters": []
+                },
+                {
+                  "colorB": 228,
+                  "colorG": 176,
+                  "colorR": 74,
+                  "creationTime": 0,
+                  "name": "Atk_1",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+                          },
+                          "parameters": [
+                            "RedFlatBar",
                             "=",
+                            "Sukuna.Health::Health()",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PanelSpriteContinuousBar::PanelSpriteContinuousBar::SetValue"
+                          },
+                          "parameters": [
+                            "RedFlatBar2",
+                            "=",
+                            "Gojo.Health::Health()",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "ScalableCapability::ScalableBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "Atk_Sukuna_1",
+                            "Scale",
+                            "=",
+                            "2"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "folded": true,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                          },
+                          "parameters": [
+                            "Sukuna",
+                            "Flippable"
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "KeyReleased"
+                              },
+                              "parameters": [
+                                "",
+                                "Numpad0"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "BooleanVariable"
+                              },
+                              "parameters": [
+                                "Sukuna_atk_1",
+                                "=",
+                                ""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetBooleanVariable"
+                              },
+                              "parameters": [
+                                "Sukuna_atk_1",
+                                "True",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Create"
+                              },
+                              "parameters": [
+                                "",
+                                "Atk_Sukuna_1",
+                                "Sukuna.X()+40",
+                                "Sukuna.Y()",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "fd326f470bae4e39b8a6f5300b7f9437f392212d5c4e3ae7bd62c73ca5eb842a_Walk_06.wav",
+                                "",
+                                "100",
+                                "1"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Wait"
+                              },
+                              "parameters": [
+                                "0.1"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Delete"
+                              },
+                              "parameters": [
+                                "Atk_Sukuna_1",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Wait"
+                              },
+                              "parameters": [
+                                "0.5"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetBooleanVariable"
+                              },
+                              "parameters": [
+                                "Sukuna_atk_1",
+                                "False",
+                                ""
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "folded": true,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                          },
+                          "parameters": [
+                            "Sukuna",
+                            "Flippable"
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "KeyReleased"
+                              },
+                              "parameters": [
+                                "",
+                                "Numpad0"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "BooleanVariable"
+                              },
+                              "parameters": [
+                                "Sukuna_atk_1",
+                                "=",
+                                ""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetBooleanVariable"
+                              },
+                              "parameters": [
+                                "Sukuna_atk_1",
+                                "True",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Create"
+                              },
+                              "parameters": [
+                                "",
+                                "Atk_Sukuna_1",
+                                "Sukuna.X()-80",
+                                "Sukuna.Y()",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "fd326f470bae4e39b8a6f5300b7f9437f392212d5c4e3ae7bd62c73ca5eb842a_Walk_06.wav",
+                                "",
+                                "100",
+                                "1"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Wait"
+                              },
+                              "parameters": [
+                                "0.1"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Delete"
+                              },
+                              "parameters": [
+                                "Atk_Sukuna_1",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Wait"
+                              },
+                              "parameters": [
+                                "0.5"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetBooleanVariable"
+                              },
+                              "parameters": [
+                                "Sukuna_atk_1",
+                                "False",
+                                ""
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Atk_Sukuna_1",
+                            "Gojo",
+                            "",
+                            "",
                             ""
                           ]
                         }
@@ -3193,99 +4710,252 @@
                       "actions": [
                         {
                           "type": {
-                            "value": "SetBooleanVariable"
+                            "value": "Health::Health::Hit"
                           },
                           "parameters": [
-                            "Sukuna_atk_1",
-                            "True",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Create"
-                          },
-                          "parameters": [
+                            "Gojo",
+                            "Health",
+                            "10",
                             "",
-                            "Atk_Sukuna_1",
-                            "Sukuna.X()+40",
-                            "Sukuna.Y()",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Wait"
-                          },
-                          "parameters": [
-                            "0.1"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Delete"
-                          },
-                          "parameters": [
-                            "Atk_Sukuna_1",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Wait"
-                          },
-                          "parameters": [
-                            "0.5"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "SetBooleanVariable"
-                          },
-                          "parameters": [
-                            "Sukuna_atk_1",
-                            "False",
+                            "",
                             ""
                           ]
                         }
                       ]
                     }
-                  ]
+                  ],
+                  "parameters": []
                 },
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "FlippableCapability::FlippableBehavior::FlippedX"
-                      },
-                      "parameters": [
-                        "Sukuna",
-                        "Flippable"
-                      ]
-                    }
-                  ],
-                  "actions": [],
+                  "colorB": 228,
+                  "colorG": 176,
+                  "colorR": 74,
+                  "creationTime": 0,
+                  "name": "Atk_2",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
                   "events": [
+                    {
+                      "folded": true,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                          },
+                          "parameters": [
+                            "Sukuna",
+                            "Flippable"
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "KeyReleased"
+                              },
+                              "parameters": [
+                                "",
+                                "Numpad1"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "BooleanVariable"
+                              },
+                              "parameters": [
+                                "Sukuna_atk_2",
+                                "=",
+                                ""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetBooleanVariable"
+                              },
+                              "parameters": [
+                                "Sukuna_atk_2",
+                                "True",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "FireBullet::FireBullet::Fire"
+                              },
+                              "parameters": [
+                                "Sukuna",
+                                "FireBullet",
+                                "Sukuna.X()",
+                                "Sukuna.Y()+40",
+                                "Arrow",
+                                "0",
+                                "1000",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "3bd7554e8249d64b0e2b62bbef263214ed7a0dffca63a3b55b3a9a9b5256e203_Arrow.aac",
+                                "",
+                                "30",
+                                "1"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Wait"
+                              },
+                              "parameters": [
+                                "0.5"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetBooleanVariable"
+                              },
+                              "parameters": [
+                                "Sukuna_atk_2",
+                                "False",
+                                ""
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "folded": true,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                          },
+                          "parameters": [
+                            "Sukuna",
+                            "Flippable"
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "KeyReleased"
+                              },
+                              "parameters": [
+                                "",
+                                "Numpad1"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "BooleanVariable"
+                              },
+                              "parameters": [
+                                "Sukuna_atk_2",
+                                "=",
+                                ""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetBooleanVariable"
+                              },
+                              "parameters": [
+                                "Sukuna_atk_2",
+                                "True",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "FireBullet::FireBullet::Fire"
+                              },
+                              "parameters": [
+                                "Sukuna",
+                                "FireBullet",
+                                "Sukuna.X()",
+                                "Sukuna.Y()+40",
+                                "Arrow",
+                                "0",
+                                "-1000",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "FlippableCapability::FlippableBehavior::FlipX"
+                              },
+                              "parameters": [
+                                "Arrow",
+                                "Flippable",
+                                "yes"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "3bd7554e8249d64b0e2b62bbef263214ed7a0dffca63a3b55b3a9a9b5256e203_Arrow.aac",
+                                "",
+                                "30",
+                                "1"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Wait"
+                              },
+                              "parameters": [
+                                "0.5"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetBooleanVariable"
+                              },
+                              "parameters": [
+                                "Sukuna_atk_2",
+                                "False",
+                                ""
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
                     {
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
                         {
                           "type": {
-                            "value": "KeyReleased"
+                            "value": "CollisionNP"
                           },
                           "parameters": [
+                            "Arrow",
+                            "Gojo",
                             "",
-                            "Numpad0"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "BooleanVariable"
-                          },
-                          "parameters": [
-                            "Sukuna_atk_1",
-                            "=",
+                            "",
                             ""
                           ]
                         }
@@ -3293,32 +4963,15 @@
                       "actions": [
                         {
                           "type": {
-                            "value": "SetBooleanVariable"
+                            "value": "Health::Health::Hit"
                           },
                           "parameters": [
-                            "Sukuna_atk_1",
-                            "True",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Create"
-                          },
-                          "parameters": [
+                            "Gojo",
+                            "Health",
+                            "5",
                             "",
-                            "Atk_Sukuna_1",
-                            "Sukuna.X()-80",
-                            "Sukuna.Y()",
+                            "",
                             ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Wait"
-                          },
-                          "parameters": [
-                            "0.1"
                           ]
                         },
                         {
@@ -3326,332 +4979,318 @@
                             "value": "Delete"
                           },
                           "parameters": [
-                            "Atk_Sukuna_1",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Wait"
-                          },
-                          "parameters": [
-                            "0.5"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "SetBooleanVariable"
-                          },
-                          "parameters": [
-                            "Sukuna_atk_1",
-                            "False",
+                            "Arrow",
                             ""
                           ]
                         }
                       ]
                     }
-                  ]
+                  ],
+                  "parameters": []
                 },
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
+                  "colorB": 228,
+                  "colorG": 176,
+                  "colorR": 74,
+                  "creationTime": 0,
+                  "name": "Atk_3 ",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
+                  "events": [
                     {
-                      "type": {
-                        "value": "CollisionNP"
-                      },
-                      "parameters": [
-                        "Atk_Sukuna_1",
-                        "Gojo",
-                        "",
-                        "",
-                        ""
+                      "folded": true,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                          },
+                          "parameters": [
+                            "Sukuna",
+                            "Flippable"
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "BooleanVariable"
+                              },
+                              "parameters": [
+                                "sukuna_atk_3",
+                                "=",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "NumberVariable"
+                              },
+                              "parameters": [
+                                "Dominio",
+                                "!=",
+                                "2"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "NumberVariable"
+                              },
+                              "parameters": [
+                                "Dominio",
+                                "!=",
+                                "0"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "KeyReleased"
+                              },
+                              "parameters": [
+                                "",
+                                "Numpad3"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetBooleanVariable"
+                              },
+                              "parameters": [
+                                "sukuna_atk_3",
+                                "True",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "35050b95a0e87ff94beb868c98c76367570bb5ce35dd1d792e3a84f57dd16b73_Hit 1.aac",
+                                "",
+                                "30",
+                                "1"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "FireBullet::FireBullet::Fire"
+                              },
+                              "parameters": [
+                                "Sukuna",
+                                "FireBullet",
+                                "Sukuna.X()",
+                                "Sukuna.Y()-10",
+                                "atk_3_sukuna",
+                                "0",
+                                "1000",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Wait"
+                              },
+                              "parameters": [
+                                "15"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetBooleanVariable"
+                              },
+                              "parameters": [
+                                "sukuna_atk_3",
+                                "False",
+                                ""
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "folded": true,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                          },
+                          "parameters": [
+                            "Sukuna",
+                            "Flippable"
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "BooleanVariable"
+                              },
+                              "parameters": [
+                                "sukuna_atk_3",
+                                "=",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "NumberVariable"
+                              },
+                              "parameters": [
+                                "Dominio",
+                                "!=",
+                                "2"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "NumberVariable"
+                              },
+                              "parameters": [
+                                "Dominio",
+                                "!=",
+                                "0"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "KeyReleased"
+                              },
+                              "parameters": [
+                                "",
+                                "Numpad3"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetBooleanVariable"
+                              },
+                              "parameters": [
+                                "sukuna_atk_3",
+                                "True",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "35050b95a0e87ff94beb868c98c76367570bb5ce35dd1d792e3a84f57dd16b73_Hit 1.aac",
+                                "",
+                                "30",
+                                "1"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "FireBullet::FireBullet::Fire"
+                              },
+                              "parameters": [
+                                "Sukuna",
+                                "FireBullet",
+                                "Sukuna.X()",
+                                "Sukuna.Y()-10",
+                                "atk_3_sukuna",
+                                "0",
+                                "-1000",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "FlippableCapability::FlippableBehavior::FlipX"
+                              },
+                              "parameters": [
+                                "atk_3_sukuna",
+                                "Flippable",
+                                "yes"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Wait"
+                              },
+                              "parameters": [
+                                "15"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetBooleanVariable"
+                              },
+                              "parameters": [
+                                "sukuna_atk_3",
+                                "False",
+                                ""
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "atk_3_sukuna",
+                            "Gojo",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Health::Health::Hit"
+                          },
+                          "parameters": [
+                            "Gojo",
+                            "Health",
+                            "20",
+                            "",
+                            "",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "atk_3_sukuna",
+                            ""
+                          ]
+                        }
                       ]
                     }
                   ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Health::Health::Hit"
-                      },
-                      "parameters": [
-                        "Gojo",
-                        "Health",
-                        "1.5",
-                        "",
-                        "",
-                        ""
-                      ]
-                    }
-                  ]
+                  "parameters": []
                 }
-              ],
-              "parameters": []
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "folded": true,
-              "name": "Atk_2",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyReleased"
-                      },
-                      "parameters": [
-                        "",
-                        "Numpad1"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BooleanVariable"
-                      },
-                      "parameters": [
-                        "Sukuna_atk_2",
-                        "=",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetBooleanVariable"
-                      },
-                      "parameters": [
-                        "Sukuna_atk_2",
-                        "True",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "FireBullet::FireBullet::Fire"
-                      },
-                      "parameters": [
-                        "Sukuna",
-                        "FireBullet",
-                        "Sukuna.X()",
-                        "Sukuna.Y()-10",
-                        "Arrow",
-                        "0",
-                        "1000",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Wait"
-                      },
-                      "parameters": [
-                        "0.5"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SetBooleanVariable"
-                      },
-                      "parameters": [
-                        "Sukuna_atk_2",
-                        "False",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CollisionNP"
-                      },
-                      "parameters": [
-                        "Arrow",
-                        "Gojo",
-                        "",
-                        "",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Health::Health::Hit"
-                      },
-                      "parameters": [
-                        "Gojo",
-                        "Health",
-                        "2",
-                        "",
-                        "",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Delete"
-                      },
-                      "parameters": [
-                        "Arrow",
-                        ""
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": []
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "folded": true,
-              "name": "Atk_3 ",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "BooleanVariable"
-                      },
-                      "parameters": [
-                        "sukuna_atk_3",
-                        "=",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "NumberVariable"
-                      },
-                      "parameters": [
-                        "Dominio",
-                        "!=",
-                        "2"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "NumberVariable"
-                      },
-                      "parameters": [
-                        "Dominio",
-                        "!=",
-                        "0"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "KeyReleased"
-                      },
-                      "parameters": [
-                        "",
-                        "Numpad3"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetBooleanVariable"
-                      },
-                      "parameters": [
-                        "sukuna_atk_3",
-                        "True",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "FireBullet::FireBullet::Fire"
-                      },
-                      "parameters": [
-                        "Sukuna",
-                        "FireBullet",
-                        "Sukuna.X()",
-                        "Sukuna.Y()-10",
-                        "atk_3_sukuna",
-                        "0",
-                        "1000",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Wait"
-                      },
-                      "parameters": [
-                        "5"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SetBooleanVariable"
-                      },
-                      "parameters": [
-                        "sukuna_atk_3",
-                        "False",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CollisionNP"
-                      },
-                      "parameters": [
-                        "atk_3_sukuna",
-                        "Gojo",
-                        "",
-                        "",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Health::Health::Hit"
-                      },
-                      "parameters": [
-                        "Gojo",
-                        "Health",
-                        "10",
-                        "",
-                        "",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Delete"
-                      },
-                      "parameters": [
-                        "atk_3_sukuna",
-                        ""
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": []
+              ]
             }
           ],
           "parameters": []
@@ -3661,288 +5300,59 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Gojo",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "folded": true,
-              "name": "Movimento",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "d"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::SimulateRightKey"
-                      },
-                      "parameters": [
-                        "Gojo",
-                        "PlatformerObject"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "FlippableCapability::FlippableBehavior::FlipX"
-                      },
-                      "parameters": [
-                        "Gojo",
-                        "Flippable",
-                        "yes"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "a"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::SimulateLeftKey"
-                      },
-                      "parameters": [
-                        "Gojo",
-                        "PlatformerObject"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "FlippableCapability::FlippableBehavior::FlipX"
-                      },
-                      "parameters": [
-                        "Gojo",
-                        "Flippable",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "w"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::SimulateJumpKey"
-                      },
-                      "parameters": [
-                        "Gojo",
-                        "PlatformerObject"
-                      ]
-                    }
+                  "type": {
+                    "inverted": true,
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Gojo",
+                    "Health",
+                    ""
                   ]
                 }
               ],
-              "parameters": []
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "folded": true,
-              "name": "Atk_1",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
+              "actions": [],
               "events": [
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": true,
-                        "value": "FlippableCapability::FlippableBehavior::FlippedX"
-                      },
-                      "parameters": [
-                        "Gojo",
-                        "Flippable"
-                      ]
-                    }
-                  ],
-                  "actions": [],
+                  "colorB": 228,
+                  "colorG": 176,
+                  "colorR": 74,
+                  "creationTime": 0,
+                  "folded": true,
+                  "name": "Movimento",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
                   "events": [
                     {
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
                         {
                           "type": {
-                            "value": "KeyReleased"
+                            "value": "KeyPressed"
                           },
                           "parameters": [
                             "",
-                            "e"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "BooleanVariable"
-                          },
-                          "parameters": [
-                            "gojo_atk_1",
-                            "=",
-                            ""
+                            "d"
                           ]
                         }
                       ],
                       "actions": [
                         {
                           "type": {
-                            "value": "SetBooleanVariable"
+                            "value": "PlatformBehavior::SimulateRightKey"
                           },
                           "parameters": [
-                            "gojo_atk_1",
-                            "True",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Create"
-                          },
-                          "parameters": [
-                            "",
-                            "atk_gojo_1",
-                            "Gojo.X()-50",
-                            "Gojo.Y()+20",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Wait"
-                          },
-                          "parameters": [
-                            "0.1"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Delete"
-                          },
-                          "parameters": [
-                            "atk_gojo_1",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Wait"
-                          },
-                          "parameters": [
-                            "0.5"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "SetBooleanVariable"
-                          },
-                          "parameters": [
-                            "gojo_atk_1",
-                            "False",
-                            ""
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "FlippableCapability::FlippableBehavior::FlippedX"
-                      },
-                      "parameters": [
-                        "Gojo",
-                        "Flippable"
-                      ]
-                    }
-                  ],
-                  "actions": [],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "BooleanVariable"
-                          },
-                          "parameters": [
-                            "gojo_atk_1",
-                            "=",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "KeyReleased"
-                          },
-                          "parameters": [
-                            "",
-                            "e"
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "SetBooleanVariable"
-                          },
-                          "parameters": [
-                            "gojo_atk_1",
-                            "True",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Create"
-                          },
-                          "parameters": [
-                            "",
-                            "atk_gojo_1",
-                            "Gojo.X()+50",
-                            "Gojo.Y()+20",
-                            ""
+                            "Gojo",
+                            "PlatformerObject"
                           ]
                         },
                         {
@@ -3950,17 +5360,591 @@
                             "value": "FlippableCapability::FlippableBehavior::FlipX"
                           },
                           "parameters": [
-                            "atk_gojo_1",
+                            "Gojo",
                             "Flippable",
                             "yes"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "a"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::SimulateLeftKey"
+                          },
+                          "parameters": [
+                            "Gojo",
+                            "PlatformerObject"
                           ]
                         },
                         {
                           "type": {
-                            "value": "Wait"
+                            "value": "FlippableCapability::FlippableBehavior::FlipX"
                           },
                           "parameters": [
-                            "0.1"
+                            "Gojo",
+                            "Flippable",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "w"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::SimulateJumpKey"
+                          },
+                          "parameters": [
+                            "Gojo",
+                            "PlatformerObject"
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "parameters": []
+                },
+                {
+                  "colorB": 228,
+                  "colorG": 176,
+                  "colorR": 74,
+                  "creationTime": 0,
+                  "folded": true,
+                  "name": "Atk_1",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                          },
+                          "parameters": [
+                            "Gojo",
+                            "Flippable"
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "KeyReleased"
+                              },
+                              "parameters": [
+                                "",
+                                "e"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "BooleanVariable"
+                              },
+                              "parameters": [
+                                "gojo_atk_1",
+                                "=",
+                                ""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetBooleanVariable"
+                              },
+                              "parameters": [
+                                "gojo_atk_1",
+                                "True",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Create"
+                              },
+                              "parameters": [
+                                "",
+                                "atk_gojo_1",
+                                "Gojo.X()-50",
+                                "Gojo.Y()+20",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "fd326f470bae4e39b8a6f5300b7f9437f392212d5c4e3ae7bd62c73ca5eb842a_Walk_06.wav",
+                                "",
+                                "100",
+                                "1"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Wait"
+                              },
+                              "parameters": [
+                                "0.02"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Delete"
+                              },
+                              "parameters": [
+                                "atk_gojo_1",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Wait"
+                              },
+                              "parameters": [
+                                "0.5"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetBooleanVariable"
+                              },
+                              "parameters": [
+                                "gojo_atk_1",
+                                "False",
+                                ""
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                          },
+                          "parameters": [
+                            "Gojo",
+                            "Flippable"
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "BooleanVariable"
+                              },
+                              "parameters": [
+                                "gojo_atk_1",
+                                "=",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "KeyReleased"
+                              },
+                              "parameters": [
+                                "",
+                                "e"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetBooleanVariable"
+                              },
+                              "parameters": [
+                                "gojo_atk_1",
+                                "True",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Create"
+                              },
+                              "parameters": [
+                                "",
+                                "atk_gojo_1",
+                                "Gojo.X()+50",
+                                "Gojo.Y()+20",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "fd326f470bae4e39b8a6f5300b7f9437f392212d5c4e3ae7bd62c73ca5eb842a_Walk_06.wav",
+                                "",
+                                "100",
+                                "1"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "FlippableCapability::FlippableBehavior::FlipX"
+                              },
+                              "parameters": [
+                                "atk_gojo_1",
+                                "Flippable",
+                                "yes"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Wait"
+                              },
+                              "parameters": [
+                                "0.02"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Delete"
+                              },
+                              "parameters": [
+                                "atk_gojo_1",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Wait"
+                              },
+                              "parameters": [
+                                "0.5"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetBooleanVariable"
+                              },
+                              "parameters": [
+                                "gojo_atk_1",
+                                "False",
+                                ""
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "atk_gojo_1",
+                            "Sukuna",
+                            "",
+                            "",
+                            "yes"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Health::Health::Hit"
+                          },
+                          "parameters": [
+                            "Sukuna",
+                            "Health",
+                            "5",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ]
+                    }
+                  ],
+                  "parameters": []
+                },
+                {
+                  "colorB": 228,
+                  "colorG": 176,
+                  "colorR": 74,
+                  "creationTime": 0,
+                  "folded": true,
+                  "name": "Atk_2",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                          },
+                          "parameters": [
+                            "Gojo",
+                            "Flippable"
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "KeyReleased"
+                              },
+                              "parameters": [
+                                "",
+                                "f"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "BooleanVariable"
+                              },
+                              "parameters": [
+                                "gojo_atk_2",
+                                "=",
+                                ""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetBooleanVariable"
+                              },
+                              "parameters": [
+                                "gojo_atk_2",
+                                "True",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Wait"
+                              },
+                              "parameters": [
+                                "0.5"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "FireBullet::FireBullet::Fire"
+                              },
+                              "parameters": [
+                                "Gojo",
+                                "FireBullet",
+                                "Gojo.X()",
+                                "Gojo.Y()+10",
+                                "POWER_GOJO",
+                                "0",
+                                "1000",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "3bd7554e8249d64b0e2b62bbef263214ed7a0dffca63a3b55b3a9a9b5256e203_Arrow.aac",
+                                "",
+                                "30",
+                                "1"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetBooleanVariable"
+                              },
+                              "parameters": [
+                                "gojo_atk_2",
+                                "False",
+                                ""
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                          },
+                          "parameters": [
+                            "Gojo",
+                            "Flippable"
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "KeyReleased"
+                              },
+                              "parameters": [
+                                "",
+                                "f"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "BooleanVariable"
+                              },
+                              "parameters": [
+                                "gojo_atk_2",
+                                "=",
+                                ""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetBooleanVariable"
+                              },
+                              "parameters": [
+                                "gojo_atk_2",
+                                "True",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "FireBullet::FireBullet::Fire"
+                              },
+                              "parameters": [
+                                "Gojo",
+                                "FireBullet",
+                                "Gojo.X()",
+                                "Gojo.Y()+10",
+                                "POWER_GOJO",
+                                "0",
+                                "-1000",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "3bd7554e8249d64b0e2b62bbef263214ed7a0dffca63a3b55b3a9a9b5256e203_Arrow.aac",
+                                "",
+                                "30",
+                                "1"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Wait"
+                              },
+                              "parameters": [
+                                "0.5"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetBooleanVariable"
+                              },
+                              "parameters": [
+                                "gojo_atk_2",
+                                "False",
+                                ""
+                              ]
+                            }
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "Sukuna",
+                            "POWER_GOJO",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Health::Health::Hit"
+                          },
+                          "parameters": [
+                            "Sukuna",
+                            "Health",
+                            "5",
+                            "",
+                            "",
+                            ""
                           ]
                         },
                         {
@@ -3968,596 +5952,341 @@
                             "value": "Delete"
                           },
                           "parameters": [
-                            "atk_gojo_1",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Wait"
-                          },
-                          "parameters": [
-                            "0.5"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "SetBooleanVariable"
-                          },
-                          "parameters": [
-                            "gojo_atk_1",
-                            "False",
-                            ""
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CollisionNP"
-                      },
-                      "parameters": [
-                        "atk_gojo_1",
-                        "Sukuna",
-                        "",
-                        "",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Health::Health::Hit"
-                      },
-                      "parameters": [
-                        "Sukuna",
-                        "Health",
-                        "10",
-                        "",
-                        "",
-                        ""
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": []
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "folded": true,
-              "name": "Atk_2",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "FlippableCapability::FlippableBehavior::FlippedX"
-                      },
-                      "parameters": [
-                        "Gojo",
-                        "Flippable"
-                      ]
-                    }
-                  ],
-                  "actions": [],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "KeyReleased"
-                          },
-                          "parameters": [
-                            "",
-                            "f"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "BooleanVariable"
-                          },
-                          "parameters": [
-                            "gojo_atk_2",
-                            "=",
-                            ""
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "SetBooleanVariable"
-                          },
-                          "parameters": [
-                            "gojo_atk_2",
-                            "True",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Wait"
-                          },
-                          "parameters": [
-                            "0.5"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "FireBullet::FireBullet::Fire"
-                          },
-                          "parameters": [
-                            "Gojo",
-                            "FireBullet",
-                            "Gojo.X()",
-                            "Gojo.Y()+10",
                             "POWER_GOJO",
-                            "0",
-                            "1000",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "SetBooleanVariable"
-                          },
-                          "parameters": [
-                            "gojo_atk_2",
-                            "False",
                             ""
                           ]
                         }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": true,
-                        "value": "FlippableCapability::FlippableBehavior::FlippedX"
-                      },
-                      "parameters": [
-                        "Gojo",
-                        "Flippable"
-                      ]
-                    }
-                  ],
-                  "actions": [],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "KeyReleased"
-                          },
-                          "parameters": [
-                            "",
-                            "f"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "BooleanVariable"
-                          },
-                          "parameters": [
-                            "gojo_atk_2",
-                            "=",
-                            ""
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "SetBooleanVariable"
-                          },
-                          "parameters": [
-                            "gojo_atk_2",
-                            "True",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "FireBullet::FireBullet::Fire"
-                          },
-                          "parameters": [
-                            "Gojo",
-                            "FireBullet",
-                            "Gojo.X()",
-                            "Gojo.Y()+10",
-                            "POWER_GOJO",
-                            "0",
-                            "-1000",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Wait"
-                          },
-                          "parameters": [
-                            "0.5"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "SetBooleanVariable"
-                          },
-                          "parameters": [
-                            "gojo_atk_2",
-                            "False",
-                            ""
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CollisionNP"
-                      },
-                      "parameters": [
-                        "Sukuna",
-                        "POWER_GOJO",
-                        "",
-                        "",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Health::Health::Hit"
-                      },
-                      "parameters": [
-                        "Sukuna",
-                        "Health",
-                        "10",
-                        "",
-                        "",
-                        ""
                       ]
                     },
                     {
-                      "type": {
-                        "value": "Delete"
-                      },
-                      "parameters": [
-                        "POWER_GOJO",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "ScalableCapability::ScalableBehavior::SetValue"
-                      },
-                      "parameters": [
-                        "POWER_GOJO",
-                        "Scale",
-                        "=",
-                        "2"
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": []
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "folded": true,
-              "name": "Atk_3",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
-                {
-                  "folded": true,
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "FlippableCapability::FlippableBehavior::FlippedX"
-                      },
-                      "parameters": [
-                        "Gojo",
-                        "Flippable"
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ScalableCapability::ScalableBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "POWER_GOJO",
+                            "Scale",
+                            "=",
+                            "2"
+                          ]
+                        }
                       ]
                     }
                   ],
-                  "actions": [],
+                  "parameters": []
+                },
+                {
+                  "colorB": 228,
+                  "colorG": 176,
+                  "colorR": 74,
+                  "creationTime": 0,
+                  "folded": true,
+                  "name": "Atk_3",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
                   "events": [
                     {
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
                         {
                           "type": {
-                            "value": "BooleanVariable"
-                          },
-                          "parameters": [
-                            "gojo_atk_3",
-                            "=",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "NumberVariable"
-                          },
-                          "parameters": [
-                            "Dominio",
-                            "!=",
-                            "1"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "NumberVariable"
-                          },
-                          "parameters": [
-                            "Dominio",
-                            "!=",
-                            "0"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "KeyReleased"
-                          },
-                          "parameters": [
-                            "",
-                            "r"
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "SetBooleanVariable"
-                          },
-                          "parameters": [
-                            "gojo_atk_3",
-                            "True",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "FireBullet::FireBullet::Fire"
+                            "value": "FlippableCapability::FlippableBehavior::FlippedX"
                           },
                           "parameters": [
                             "Gojo",
-                            "FireBullet",
-                            "Gojo.X()",
-                            "Gojo.Y()",
-                            "power_roxo",
-                            "0",
-                            "1000",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Wait"
-                          },
-                          "parameters": [
-                            "5"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "SetBooleanVariable"
-                          },
-                          "parameters": [
-                            "gojo_atk_3",
-                            "False",
-                            ""
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "folded": true,
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "inverted": true,
-                        "value": "FlippableCapability::FlippableBehavior::FlippedX"
-                      },
-                      "parameters": [
-                        "Gojo",
-                        "Flippable"
-                      ]
-                    }
-                  ],
-                  "actions": [],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "BooleanVariable"
-                          },
-                          "parameters": [
-                            "gojo_atk_3",
-                            "=",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "NumberVariable"
-                          },
-                          "parameters": [
-                            "Dominio",
-                            "!=",
-                            "1"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "NumberVariable"
-                          },
-                          "parameters": [
-                            "Dominio",
-                            "!=",
-                            "0"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "KeyReleased"
-                          },
-                          "parameters": [
-                            "",
-                            "r"
+                            "Flippable"
                           ]
                         }
                       ],
-                      "actions": [
+                      "actions": [],
+                      "events": [
                         {
-                          "type": {
-                            "value": "SetBooleanVariable"
-                          },
-                          "parameters": [
-                            "gojo_atk_3",
-                            "True",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "FireBullet::FireBullet::Fire"
-                          },
-                          "parameters": [
-                            "Gojo",
-                            "FireBullet",
-                            "Gojo.X()",
-                            "Gojo.Y()",
-                            "power_roxo",
-                            "0",
-                            "-1000",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Wait"
-                          },
-                          "parameters": [
-                            "5"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "SetBooleanVariable"
-                          },
-                          "parameters": [
-                            "gojo_atk_3",
-                            "False",
-                            ""
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "BooleanVariable"
+                              },
+                              "parameters": [
+                                "gojo_atk_3",
+                                "=",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "NumberVariable"
+                              },
+                              "parameters": [
+                                "Dominio",
+                                "!=",
+                                "1"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "NumberVariable"
+                              },
+                              "parameters": [
+                                "Dominio",
+                                "!=",
+                                "0"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "KeyReleased"
+                              },
+                              "parameters": [
+                                "",
+                                "r"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetBooleanVariable"
+                              },
+                              "parameters": [
+                                "gojo_atk_3",
+                                "True",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "FireBullet::FireBullet::Fire"
+                              },
+                              "parameters": [
+                                "Gojo",
+                                "FireBullet",
+                                "Gojo.X()",
+                                "Gojo.Y()",
+                                "power_roxo",
+                                "0",
+                                "1000",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "3bd7554e8249d64b0e2b62bbef263214ed7a0dffca63a3b55b3a9a9b5256e203_Arrow.aac",
+                                "",
+                                "30",
+                                "1"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Wait"
+                              },
+                              "parameters": [
+                                "5"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetBooleanVariable"
+                              },
+                              "parameters": [
+                                "gojo_atk_3",
+                                "False",
+                                ""
+                              ]
+                            }
                           ]
                         }
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CollisionNP"
-                      },
-                      "parameters": [
-                        "power_roxo",
-                        "Sukuna",
-                        "",
-                        "",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Health::Health::Hit"
-                      },
-                      "parameters": [
-                        "Sukuna",
-                        "Health",
-                        "15",
-                        "",
-                        "",
-                        ""
                       ]
                     },
                     {
-                      "type": {
-                        "value": "Delete"
-                      },
-                      "parameters": [
-                        "power_roxo",
-                        ""
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "inverted": true,
+                            "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                          },
+                          "parameters": [
+                            "Gojo",
+                            "Flippable"
+                          ]
+                        }
+                      ],
+                      "actions": [],
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "BooleanVariable"
+                              },
+                              "parameters": [
+                                "gojo_atk_3",
+                                "=",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "NumberVariable"
+                              },
+                              "parameters": [
+                                "Dominio",
+                                "!=",
+                                "1"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "NumberVariable"
+                              },
+                              "parameters": [
+                                "Dominio",
+                                "!=",
+                                "0"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "KeyReleased"
+                              },
+                              "parameters": [
+                                "",
+                                "r"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetBooleanVariable"
+                              },
+                              "parameters": [
+                                "gojo_atk_3",
+                                "True",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "FireBullet::FireBullet::Fire"
+                              },
+                              "parameters": [
+                                "Gojo",
+                                "FireBullet",
+                                "Gojo.X()",
+                                "Gojo.Y()",
+                                "power_roxo",
+                                "0",
+                                "-1000",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "3bd7554e8249d64b0e2b62bbef263214ed7a0dffca63a3b55b3a9a9b5256e203_Arrow.aac",
+                                "",
+                                "30",
+                                "1"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Wait"
+                              },
+                              "parameters": [
+                                "15"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetBooleanVariable"
+                              },
+                              "parameters": [
+                                "gojo_atk_3",
+                                "False",
+                                ""
+                              ]
+                            }
+                          ]
+                        }
                       ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
+                    },
                     {
-                      "type": {
-                        "value": "ScalableCapability::ScalableBehavior::SetValue"
-                      },
-                      "parameters": [
-                        "power_roxo",
-                        "Scale",
-                        "=",
-                        "2"
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "power_roxo",
+                            "Sukuna",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Health::Health::Hit"
+                          },
+                          "parameters": [
+                            "Sukuna",
+                            "Health",
+                            "20",
+                            "",
+                            "",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "Delete"
+                          },
+                          "parameters": [
+                            "power_roxo",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ScalableCapability::ScalableBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "power_roxo",
+                            "Scale",
+                            "=",
+                            "2"
+                          ]
+                        }
                       ]
                     }
-                  ]
+                  ],
+                  "parameters": []
                 }
-              ],
-              "parameters": []
+              ]
             }
           ],
           "parameters": []
@@ -4668,8 +6397,8 @@
                   "parameters": [
                     "Gojo",
                     "Health",
-                    "=",
-                    "100",
+                    "<",
+                    "50",
                     ""
                   ]
                 },
@@ -4755,8 +6484,8 @@
                   "parameters": [
                     "Sukuna",
                     "Health",
-                    "=",
-                    "100",
+                    "<",
+                    "50",
                     ""
                   ]
                 },
@@ -4804,6 +6533,171 @@
             }
           ],
           "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Vitoria",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "PanelSpriteButton::PanelSpriteButton::IsClicked"
+                  },
+                  "parameters": [
+                    "OnScreenControlsButton",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Menu\"",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Sukuna",
+                    "Health",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Sukuna_text2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Sukuna2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CentreCamera"
+                  },
+                  "parameters": [
+                    "",
+                    "Block",
+                    "",
+                    "",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "Gojo_text2",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "Gojo2",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "Health::Health::IsDead"
+                  },
+                  "parameters": [
+                    "Gojo",
+                    "Health",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Gojo_text2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "Gojo2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "CentreCamera"
+                  },
+                  "parameters": [
+                    "",
+                    "Block",
+                    "",
+                    "",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "Sukuna_text2",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Montre"
+                  },
+                  "parameters": [
+                    "Sukuna2",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
         }
       ],
       "layers": [
@@ -4817,7 +6711,7 @@
           "cameraType": "",
           "followBaseLayerCamera": false,
           "isLightingLayer": false,
-          "isLocked": false,
+          "isLocked": true,
           "name": "interface",
           "renderingType": "",
           "visibility": true,
@@ -6212,32 +8106,15 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 758,
+          "height": 719,
           "keepRatio": true,
           "layer": "",
           "name": "NewVideo",
           "persistentUuid": "3e46c606-0bf0-4a0d-bdff-a485625b02b0",
-          "width": 1347,
-          "x": -76,
-          "y": -590,
+          "width": 1278,
+          "x": 2,
+          "y": -3,
           "zOrder": 13,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 9,
-          "height": 571,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Atk_Sukuna_1",
-          "persistentUuid": "259250a5-4775-4af7-b0dc-4a80db7d4871",
-          "width": 571,
-          "x": 468,
-          "y": 187,
-          "zOrder": 14,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -7155,7 +9032,7 @@
             "opacity": 255,
             "loop": false,
             "volume": 100,
-            "videoResource": "Expansão de Domínio! _ JUJUTSU KAISEN2 - Trim.mp4"
+            "videoResource": "GojoAnim.mp4"
           }
         }
       ],
@@ -7441,32 +9318,15 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 758,
+          "height": 725,
           "keepRatio": true,
           "layer": "",
           "name": "NewVideo",
           "persistentUuid": "3e46c606-0bf0-4a0d-bdff-a485625b02b0",
-          "width": 1347,
-          "x": -91,
-          "y": -656,
+          "width": 1288,
+          "x": -1,
+          "y": -3,
           "zOrder": 13,
-          "numberProperties": [],
-          "stringProperties": [],
-          "initialVariables": []
-        },
-        {
-          "angle": 0,
-          "customSize": true,
-          "depth": 10,
-          "height": 658,
-          "keepRatio": true,
-          "layer": "",
-          "name": "Atk_Sukuna_2",
-          "persistentUuid": "13274e7c-11ea-4232-846d-20b0edeb9a6e",
-          "width": 658,
-          "x": 444,
-          "y": 95,
-          "zOrder": 14,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -8384,7 +10244,7 @@
             "opacity": 255,
             "loop": false,
             "volume": 100,
-            "videoResource": "Expansão de Domínio! _ JUJUTSU KAISEN2 - Trim.mp4"
+            "videoResource": "Gojo vs sukuna - Domain clash.mp4"
           }
         }
       ],

@@ -2656,6 +2656,12 @@
       "name": "Pontos",
       "type": "number",
       "value": 0
+    },
+    {
+      "folded": true,
+      "name": "atr_cima",
+      "type": "boolean",
+      "value": false
     }
   ],
   "layouts": [
@@ -2679,7 +2685,7 @@
         "gridColor": 8289918,
         "gridAlpha": 0.17,
         "snap": true,
-        "zoomFactor": 0.15002679255026255,
+        "zoomFactor": 0.135818725795447,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -14711,6 +14717,76 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
+          "name": "Dev",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "p"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Health::Health::Heal"
+                  },
+                  "parameters": [
+                    "Diego2",
+                    "Health",
+                    "1000",
+                    ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "KeyPressed"
+                  },
+                  "parameters": [
+                    "",
+                    "o"
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Health::Health::Hit"
+                  },
+                  "parameters": [
+                    "Necromancer",
+                    "Health",
+                    "99",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
           "name": "Personagem",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -14737,6 +14813,7 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
+                  "folded": true,
                   "name": "Movimentação Sons",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -14827,6 +14904,7 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
+                  "folded": true,
                   "name": "Dash",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -14888,6 +14966,7 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
+                  "folded": true,
                   "name": "Agachar",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -14927,6 +15006,7 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
+                  "folded": true,
                   "name": "Tiro",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -14936,10 +15016,276 @@
                       "colorG": 176,
                       "colorR": 74,
                       "creationTime": 0,
+                      "name": "Tiro para cima parado",
+                      "source": "",
+                      "type": "BuiltinCommonInstructions::Group",
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "inverted": true,
+                                "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                              },
+                              "parameters": [
+                                "Diego2",
+                                "PlatformerObject"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "BooleanVariable"
+                              },
+                              "parameters": [
+                                "Recarregando",
+                                "False",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "BooleanVariable"
+                              },
+                              "parameters": [
+                                "Atirando",
+                                "=",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "",
+                                "Up"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "KeyPressed"
+                              },
+                              "parameters": [
+                                "",
+                                "z"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetBooleanVariable"
+                              },
+                              "parameters": [
+                                "Atirando",
+                                "True",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                              },
+                              "parameters": [
+                                "Diego2",
+                                "Animation",
+                                "=",
+                                "\"Shooting while standing\""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "11eced6b87fafec1d0cd90f71213fb28910ebd8e05a614bdbd44a1040f876472_Gun 5.aac",
+                                "",
+                                "10",
+                                "1"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "FireBullet::FireBullet::Fire"
+                              },
+                              "parameters": [
+                                "Diego2",
+                                "FireBullet",
+                                "Diego2.X() +  47",
+                                "Diego2.Y()+60",
+                                "Fireball",
+                                "-90",
+                                "1000",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetBooleanVariable"
+                              },
+                              "parameters": [
+                                "Atirando",
+                                "False",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "AnimatableCapability::AnimatableBehavior::PlayAnimation"
+                              },
+                              "parameters": [
+                                "Diego2",
+                                "Animation"
+                              ]
+                            }
+                          ]
+                        }
+                      ],
+                      "parameters": []
+                    },
+                    {
+                      "colorB": 228,
+                      "colorG": 176,
+                      "colorR": 74,
+                      "creationTime": 0,
                       "name": "Tiro para frente parado",
                       "source": "",
                       "type": "BuiltinCommonInstructions::Group",
                       "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "BooleanVariable"
+                              },
+                              "parameters": [
+                                "Recarregando",
+                                "False",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "BooleanVariable"
+                              },
+                              "parameters": [
+                                "Atirando",
+                                "=",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                              },
+                              "parameters": [
+                                "Diego2",
+                                "Flippable"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "inverted": true,
+                                "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                              },
+                              "parameters": [
+                                "Diego2",
+                                "PlatformerObject"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "KeyReleased"
+                              },
+                              "parameters": [
+                                "",
+                                "z"
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetBooleanVariable"
+                              },
+                              "parameters": [
+                                "Atirando",
+                                "True",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "Recarregar",
+                                "-",
+                                "1"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                              },
+                              "parameters": [
+                                "Diego2",
+                                "Animation",
+                                "=",
+                                "\"Shooting while standing\""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "FireBullet::FireBullet::Fire"
+                              },
+                              "parameters": [
+                                "Diego2",
+                                "FireBullet",
+                                "Diego2.X()- 7",
+                                "Diego2.Y()+56",
+                                "Fireball",
+                                "180",
+                                "1000",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetBooleanVariable"
+                              },
+                              "parameters": [
+                                "Atirando",
+                                "False",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "AnimatableCapability::AnimatableBehavior::PlayAnimation"
+                              },
+                              "parameters": [
+                                "Diego2",
+                                "Animation"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "11eced6b87fafec1d0cd90f71213fb28910ebd8e05a614bdbd44a1040f876472_Gun 5.aac",
+                                "",
+                                "10",
+                                "1"
+                              ]
+                            }
+                          ]
+                        },
                         {
                           "type": "BuiltinCommonInstructions::Standard",
                           "conditions": [
@@ -15072,138 +15418,6 @@
                               ]
                             }
                           ]
-                        },
-                        {
-                          "type": "BuiltinCommonInstructions::Standard",
-                          "conditions": [
-                            {
-                              "type": {
-                                "value": "BooleanVariable"
-                              },
-                              "parameters": [
-                                "Recarregando",
-                                "False",
-                                ""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "BooleanVariable"
-                              },
-                              "parameters": [
-                                "Atirando",
-                                "=",
-                                ""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "FlippableCapability::FlippableBehavior::FlippedX"
-                              },
-                              "parameters": [
-                                "Diego2",
-                                "Flippable"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "inverted": true,
-                                "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
-                              },
-                              "parameters": [
-                                "Diego2",
-                                "PlatformerObject"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "KeyReleased"
-                              },
-                              "parameters": [
-                                "",
-                                "z"
-                              ]
-                            }
-                          ],
-                          "actions": [
-                            {
-                              "type": {
-                                "value": "SetBooleanVariable"
-                              },
-                              "parameters": [
-                                "Atirando",
-                                "True",
-                                ""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "SetNumberVariable"
-                              },
-                              "parameters": [
-                                "Recarregar",
-                                "-",
-                                "1"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                              },
-                              "parameters": [
-                                "Diego2",
-                                "Animation",
-                                "=",
-                                "\"Shooting while standing\""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "FireBullet::FireBullet::Fire"
-                              },
-                              "parameters": [
-                                "Diego2",
-                                "FireBullet",
-                                "Diego2.X()- 7",
-                                "Diego2.Y()+56",
-                                "Fireball",
-                                "180",
-                                "1000",
-                                ""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "SetBooleanVariable"
-                              },
-                              "parameters": [
-                                "Atirando",
-                                "False",
-                                ""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "AnimatableCapability::AnimatableBehavior::PlayAnimation"
-                              },
-                              "parameters": [
-                                "Diego2",
-                                "Animation"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
-                                "",
-                                "11eced6b87fafec1d0cd90f71213fb28910ebd8e05a614bdbd44a1040f876472_Gun 5.aac",
-                                "",
-                                "10",
-                                "1"
-                              ]
-                            }
-                          ]
                         }
                       ],
                       "parameters": []
@@ -15213,140 +15427,7 @@
                       "colorG": 176,
                       "colorR": 74,
                       "creationTime": 0,
-                      "name": "Tiro para cima parado",
-                      "source": "",
-                      "type": "BuiltinCommonInstructions::Group",
-                      "events": [
-                        {
-                          "type": "BuiltinCommonInstructions::Standard",
-                          "conditions": [
-                            {
-                              "type": {
-                                "value": "BooleanVariable"
-                              },
-                              "parameters": [
-                                "Recarregando",
-                                "False",
-                                ""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "BooleanVariable"
-                              },
-                              "parameters": [
-                                "Atirando",
-                                "=",
-                                ""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "inverted": true,
-                                "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
-                              },
-                              "parameters": [
-                                "Diego2",
-                                "PlatformerObject"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "KeyPressed"
-                              },
-                              "parameters": [
-                                "",
-                                "Up"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "KeyPressed"
-                              },
-                              "parameters": [
-                                "",
-                                "z"
-                              ]
-                            }
-                          ],
-                          "actions": [
-                            {
-                              "type": {
-                                "value": "SetBooleanVariable"
-                              },
-                              "parameters": [
-                                "Atirando",
-                                "True",
-                                ""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                              },
-                              "parameters": [
-                                "Diego2",
-                                "Animation",
-                                "=",
-                                "\"Shooting while standing\""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "FireBullet::FireBullet::Fire"
-                              },
-                              "parameters": [
-                                "Diego2",
-                                "FireBullet",
-                                "Diego2.X() +  47",
-                                "Diego2.Y()+60",
-                                "Fireball",
-                                "-90",
-                                "1000",
-                                ""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "SetBooleanVariable"
-                              },
-                              "parameters": [
-                                "Atirando",
-                                "False",
-                                ""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "AnimatableCapability::AnimatableBehavior::PlayAnimation"
-                              },
-                              "parameters": [
-                                "Diego2",
-                                "Animation"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
-                                "",
-                                "11eced6b87fafec1d0cd90f71213fb28910ebd8e05a614bdbd44a1040f876472_Gun 5.aac",
-                                "",
-                                "10",
-                                "1"
-                              ]
-                            }
-                          ]
-                        }
-                      ],
-                      "parameters": []
-                    },
-                    {
-                      "colorB": 228,
-                      "colorG": 176,
-                      "colorR": 74,
-                      "creationTime": 0,
+                      "folded": true,
                       "name": "Recarregar parado",
                       "source": "",
                       "type": "BuiltinCommonInstructions::Group",
@@ -15504,6 +15585,7 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
+                  "folded": true,
                   "name": "Bomba",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -15766,6 +15848,7 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
+                  "folded": true,
                   "name": "Vida",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -15947,6 +16030,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Enemy",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -15956,6 +16040,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
+              "folded": true,
               "name": "Movimentação",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -16022,6 +16107,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
+              "folded": true,
               "name": "Vida",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -16152,6 +16238,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
+              "folded": true,
               "name": "Vida2",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -16241,6 +16328,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
+              "folded": true,
               "name": "Ataque",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -16303,6 +16391,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
+              "folded": true,
               "name": "Ataque2",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -16368,6 +16457,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Points",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -16397,6 +16487,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Boss",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -16554,6 +16645,7 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
+                  "folded": true,
                   "name": "Movimentação",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -16631,6 +16723,7 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
+                  "folded": true,
                   "name": "Ataque",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -16838,6 +16931,7 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
+                  "folded": true,
                   "name": "Dano",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -17012,6 +17106,7 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
+                  "folded": true,
                   "name": "Drop",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -17168,6 +17263,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Key2",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -17278,108 +17374,96 @@
               ]
             },
             {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "name": "Fase Boos",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": [
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "ScalableCapability::ScalableBehavior::SetValue"
-                      },
-                      "parameters": [
-                        "LockOpen",
-                        "Scale",
-                        "=",
-                        "5"
-                      ]
-                    }
+                  "type": {
+                    "value": "ScalableCapability::ScalableBehavior::SetValue"
+                  },
+                  "parameters": [
+                    "LockOpen",
+                    "Scale",
+                    "=",
+                    "5"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Diego2",
+                    "LockClosed",
+                    "80",
+                    "",
+                    ""
                   ]
                 },
                 {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CollisionNP"
-                      },
-                      "parameters": [
-                        "Diego2",
-                        "LockClosed",
-                        "80",
-                        "",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BooleanVariable"
-                      },
-                      "parameters": [
-                        "Key2",
-                        "True",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Create"
-                      },
-                      "parameters": [
-                        "",
-                        "LockOpen",
-                        "LockClosed.X()",
-                        "LockClosed.Y()",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Delete"
-                      },
-                      "parameters": [
-                        "LockClosed",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Delete"
-                      },
-                      "parameters": [
-                        "Barreira2",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Cache"
-                      },
-                      "parameters": [
-                        "KeyTXT2"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Cache"
-                      },
-                      "parameters": [
-                        "SilverKey2"
-                      ]
-                    }
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "Key2",
+                    "True",
+                    ""
                   ]
                 }
               ],
-              "parameters": []
+              "actions": [
+                {
+                  "type": {
+                    "value": "Create"
+                  },
+                  "parameters": [
+                    "",
+                    "LockOpen",
+                    "LockClosed.X()",
+                    "LockClosed.Y()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "LockClosed",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Barreira2",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "KeyTXT2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "SilverKey2"
+                  ]
+                }
+              ]
             }
           ],
           "parameters": []
@@ -17389,6 +17473,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Colision doors",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -17598,246 +17683,24 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Final",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "name": "Key2",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "CollisionNP"
-                      },
-                      "parameters": [
-                        "Diego2",
-                        "SilverKey",
-                        "",
-                        "",
-                        ""
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "Delete"
-                      },
-                      "parameters": [
-                        "SilverKey",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Montre"
-                      },
-                      "parameters": [
-                        "KeyTXT2",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "Montre"
-                      },
-                      "parameters": [
-                        "SilverKey2",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "SetBooleanVariable"
-                      },
-                      "parameters": [
-                        "Key2",
-                        "True",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "colorB": 228,
-                  "colorG": 176,
-                  "colorR": 74,
-                  "creationTime": 0,
-                  "name": "Fase Final",
-                  "source": "",
-                  "type": "BuiltinCommonInstructions::Group",
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "ScalableCapability::ScalableBehavior::SetValue"
-                          },
-                          "parameters": [
-                            "LockOpen2",
-                            "Scale",
-                            "=",
-                            "5"
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "CollisionNP"
-                          },
-                          "parameters": [
-                            "Diego2",
-                            "LockClosed2",
-                            "80",
-                            "",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "BooleanVariable"
-                          },
-                          "parameters": [
-                            "Key1",
-                            "True",
-                            ""
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "Create"
-                          },
-                          "parameters": [
-                            "",
-                            "LockOpen2",
-                            "LockClosed2.X()",
-                            "LockClosed2.Y()",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Delete"
-                          },
-                          "parameters": [
-                            "LockClosed2",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Delete"
-                          },
-                          "parameters": [
-                            "Barreira",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Cache"
-                          },
-                          "parameters": [
-                            "KeyTXT"
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "Cache"
-                          },
-                          "parameters": [
-                            "GoldKey2"
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "CollisionNP"
-                          },
-                          "parameters": [
-                            "Diego2",
-                            "Portal",
-                            "",
-                            "",
-                            ""
-                          ]
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "Scene"
-                          },
-                          "parameters": [
-                            "",
-                            "\"Fim\"",
-                            ""
-                          ]
-                        }
-                      ]
-                    }
-                  ],
-                  "parameters": []
-                }
-              ],
-              "parameters": []
-            }
-          ],
-          "parameters": []
-        },
-        {
-          "colorB": 228,
-          "colorG": 176,
-          "colorR": 74,
-          "creationTime": 0,
-          "name": "Dev",
-          "source": "",
-          "type": "BuiltinCommonInstructions::Group",
-          "events": [
-            {
               "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "KeyPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "p"
-                  ]
-                }
-              ],
+              "conditions": [],
               "actions": [
                 {
                   "type": {
-                    "value": "Health::Health::Heal"
+                    "value": "ScalableCapability::ScalableBehavior::SetValue"
                   },
                   "parameters": [
-                    "Diego2",
-                    "Health",
-                    "1000",
-                    ""
+                    "LockOpen2",
+                    "Scale",
+                    "=",
+                    "5"
                   ]
                 }
               ]
@@ -17847,25 +17710,100 @@
               "conditions": [
                 {
                   "type": {
-                    "value": "KeyPressed"
+                    "value": "CollisionNP"
                   },
                   "parameters": [
+                    "Diego2",
+                    "LockClosed2",
+                    "80",
                     "",
-                    "o"
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "Key1",
+                    "True",
+                    ""
                   ]
                 }
               ],
               "actions": [
                 {
                   "type": {
-                    "value": "Health::Health::Hit"
+                    "value": "Create"
                   },
                   "parameters": [
-                    "Necromancer",
-                    "Health",
-                    "99",
+                    "",
+                    "LockOpen2",
+                    "LockClosed2.X()",
+                    "LockClosed2.Y()",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "LockClosed2",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Delete"
+                  },
+                  "parameters": [
+                    "Barreira",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "KeyTXT"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "GoldKey2"
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Diego2",
+                    "Portal",
                     "",
                     "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Fim\"",
                     ""
                   ]
                 }
@@ -18061,7 +17999,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.604083874998888,
+        "zoomFactor": 0.41943397827590695,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -21341,7 +21279,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.43357743047023767,
+        "zoomFactor": 0.3673257545058823,
         "windowMask": false
       },
       "objectsGroups": [],

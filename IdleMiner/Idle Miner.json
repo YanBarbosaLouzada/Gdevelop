@@ -1822,7 +1822,7 @@
         "alwaysLoaded": false,
         "file": "assets/Close button.png",
         "kind": "image",
-        "metadata": "",
+        "metadata": "{\"localFilePath\":\"assets/Close button.png\",\"extension\":\".png\"}",
         "name": "Close button.png",
         "smoothed": false,
         "userAdded": false,
@@ -2326,6 +2326,51 @@
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
         "name": "NewSprite7",
+        "smoothed": false,
+        "userAdded": true
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite8.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite8",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite9.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite9",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/NewSprite10.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "NewSprite10",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "assets/Close button2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "Close button",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "alwaysLoaded": false,
+        "file": "images.jpg",
+        "kind": "image",
+        "metadata": "",
+        "name": "images.jpg",
         "smoothed": false,
         "userAdded": true
       }
@@ -6693,7 +6738,7 @@
         "gridColor": 10197915,
         "gridAlpha": 0.33,
         "snap": true,
-        "zoomFactor": 0.263645767377087,
+        "zoomFactor": 0.529035740215698,
         "windowMask": false
       },
       "objectsGroups": [
@@ -6783,12 +6828,12 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 190,
+          "height": 192,
           "keepRatio": true,
           "layer": "",
           "name": "WallForRedFloor2",
           "persistentUuid": "39c94fef-4e54-42df-9177-4fecd7e1c961",
-          "width": 832,
+          "width": 864,
           "x": 544,
           "y": 512,
           "zOrder": 212,
@@ -12641,10 +12686,10 @@
           "effects": [],
           "behaviors": [
             {
-              "canBeGrabbed": true,
               "name": "Platform",
-              "platformType": "NormalPlatform",
               "type": "PlatformBehavior::PlatformBehavior",
+              "canBeGrabbed": true,
+              "platformType": "NormalPlatform",
               "yGrabOffset": 0
             }
           ],
@@ -13220,6 +13265,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Sistema de Elevador",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -13427,6 +13473,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Sistema de Venda",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -13692,6 +13739,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Buffs",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -13805,6 +13853,23 @@
                 }
               ],
               "parameters": []
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Maps",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [],
+              "actions": []
             }
           ],
           "parameters": []
@@ -13955,7 +14020,7 @@
       "title": "",
       "v": 209,
       "uiSettings": {
-        "grid": false,
+        "grid": true,
         "gridType": "rectangular",
         "gridWidth": 32,
         "gridHeight": 32,
@@ -13963,8 +14028,8 @@
         "gridOffsetY": 0,
         "gridColor": 10401023,
         "gridAlpha": 0.8,
-        "snap": false,
-        "zoomFactor": 0.5843784410740929,
+        "snap": true,
+        "zoomFactor": 0.5117784035210179,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -13980,9 +14045,9 @@
           "name": "Background",
           "persistentUuid": "1bb7463b-77f9-4b93-8bdc-23809ff6f1c3",
           "width": 1286,
-          "x": -8,
-          "y": -2,
-          "zOrder": 1,
+          "x": 0,
+          "y": 3,
+          "zOrder": 0,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -13997,8 +14062,8 @@
           "name": "Pickaxe",
           "persistentUuid": "180c1ebf-c73b-4d54-b268-4eac463ddcd7",
           "width": 131,
-          "x": 431,
-          "y": 312,
+          "x": 189,
+          "y": 317,
           "zOrder": 2,
           "numberProperties": [],
           "stringProperties": [],
@@ -14014,8 +14079,8 @@
           "name": "IronBoots",
           "persistentUuid": "7fc95e81-10d8-4257-aacf-f7898eb47dcf",
           "width": 131,
-          "x": 606,
-          "y": 312,
+          "x": 576,
+          "y": 317,
           "zOrder": 3,
           "numberProperties": [],
           "stringProperties": [],
@@ -14031,8 +14096,8 @@
           "name": "BuffArrow1",
           "persistentUuid": "ce2858af-49b3-47f1-8917-bb108d326a09",
           "width": 131,
-          "x": 781,
-          "y": 312,
+          "x": 989,
+          "y": 320,
           "zOrder": 4,
           "numberProperties": [],
           "stringProperties": [],
@@ -14040,15 +14105,16 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
           "keepRatio": true,
           "layer": "",
           "name": "Minerar_mais_rapido",
           "persistentUuid": "6713dd54-612d-4f95-a78c-153e0036a685",
-          "width": 0,
-          "x": 343,
-          "y": 271,
+          "width": 295,
+          "x": 89,
+          "y": 256,
           "zOrder": 5,
           "numberProperties": [],
           "stringProperties": [],
@@ -14056,15 +14122,16 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
           "keepRatio": true,
           "layer": "",
           "name": "Andar_mais_rapido",
           "persistentUuid": "71582a86-168c-47f4-ae89-0f2db8408ffc",
-          "width": 0,
-          "x": 587,
-          "y": 268,
+          "width": 288,
+          "x": 512,
+          "y": 256,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -14072,15 +14139,16 @@
         },
         {
           "angle": 0,
-          "customSize": false,
-          "height": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
           "keepRatio": true,
           "layer": "",
           "name": "Novo_nivel_da_mina",
           "persistentUuid": "b62574c0-8c2d-4096-a979-a240903ed1e4",
-          "width": 0,
-          "x": 794,
-          "y": 266,
+          "width": 316,
+          "x": 932,
+          "y": 256,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -14096,9 +14164,159 @@
           "name": "CloseButton",
           "persistentUuid": "9bea601e-ef49-4b8b-b1ae-dc38c23d9af2",
           "width": 68,
-          "x": 1146,
-          "y": 51,
+          "x": 1116,
+          "y": 64,
           "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Minerar_mais_rapido2",
+          "persistentUuid": "e75f4ee3-7356-40e2-ba8b-121056c08d0c",
+          "width": 60,
+          "x": 196,
+          "y": 480,
+          "zOrder": 9,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Andar_mais_rapido2",
+          "persistentUuid": "59eb6735-fda3-451d-b3c3-5421859f6777",
+          "width": 61,
+          "x": 608,
+          "y": 480,
+          "zOrder": 10,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Novo_nivel_da_mina2",
+          "persistentUuid": "4bc073fc-dbf5-4c8e-a37f-896482ff2849",
+          "width": 61,
+          "x": 1024,
+          "y": 480,
+          "zOrder": 11,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Mais",
+          "persistentUuid": "c1f19582-6394-448a-8da7-bf13ced12d0f",
+          "width": 0,
+          "x": 288,
+          "y": 416,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Mais",
+          "persistentUuid": "99d4ba8f-07a4-4707-b16f-298cf35ca211",
+          "width": 0,
+          "x": 1120,
+          "y": 416,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": false,
+          "height": 0,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Mais",
+          "persistentUuid": "b80aeb9c-b0a5-4319-a23b-b4fbce4f2dc2",
+          "width": 0,
+          "x": 704,
+          "y": 416,
+          "zOrder": 12,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 352,
+          "keepRatio": true,
+          "layer": "",
+          "name": "block",
+          "persistentUuid": "cadcfaf3-af87-4c5c-b768-f56a2a5dba4a",
+          "width": 352,
+          "x": 896,
+          "y": 224,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 352,
+          "keepRatio": true,
+          "layer": "",
+          "name": "block",
+          "persistentUuid": "8a9cb9ac-09b7-4ef7-b11b-763191ea8762",
+          "width": 352,
+          "x": 64,
+          "y": 224,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 352,
+          "keepRatio": true,
+          "layer": "",
+          "name": "block",
+          "persistentUuid": "628086c0-49cf-4a79-b563-bb604ffefede",
+          "width": 352,
+          "x": 480,
+          "y": 224,
+          "zOrder": 1,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -14126,7 +14344,7 @@
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "NewSprite3",
+                      "image": "images.jpg",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -14146,16 +14364,16 @@
                             "y": 0
                           },
                           {
-                            "x": 64,
+                            "x": 225,
                             "y": 0
                           },
                           {
-                            "x": 64,
-                            "y": 64
+                            "x": 225,
+                            "y": 225
                           },
                           {
                             "x": 0,
-                            "y": 64
+                            "y": 225
                           }
                         ]
                       ]
@@ -14396,8 +14614,8 @@
         },
         {
           "assetStoreId": "",
-          "bold": false,
-          "italic": false,
+          "bold": true,
+          "italic": true,
           "name": "Minerar_mais_rapido",
           "smoothed": true,
           "type": "TextObject::Text",
@@ -14405,40 +14623,40 @@
           "variables": [],
           "effects": [],
           "behaviors": [],
-          "string": "Minerar_mais_rapido",
+          "string": "Minerar mais rapido",
           "font": "",
           "textAlignment": "left",
-          "characterSize": 20,
+          "characterSize": 30,
           "color": {
             "b": 255,
             "g": 255,
             "r": 255
           },
           "content": {
-            "bold": false,
-            "isOutlineEnabled": false,
-            "isShadowEnabled": false,
-            "italic": false,
-            "outlineColor": "255;255;255",
-            "outlineThickness": 2,
+            "bold": true,
+            "isOutlineEnabled": true,
+            "isShadowEnabled": true,
+            "italic": true,
+            "outlineColor": "0;0;0",
+            "outlineThickness": 5,
             "shadowAngle": 90,
-            "shadowBlurRadius": 2,
+            "shadowBlurRadius": 6,
             "shadowColor": "0;0;0",
             "shadowDistance": 4,
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "Minerar_mais_rapido",
+            "text": "Minerar mais rapido",
             "font": "",
             "textAlignment": "left",
-            "characterSize": 20,
+            "characterSize": 30,
             "color": "255;255;255"
           }
         },
         {
           "assetStoreId": "",
-          "bold": false,
-          "italic": false,
+          "bold": true,
+          "italic": true,
           "name": "Andar_mais_rapido",
           "smoothed": true,
           "type": "TextObject::Text",
@@ -14449,21 +14667,21 @@
           "string": "Andar mais rapido",
           "font": "",
           "textAlignment": "left",
-          "characterSize": 20,
+          "characterSize": 30,
           "color": {
             "b": 255,
             "g": 255,
             "r": 255
           },
           "content": {
-            "bold": false,
-            "isOutlineEnabled": false,
-            "isShadowEnabled": false,
-            "italic": false,
-            "outlineColor": "255;255;255",
-            "outlineThickness": 2,
+            "bold": true,
+            "isOutlineEnabled": true,
+            "isShadowEnabled": true,
+            "italic": true,
+            "outlineColor": "0;0;0",
+            "outlineThickness": 6,
             "shadowAngle": 90,
-            "shadowBlurRadius": 2,
+            "shadowBlurRadius": 6,
             "shadowColor": "0;0;0",
             "shadowDistance": 4,
             "shadowOpacity": 127,
@@ -14472,14 +14690,14 @@
             "text": "Andar mais rapido",
             "font": "",
             "textAlignment": "left",
-            "characterSize": 20,
+            "characterSize": 30,
             "color": "255;255;255"
           }
         },
         {
           "assetStoreId": "",
-          "bold": false,
-          "italic": false,
+          "bold": true,
+          "italic": true,
           "name": "Novo_nivel_da_mina",
           "smoothed": true,
           "type": "TextObject::Text",
@@ -14490,21 +14708,21 @@
           "string": "Novo nivel da mina",
           "font": "",
           "textAlignment": "left",
-          "characterSize": 20,
+          "characterSize": 30,
           "color": {
             "b": 255,
             "g": 255,
             "r": 255
           },
           "content": {
-            "bold": false,
-            "isOutlineEnabled": false,
-            "isShadowEnabled": false,
-            "italic": false,
-            "outlineColor": "255;255;255",
-            "outlineThickness": 2,
+            "bold": true,
+            "isOutlineEnabled": true,
+            "isShadowEnabled": true,
+            "italic": true,
+            "outlineColor": "0;0;0",
+            "outlineThickness": 6,
             "shadowAngle": 90,
-            "shadowBlurRadius": 2,
+            "shadowBlurRadius": 6,
             "shadowColor": "0;0;0",
             "shadowDistance": 4,
             "shadowOpacity": 127,
@@ -14513,7 +14731,7 @@
             "text": "Novo nivel da mina",
             "font": "",
             "textAlignment": "left",
-            "characterSize": 20,
+            "characterSize": 30,
             "color": "255;255;255"
           }
         },
@@ -14528,16 +14746,17 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "Close button",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": true,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.025,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Close button.png",
+                      "image": "Close button",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -14576,6 +14795,251 @@
               ]
             }
           ]
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": true,
+          "name": "Minerar_mais_rapido2",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "700",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 30,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": true,
+            "isShadowEnabled": true,
+            "italic": true,
+            "outlineColor": "0;0;0",
+            "outlineThickness": 5,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 6,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "700",
+            "font": "",
+            "textAlignment": "left",
+            "characterSize": 30,
+            "color": "255;255;255"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": true,
+          "name": "Andar_mais_rapido2",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "400",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 30,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": true,
+            "isShadowEnabled": true,
+            "italic": true,
+            "outlineColor": "0;0;0",
+            "outlineThickness": 6,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 6,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "400",
+            "font": "",
+            "textAlignment": "left",
+            "characterSize": 30,
+            "color": "255;255;255"
+          }
+        },
+        {
+          "assetStoreId": "",
+          "bold": true,
+          "italic": true,
+          "name": "Novo_nivel_da_mina2",
+          "smoothed": true,
+          "type": "TextObject::Text",
+          "underlined": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "string": "200",
+          "font": "",
+          "textAlignment": "left",
+          "characterSize": 30,
+          "color": {
+            "b": 255,
+            "g": 255,
+            "r": 255
+          },
+          "content": {
+            "bold": true,
+            "isOutlineEnabled": true,
+            "isShadowEnabled": true,
+            "italic": true,
+            "outlineColor": "0;0;0",
+            "outlineThickness": 6,
+            "shadowAngle": 90,
+            "shadowBlurRadius": 6,
+            "shadowColor": "0;0;0",
+            "shadowDistance": 4,
+            "shadowOpacity": 127,
+            "smoothed": true,
+            "underlined": false,
+            "text": "200",
+            "font": "",
+            "textAlignment": "left",
+            "characterSize": 30,
+            "color": "255;255;255"
+          }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "Mais",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite9",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 1,
+                            "y": 1
+                          },
+                          {
+                            "x": 63,
+                            "y": 1
+                          },
+                          {
+                            "x": 63,
+                            "y": 63
+                          },
+                          {
+                            "x": 1,
+                            "y": 63
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "block",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "NewSprite",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "NewSprite10",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 0
+                          },
+                          {
+                            "x": 64,
+                            "y": 64
+                          },
+                          {
+                            "x": 0,
+                            "y": 64
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -14600,10 +15064,25 @@
             "objectName": "Minerar_mais_rapido"
           },
           {
+            "objectName": "Minerar_mais_rapido2"
+          },
+          {
             "objectName": "Andar_mais_rapido"
           },
           {
+            "objectName": "Andar_mais_rapido2"
+          },
+          {
             "objectName": "Novo_nivel_da_mina"
+          },
+          {
+            "objectName": "Novo_nivel_da_mina2"
+          },
+          {
+            "objectName": "Mais"
+          },
+          {
+            "objectName": "block"
           }
         ]
       },
