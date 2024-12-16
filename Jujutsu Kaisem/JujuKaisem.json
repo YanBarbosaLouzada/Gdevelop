@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 212,
+    "build": 219,
     "major": 5,
     "minor": 4,
     "revision": 0
@@ -65,7 +65,6 @@
   "resources": {
     "resources": [
       {
-        "alwaysLoaded": false,
         "file": "9ac665d98a6a26d658c18c81da24461a.png",
         "kind": "image",
         "metadata": "",
@@ -74,7 +73,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "JJK-Gojo-Domain-Expantion-1.jpg",
         "kind": "image",
         "metadata": "",
@@ -83,7 +81,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "maxresdefault.jpg",
         "kind": "image",
         "metadata": "",
@@ -92,7 +89,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "524a84a508a5a16-removebg-preview.png",
         "kind": "image",
         "metadata": "",
@@ -101,7 +97,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/524a84a508a5a16-removebg-preview.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/524a84a508a5a16-removebg-preview.png\"}",
@@ -110,7 +105,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "deawg2i-7e4895ba-ff5a-407f-8835-931ee42c37d7-removebg-preview.png",
         "kind": "image",
         "metadata": "",
@@ -119,7 +113,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/deawg2i-7e4895ba-ff5a-407f-8835-931ee42c37d7-removebg-preview.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -128,7 +121,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Flat Bar Red Fill Bar.png",
         "kind": "image",
         "metadata": "",
@@ -141,7 +133,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Flat Bar White Border.png",
         "kind": "image",
         "metadata": "",
@@ -154,7 +145,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "filters_quality(95)format(webp).webp",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"filters_quality(95)format(webp).webp\",\"extension\":\".png\"}",
@@ -163,7 +153,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "fc6277d006ac19c80ed40bbc48f37aa6f5cedac8r1-1920-1080v2_hq.jpg",
         "kind": "image",
         "metadata": "",
@@ -172,7 +161,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite.png\"}",
@@ -181,7 +169,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Atk_Sukuna_2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -190,7 +177,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -213,7 +199,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/deawg2i-7e4895ba-ff5a-407f-8835-931ee42c37d7-removebg-preview2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -222,7 +207,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "C:/Users/mynds/Documents/GDevelop projects/My project28/assets/NewSprite.png",
         "kind": "image",
         "metadata": "",
@@ -231,7 +215,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "NewSprite2.png",
         "kind": "image",
         "metadata": "",
@@ -240,7 +223,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite3.png\"}",
@@ -249,7 +231,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -258,7 +239,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Full Arrow.png",
         "kind": "image",
         "metadata": "",
@@ -271,7 +251,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -280,7 +259,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite6.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -289,7 +267,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "../../../../../Downloads/images-removebg-preview.png",
         "kind": "image",
         "metadata": "",
@@ -298,7 +275,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "24781-1920x1080-desktop-full-hd-jujutsu-kaisen-tv-series-background-image.jpg",
         "kind": "image",
         "metadata": "",
@@ -307,7 +283,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite7.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite7.png\"}",
@@ -316,7 +291,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/White Decorated Button_Hovered.png",
         "kind": "image",
         "metadata": "",
@@ -329,7 +303,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/White Decorated Button_Idle.png",
         "kind": "image",
         "metadata": "",
@@ -342,7 +315,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/White Decorated Button_Pressed.png",
         "kind": "image",
         "metadata": "",
@@ -436,7 +408,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite8.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -445,7 +416,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite9.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -454,7 +424,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/X Button.png",
         "kind": "image",
         "metadata": "",
@@ -467,7 +436,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Block.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -476,7 +444,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/On Screen Controls Button_Hovered.png",
         "kind": "image",
         "metadata": "",
@@ -489,7 +456,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/On Screen Controls Button_Idle.png",
         "kind": "image",
         "metadata": "",
@@ -502,7 +468,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/On Screen Controls Button_Pressed.png",
         "kind": "image",
         "metadata": "",
@@ -524,6 +489,32 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Menu buttons/e96b43b0ca3fd7775d75a702f44cd1b0dfd325e1db317f7cba84efdf572571fe_Roboto-Regular.ttf",
           "name": "Roboto-Regular.ttf"
         }
+      },
+      {
+        "file": "Full Arrow2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Full Arrow2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "NewSprite11.png",
+        "kind": "image",
+        "metadata": "{\"localFilePath\":\"NewSprite11.png\",\"extension\":\".png\"}",
+        "name": "NewSprite11.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "『  Domain Expansion_ Malevolent Shrine  』 - Jujutsu Kaisen Season 2 Episode 17 Cover.mp3",
+        "kind": "audio",
+        "metadata": "",
+        "name": "『  Domain Expansion_ Malevolent Shrine  』 - Jujutsu Kaisen Season 2 Episode 17 Cover.mp3",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -604,7 +595,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.4633111824513978,
+        "zoomFactor": 0.5117784035210181,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -965,6 +956,7 @@
                 "text": "Jogar",
                 "font": "ArchitectsDaughter.ttf",
                 "textAlignment": "center",
+                "verticalTextAlignment": "top",
                 "characterSize": 20,
                 "color": "0;0;0"
               }
@@ -1048,6 +1040,7 @@
                 "text": "Sair",
                 "font": "ArchitectsDaughter.ttf",
                 "textAlignment": "center",
+                "verticalTextAlignment": "top",
                 "characterSize": 20,
                 "color": "0;0;0"
               }
@@ -1101,6 +1094,7 @@
             "text": "JUJUTS KAISEM",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 50,
             "color": "148;47;47"
           }
@@ -1172,6 +1166,7 @@
                 "text": "Tutorial",
                 "font": "ArchitectsDaughter.ttf",
                 "textAlignment": "center",
+                "verticalTextAlignment": "top",
                 "characterSize": 20,
                 "color": "0;0;0"
               }
@@ -1286,6 +1281,7 @@
             "text": "Gojo\n\n\n[ Movimentação ]\n\nAndar para direita - [ D ]\n\nAndar para esquerda - [ A ]\n\nPular - [ W ]\n\n\n\n[ Ataques ]\n\nAtk padrão  - Letra [ E ]\n\nAtk pesado - Letra [ F ]\n\nAtk especial - Letra [ R ]\n\nDespertar - Letra [ T ]",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 22,
             "color": "0;0;0"
           }
@@ -1327,6 +1323,7 @@
             "text": "Sukuna\n\n\n[ Movimentação ]\n\nAndar para direita - [ Seta direita ]\n\nAndar para esquerda - [  Seta esquerda ]\n\nPular - [ Seta para cima ]\n\n\n\n[ Ataques ]\n\nAtk padrão  - Letra [ Num 0 ]\n\nAtk pesado - Letra [ Num 1 ]\n\nAtk especial - Letra [ Num 3 ]\n\nDespertar - Letra [ Num 2 ]",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 22,
             "color": "0;0;0"
           }
@@ -2367,9 +2364,9 @@
               "PercentDamageReduction": 0
             },
             {
-              "jumpSpeed": 750,
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "jumpSpeed": 750,
               "acceleration": 1500,
               "canGoDownFromJumpthru": true,
               "canGrabPlatforms": false,
@@ -2507,9 +2504,9 @@
               "PercentDamageReduction": 0
             },
             {
-              "jumpSpeed": 750,
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
+              "jumpSpeed": 750,
               "ignoreDefaultControls": true,
               "acceleration": 1500,
               "canGoDownFromJumpthru": true,
@@ -2658,6 +2655,7 @@
                 "text": "8 / 16",
                 "font": "",
                 "textAlignment": "center",
+                "verticalTextAlignment": "top",
                 "characterSize": 16,
                 "color": "255;255;255"
               }
@@ -2743,6 +2741,7 @@
                 "text": "8 / 16",
                 "font": "",
                 "textAlignment": "center",
+                "verticalTextAlignment": "top",
                 "characterSize": 16,
                 "color": "255;255;255"
               }
@@ -3019,6 +3018,7 @@
             "text": "Sukuna",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 50,
             "color": "255;0;0"
           }
@@ -3060,6 +3060,7 @@
             "text": "Gojo",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 50,
             "color": "0;252;195"
           }
@@ -3247,16 +3248,17 @@
           "behaviors": [],
           "animations": [
             {
-              "name": "",
+              "name": "NewSprite11",
               "useMultipleDirections": false,
               "directions": [
                 {
                   "looping": true,
+                  "metadata": "{\"pskl\":{}}",
                   "timeBetweenFrames": 0.025,
                   "sprites": [
                     {
                       "hasCustomCollisionMask": true,
-                      "image": "Full Arrow.png",
+                      "image": "NewSprite11.png",
                       "points": [],
                       "originPoint": {
                         "name": "origine",
@@ -3276,16 +3278,16 @@
                             "y": 0
                           },
                           {
-                            "x": 180,
+                            "x": 120,
                             "y": 0
                           },
                           {
-                            "x": 180,
-                            "y": 96
+                            "x": 120,
+                            "y": 67
                           },
                           {
                             "x": 0,
-                            "y": 96
+                            "y": 67
                           }
                         ]
                       ]
@@ -3455,6 +3457,7 @@
             "text": "Sukuna Win",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 70,
             "color": "255;0;0"
           }
@@ -3496,6 +3499,7 @@
             "text": "Gojo win",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 70,
             "color": "0;252;195"
           }
@@ -3720,6 +3724,7 @@
             "text": "Voltar para o menu ",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 50,
             "color": "255;255;255"
           }
@@ -3791,6 +3796,7 @@
                 "text": "Menu",
                 "font": "Roboto-Bold.ttf",
                 "textAlignment": "center",
+                "verticalTextAlignment": "top",
                 "characterSize": 40,
                 "color": "255;255;255"
               }
@@ -3806,6 +3812,66 @@
               "width": 192
             }
           }
+        },
+        {
+          "adaptCollisionMaskAutomatically": true,
+          "assetStoreId": "",
+          "name": "ArcoDeFogo",
+          "type": "Sprite",
+          "updateIfNotVisible": false,
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "animations": [
+            {
+              "name": "",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "Full Arrow2.png",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 43,
+                            "y": 0
+                          },
+                          {
+                            "x": 43,
+                            "y": 59
+                          },
+                          {
+                            "x": 0,
+                            "y": 59
+                          }
+                        ]
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
         }
       ],
       "objectsFolderStructure": {
@@ -3856,6 +3922,9 @@
               },
               {
                 "objectName": "atk_3_sukuna"
+              },
+              {
+                "objectName": "ArcoDeFogo"
               },
               {
                 "objectName": "Arrow"
@@ -3917,7 +3986,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Dominio",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -4189,7 +4257,7 @@
                   },
                   "parameters": [
                     "",
-                    "a4ebd0f063bbb6f3107e2b0c11782d489bd77db960a8ebaffd08f68e52c4e1d8_Cornfield Chase.aac",
+                    "『  Domain Expansion_ Malevolent Shrine  』 - Jujutsu Kaisen Season 2 Episode 17 Cover.mp3",
                     "1",
                     "yes",
                     "50",
@@ -4287,6 +4355,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Sukuna",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -4421,6 +4490,7 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
+                  "folded": true,
                   "name": "Atk_1",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -4465,7 +4535,6 @@
                       ]
                     },
                     {
-                      "folded": true,
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
                         {
@@ -4731,6 +4800,7 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
+                  "folded": true,
                   "name": "Atk_2",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -4993,12 +5063,29 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
+                  "folded": true,
                   "name": "Atk_3 ",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
                   "events": [
                     {
-                      "folded": true,
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "ScalableCapability::ScalableBehavior::SetValue"
+                          },
+                          "parameters": [
+                            "ArcoDeFogo",
+                            "Scale",
+                            "=",
+                            "2"
+                          ]
+                        }
+                      ]
+                    },
+                    {
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
                         {
@@ -5082,6 +5169,18 @@
                             },
                             {
                               "type": {
+                                "value": "Create"
+                              },
+                              "parameters": [
+                                "",
+                                "ArcoDeFogo",
+                                "Sukuna.X()+40",
+                                "Sukuna.Y()",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
                                 "value": "FireBullet::FireBullet::Fire"
                               },
                               "parameters": [
@@ -5092,6 +5191,23 @@
                                 "atk_3_sukuna",
                                 "0",
                                 "1000",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Wait"
+                              },
+                              "parameters": [
+                                "1"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Delete"
+                              },
+                              "parameters": [
+                                "ArcoDeFogo",
                                 ""
                               ]
                             },
@@ -5118,7 +5234,6 @@
                       ]
                     },
                     {
-                      "folded": true,
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
                         {
@@ -5201,6 +5316,18 @@
                             },
                             {
                               "type": {
+                                "value": "Create"
+                              },
+                              "parameters": [
+                                "",
+                                "ArcoDeFogo",
+                                "Sukuna.X()-60",
+                                "Sukuna.Y()",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
                                 "value": "FireBullet::FireBullet::Fire"
                               },
                               "parameters": [
@@ -5219,9 +5346,36 @@
                                 "value": "FlippableCapability::FlippableBehavior::FlipX"
                               },
                               "parameters": [
+                                "ArcoDeFogo",
+                                "Flippable",
+                                "yes"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "FlippableCapability::FlippableBehavior::FlipX"
+                              },
+                              "parameters": [
                                 "atk_3_sukuna",
                                 "Flippable",
                                 "yes"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Wait"
+                              },
+                              "parameters": [
+                                "1"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "Delete"
+                              },
+                              "parameters": [
+                                "ArcoDeFogo",
+                                ""
                               ]
                             },
                             {
@@ -6296,67 +6450,10 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Despertar Sukuna e Gojo",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "NumberVariable"
-                  },
-                  "parameters": [
-                    "Dominio",
-                    "!=",
-                    "3"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BooleanVariable"
-                  },
-                  "parameters": [
-                    "despertar_gojo",
-                    "True",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "BooleanVariable"
-                  },
-                  "parameters": [
-                    "Sukuna_Despertar",
-                    "True",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetNumberVariable"
-                  },
-                  "parameters": [
-                    "Dominio",
-                    "=",
-                    "3"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "PushScene"
-                  },
-                  "parameters": [
-                    "",
-                    "\"DominioDuplo\""
-                  ]
-                }
-              ]
-            },
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
@@ -6527,6 +6624,62 @@
                   "parameters": [
                     "",
                     "\"AnimSukuna\""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "Dominio",
+                    "!=",
+                    "3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "despertar_gojo",
+                    "True",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "Sukuna_Despertar",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetNumberVariable"
+                  },
+                  "parameters": [
+                    "Dominio",
+                    "=",
+                    "3"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "PushScene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"DominioDuplo\""
                   ]
                 }
               ]
@@ -7398,6 +7551,7 @@
                 "text": "8 / 16",
                 "font": "",
                 "textAlignment": "center",
+                "verticalTextAlignment": "top",
                 "characterSize": 16,
                 "color": "255;255;255"
               }
@@ -7483,6 +7637,7 @@
                 "text": "8 / 16",
                 "font": "",
                 "textAlignment": "center",
+                "verticalTextAlignment": "top",
                 "characterSize": 16,
                 "color": "255;255;255"
               }
@@ -7759,6 +7914,7 @@
             "text": "Sukuna",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 50,
             "color": "255;0;0"
           }
@@ -7800,6 +7956,7 @@
             "text": "Gojo",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 50,
             "color": "0;252;195"
           }
@@ -8610,6 +8767,7 @@
                 "text": "8 / 16",
                 "font": "",
                 "textAlignment": "center",
+                "verticalTextAlignment": "top",
                 "characterSize": 16,
                 "color": "255;255;255"
               }
@@ -8695,6 +8853,7 @@
                 "text": "8 / 16",
                 "font": "",
                 "textAlignment": "center",
+                "verticalTextAlignment": "top",
                 "characterSize": 16,
                 "color": "255;255;255"
               }
@@ -8971,6 +9130,7 @@
             "text": "Sukuna",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 50,
             "color": "255;0;0"
           }
@@ -9012,6 +9172,7 @@
             "text": "Gojo",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 50,
             "color": "0;252;195"
           }
@@ -9822,6 +9983,7 @@
                 "text": "8 / 16",
                 "font": "",
                 "textAlignment": "center",
+                "verticalTextAlignment": "top",
                 "characterSize": 16,
                 "color": "255;255;255"
               }
@@ -9907,6 +10069,7 @@
                 "text": "8 / 16",
                 "font": "",
                 "textAlignment": "center",
+                "verticalTextAlignment": "top",
                 "characterSize": 16,
                 "color": "255;255;255"
               }
@@ -10183,6 +10346,7 @@
             "text": "Sukuna",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 50,
             "color": "255;0;0"
           }
@@ -10224,6 +10388,7 @@
             "text": "Gojo",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 50,
             "color": "0;252;195"
           }
@@ -11689,6 +11854,7 @@
           "defaultName": "Button",
           "description": "A button that can be customized.",
           "fullName": "Button (panel sprite)",
+          "isUsingLegacyInstancesRenderer": true,
           "name": "PanelSpriteButton",
           "eventsFunctions": [
             {
@@ -13096,6 +13262,7 @@
                 "text": "Text",
                 "font": "",
                 "textAlignment": "",
+                "verticalTextAlignment": "top",
                 "characterSize": 20,
                 "color": "0;0;0"
               }
@@ -25208,6 +25375,7 @@
           "defaultName": "ResourceBar",
           "description": "A bar that represents a resource in the game (health, mana, ammo, etc).",
           "fullName": "Resource bar (continuous)",
+          "isUsingLegacyInstancesRenderer": true,
           "name": "PanelSpriteContinuousBar",
           "eventsFunctions": [
             {
@@ -26954,6 +27122,7 @@
                 "text": "2 / 3",
                 "font": "",
                 "textAlignment": "center",
+                "verticalTextAlignment": "top",
                 "characterSize": 20,
                 "color": "0;0;0"
               }

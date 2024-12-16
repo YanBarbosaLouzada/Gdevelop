@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 212,
+    "build": 219,
     "major": 5,
     "minor": 4,
     "revision": 0
@@ -65,7 +65,6 @@
   "resources": {
     "resources": [
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Blink_1.png",
         "kind": "image",
         "metadata": "",
@@ -78,7 +77,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Blink_2.png",
         "kind": "image",
         "metadata": "",
@@ -91,7 +89,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Blink_3.png",
         "kind": "image",
         "metadata": "",
@@ -104,7 +101,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Crouching.png",
         "kind": "image",
         "metadata": "",
@@ -117,7 +113,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Hurt.png",
         "kind": "image",
         "metadata": "",
@@ -130,7 +125,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Idle_1.png",
         "kind": "image",
         "metadata": "",
@@ -143,7 +137,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Idle_2.png",
         "kind": "image",
         "metadata": "",
@@ -156,7 +149,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Idle_3.png",
         "kind": "image",
         "metadata": "",
@@ -169,7 +161,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Idle_4.png",
         "kind": "image",
         "metadata": "",
@@ -182,7 +173,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Jump.png",
         "kind": "image",
         "metadata": "",
@@ -195,7 +185,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Reloading while crouching_1.png",
         "kind": "image",
         "metadata": "",
@@ -208,7 +197,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Reloading while crouching_2.png",
         "kind": "image",
         "metadata": "",
@@ -221,7 +209,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Reloading while crouching_3.png",
         "kind": "image",
         "metadata": "",
@@ -234,7 +221,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Reloading while crouching_4.png",
         "kind": "image",
         "metadata": "",
@@ -247,7 +233,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Reloading while crouching_5.png",
         "kind": "image",
         "metadata": "",
@@ -260,7 +245,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Reloading while crouching_6.png",
         "kind": "image",
         "metadata": "",
@@ -273,7 +257,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Reloading while crouching_7.png",
         "kind": "image",
         "metadata": "",
@@ -286,7 +269,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Reloading while standing_1.png",
         "kind": "image",
         "metadata": "",
@@ -299,7 +281,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Reloading while standing_2.png",
         "kind": "image",
         "metadata": "",
@@ -312,7 +293,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Reloading while standing_3.png",
         "kind": "image",
         "metadata": "",
@@ -325,7 +305,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Reloading while standing_4.png",
         "kind": "image",
         "metadata": "",
@@ -338,7 +317,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Reloading while standing_5.png",
         "kind": "image",
         "metadata": "",
@@ -351,7 +329,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Reloading while standing_6.png",
         "kind": "image",
         "metadata": "",
@@ -364,7 +341,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Reloading while standing_7.png",
         "kind": "image",
         "metadata": "",
@@ -377,7 +353,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Running_1.png",
         "kind": "image",
         "metadata": "",
@@ -390,7 +365,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Running_2.png",
         "kind": "image",
         "metadata": "",
@@ -403,7 +377,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Running_3.png",
         "kind": "image",
         "metadata": "",
@@ -416,7 +389,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Running_4.png",
         "kind": "image",
         "metadata": "",
@@ -429,7 +401,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Running_5.png",
         "kind": "image",
         "metadata": "",
@@ -442,7 +413,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Running_6.png",
         "kind": "image",
         "metadata": "",
@@ -455,7 +425,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Shooting while crouching_1.png",
         "kind": "image",
         "metadata": "",
@@ -468,7 +437,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Shooting while crouching_2.png",
         "kind": "image",
         "metadata": "",
@@ -481,7 +449,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Shooting while crouching_3.png",
         "kind": "image",
         "metadata": "",
@@ -494,7 +461,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Shooting while jumping_1.png",
         "kind": "image",
         "metadata": "",
@@ -507,7 +473,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Shooting while jumping_2.png",
         "kind": "image",
         "metadata": "",
@@ -520,7 +485,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Shooting while jumping_3.png",
         "kind": "image",
         "metadata": "",
@@ -533,7 +497,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Shooting while running_1.png",
         "kind": "image",
         "metadata": "",
@@ -546,7 +509,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Shooting while running_2.png",
         "kind": "image",
         "metadata": "",
@@ -559,7 +521,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Shooting while running_3.png",
         "kind": "image",
         "metadata": "",
@@ -572,7 +533,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Shooting while running_4.png",
         "kind": "image",
         "metadata": "",
@@ -585,7 +545,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Shooting while running_5.png",
         "kind": "image",
         "metadata": "",
@@ -598,7 +557,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Shooting while running_6.png",
         "kind": "image",
         "metadata": "",
@@ -611,7 +569,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Shooting while standing_1.png",
         "kind": "image",
         "metadata": "",
@@ -624,7 +581,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Shooting while standing_2.png",
         "kind": "image",
         "metadata": "",
@@ -637,7 +593,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Shooting while standing_3.png",
         "kind": "image",
         "metadata": "",
@@ -650,7 +605,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Diego_Standing.png",
         "kind": "image",
         "metadata": "",
@@ -663,7 +617,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Big Zombie_Idle_1.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"assets/Big Zombie_Idle_1.png\",\"extension\":\".png\"}",
@@ -676,7 +629,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Big Zombie_Idle_2.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"assets/Big Zombie_Idle_2.png\",\"extension\":\".png\"}",
@@ -689,7 +641,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Big Zombie_Idle_3.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"assets/Big Zombie_Idle_3.png\",\"extension\":\".png\"}",
@@ -702,7 +653,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Big Zombie_Idle_4.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"assets/Big Zombie_Idle_4.png\",\"extension\":\".png\"}",
@@ -715,7 +665,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Big Zombie_Run_1.png",
         "kind": "image",
         "metadata": "",
@@ -728,7 +677,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Big Zombie_Run_2.png",
         "kind": "image",
         "metadata": "",
@@ -741,7 +689,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Big Zombie_Run_3.png",
         "kind": "image",
         "metadata": "",
@@ -754,7 +701,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Big Zombie_Run_4.png",
         "kind": "image",
         "metadata": "",
@@ -767,7 +713,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Ogre_Idle_1.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"assets/Ogre_Idle_1.png\",\"extension\":\".png\"}",
@@ -780,7 +725,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Ogre_Idle_2.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"assets/Ogre_Idle_2.png\",\"extension\":\".png\"}",
@@ -793,7 +737,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Ogre_Idle_3.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"assets/Ogre_Idle_3.png\",\"extension\":\".png\"}",
@@ -806,7 +749,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Ogre_Idle_4.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"assets/Ogre_Idle_4.png\",\"extension\":\".png\"}",
@@ -819,7 +761,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Ogre_Run_1.png",
         "kind": "image",
         "metadata": "",
@@ -832,7 +773,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Ogre_Run_2.png",
         "kind": "image",
         "metadata": "",
@@ -845,7 +785,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Ogre_Run_3.png",
         "kind": "image",
         "metadata": "",
@@ -858,7 +797,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Ogre_Run_4.png",
         "kind": "image",
         "metadata": "",
@@ -871,7 +809,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Bone Pile Wakeup_1.png",
         "kind": "image",
         "metadata": "",
@@ -884,7 +821,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Bone Pile Wakeup_2.png",
         "kind": "image",
         "metadata": "",
@@ -897,7 +833,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Bone Pile Wakeup_3.png",
         "kind": "image",
         "metadata": "",
@@ -910,7 +845,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Bone Pile Wakeup_4.png",
         "kind": "image",
         "metadata": "",
@@ -923,7 +857,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Bone Pile Wakeup_5.png",
         "kind": "image",
         "metadata": "",
@@ -936,7 +869,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Bone Pile Wakeup_6.png",
         "kind": "image",
         "metadata": "",
@@ -949,7 +881,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Bone Pile Wakeup_7.png",
         "kind": "image",
         "metadata": "",
@@ -962,7 +893,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Bone Pile.png",
         "kind": "image",
         "metadata": "",
@@ -975,7 +905,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Bone Toss_1.png",
         "kind": "image",
         "metadata": "",
@@ -988,7 +917,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Bone Toss_2.png",
         "kind": "image",
         "metadata": "",
@@ -1001,7 +929,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Bone Toss_3.png",
         "kind": "image",
         "metadata": "",
@@ -1014,7 +941,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Bone Toss_4.png",
         "kind": "image",
         "metadata": "",
@@ -1027,7 +953,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Bone Toss_5.png",
         "kind": "image",
         "metadata": "",
@@ -1040,7 +965,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Crumbling Into Bone Pile_1.png",
         "kind": "image",
         "metadata": "",
@@ -1053,7 +977,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Crumbling Into Bone Pile_2.png",
         "kind": "image",
         "metadata": "",
@@ -1066,7 +989,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Crumbling Into Bone Pile_3.png",
         "kind": "image",
         "metadata": "",
@@ -1079,7 +1001,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Crumbling Into Bone Pile_4.png",
         "kind": "image",
         "metadata": "",
@@ -1092,7 +1013,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Crumbling Into Bone Pile_5.png",
         "kind": "image",
         "metadata": "",
@@ -1105,7 +1025,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Crumbling Into Bone Pile_6.png",
         "kind": "image",
         "metadata": "",
@@ -1118,7 +1037,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Crumbling Into Bone Pile_7.png",
         "kind": "image",
         "metadata": "",
@@ -1131,7 +1049,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Hurt_1.png",
         "kind": "image",
         "metadata": "",
@@ -1144,7 +1061,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Hurt_2.png",
         "kind": "image",
         "metadata": "",
@@ -1157,7 +1073,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Inactive.png",
         "kind": "image",
         "metadata": "",
@@ -1170,7 +1085,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Jumping.png",
         "kind": "image",
         "metadata": "",
@@ -1183,7 +1097,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Landed_1.png",
         "kind": "image",
         "metadata": "",
@@ -1196,7 +1109,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Landed_2.png",
         "kind": "image",
         "metadata": "",
@@ -1209,7 +1121,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Limping Movement_1.png",
         "kind": "image",
         "metadata": "",
@@ -1222,7 +1133,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Limping Movement_2.png",
         "kind": "image",
         "metadata": "",
@@ -1235,7 +1145,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Limping Movement_3.png",
         "kind": "image",
         "metadata": "",
@@ -1248,7 +1157,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Limping Movement_4.png",
         "kind": "image",
         "metadata": "",
@@ -1261,7 +1169,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Limping Movement_5.png",
         "kind": "image",
         "metadata": "",
@@ -1274,7 +1181,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Limping Movement_6.png",
         "kind": "image",
         "metadata": "",
@@ -1287,7 +1193,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Preparing Jump_1.png",
         "kind": "image",
         "metadata": "",
@@ -1300,7 +1205,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Preparing Jump_2.png",
         "kind": "image",
         "metadata": "",
@@ -1313,7 +1217,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Preparing Jump_3.png",
         "kind": "image",
         "metadata": "",
@@ -1326,7 +1229,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Standing Idle_1.png",
         "kind": "image",
         "metadata": "",
@@ -1339,7 +1241,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Standing Idle_2.png",
         "kind": "image",
         "metadata": "",
@@ -1352,7 +1253,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Standing Idle_3.png",
         "kind": "image",
         "metadata": "",
@@ -1365,7 +1265,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Standing Idle_4.png",
         "kind": "image",
         "metadata": "",
@@ -1378,7 +1277,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Standing Idle_5.png",
         "kind": "image",
         "metadata": "",
@@ -1391,7 +1289,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Standing Idle_6.png",
         "kind": "image",
         "metadata": "",
@@ -1404,7 +1301,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Standing Idle_7.png",
         "kind": "image",
         "metadata": "",
@@ -1417,7 +1313,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Standing Idle_8.png",
         "kind": "image",
         "metadata": "",
@@ -1430,7 +1325,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Standing Idle_9.png",
         "kind": "image",
         "metadata": "",
@@ -1443,7 +1337,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Standing Wakeup_1.png",
         "kind": "image",
         "metadata": "",
@@ -1456,7 +1349,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Standing Wakeup_2.png",
         "kind": "image",
         "metadata": "",
@@ -1469,7 +1361,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Standing Wakeup_3.png",
         "kind": "image",
         "metadata": "",
@@ -1482,7 +1373,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Standing.png",
         "kind": "image",
         "metadata": "",
@@ -1495,7 +1385,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Twitching Idle_1.png",
         "kind": "image",
         "metadata": "",
@@ -1508,7 +1397,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Twitching Idle_2.png",
         "kind": "image",
         "metadata": "",
@@ -1521,7 +1409,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Twitching Idle_3.png",
         "kind": "image",
         "metadata": "",
@@ -1534,7 +1421,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skeleton_Twitching Idle_4.png",
         "kind": "image",
         "metadata": "",
@@ -1547,7 +1433,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Merged Full Background.png",
         "kind": "image",
         "metadata": "",
@@ -1560,7 +1445,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/tiled_Grass.png",
         "kind": "image",
         "metadata": "",
@@ -1573,7 +1457,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/tiled_Summer Tile Platform Center.png",
         "kind": "image",
         "metadata": "",
@@ -1586,7 +1469,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/tiled_Graveyard Tile Platform Center.png",
         "kind": "image",
         "metadata": "",
@@ -1599,7 +1481,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Door.png",
         "kind": "image",
         "metadata": "",
@@ -1612,7 +1493,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Red house small 1.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"assets/Red house small 1.png\",\"extension\":\".png\"}",
@@ -1625,7 +1505,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Door2.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"assets/Door2.png\",\"extension\":\".png\"}",
@@ -1638,7 +1517,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Industrial block 3.png",
         "kind": "image",
         "metadata": "",
@@ -1651,7 +1529,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Ladder.png",
         "kind": "image",
         "metadata": "",
@@ -1664,7 +1541,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Lock-Closed.png",
         "kind": "image",
         "metadata": "",
@@ -1677,7 +1553,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Lock-Open.png",
         "kind": "image",
         "metadata": "",
@@ -1690,7 +1565,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Green house small 2.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"assets/Green house small 2.png\",\"extension\":\".png\"}",
@@ -1703,7 +1577,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/tiled_Forest Background.png",
         "kind": "image",
         "metadata": "",
@@ -1716,7 +1589,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Necromancer_Idle_1.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"assets/Necromancer_Idle_1.png\",\"extension\":\".png\"}",
@@ -1729,7 +1601,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Necromancer_Idle_2.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"assets/Necromancer_Idle_2.png\",\"extension\":\".png\"}",
@@ -1742,7 +1613,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Necromancer_Idle_3.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"assets/Necromancer_Idle_3.png\",\"extension\":\".png\"}",
@@ -1755,7 +1625,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Necromancer_Idle_4.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"assets/Necromancer_Idle_4.png\",\"extension\":\".png\"}",
@@ -1768,7 +1637,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Necromancer_Idle_5.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"assets/Necromancer_Idle_5.png\",\"extension\":\".png\"}",
@@ -1781,7 +1649,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Necromancer_Idle_6.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"assets/Necromancer_Idle_6.png\",\"extension\":\".png\"}",
@@ -1794,7 +1661,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Gold Key.png",
         "kind": "image",
         "metadata": "",
@@ -1807,7 +1673,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Silver Key.png",
         "kind": "image",
         "metadata": "",
@@ -1820,7 +1685,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Bottom Left Corner Wood Background Cutout.png",
         "kind": "image",
         "metadata": "",
@@ -1833,7 +1697,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Platform.png",
         "kind": "image",
         "metadata": "",
@@ -1846,7 +1709,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Door3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1855,7 +1717,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/9patch_Wood Background_all_64.png",
         "kind": "image",
         "metadata": "",
@@ -1868,7 +1729,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewTiledSprite.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
@@ -1877,7 +1737,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "pngtree-cubic-pixel-game-ground-blocks-on-background-pattern-image_1342712.jpg",
         "kind": "image",
         "metadata": "",
@@ -1886,7 +1745,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Wood Platform.png",
         "kind": "image",
         "metadata": "",
@@ -1899,7 +1757,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Wall Brown.png",
         "kind": "image",
         "metadata": "",
@@ -1912,7 +1769,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1921,7 +1777,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -1930,7 +1785,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Flat Bar Red Fill Bar2.png",
         "kind": "image",
         "metadata": "",
@@ -1943,7 +1797,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Flat Bar White Border2.png",
         "kind": "image",
         "metadata": "",
@@ -1956,7 +1809,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Bomb.png",
         "kind": "image",
         "metadata": "",
@@ -1969,7 +1821,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Health Kit7.png",
         "kind": "image",
         "metadata": "{\"localFilePath\":\"assets/Health Kit7.png\",\"extension\":\".png\"}",
@@ -1982,7 +1833,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Fireball_Projectile_4.png",
         "kind": "image",
         "metadata": "",
@@ -1995,7 +1845,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Fireball_Projectile_5.png",
         "kind": "image",
         "metadata": "",
@@ -2008,7 +1857,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Fireball_Projectile_6.png",
         "kind": "image",
         "metadata": "",
@@ -2021,7 +1869,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/LightGlow2.png",
         "kind": "image",
         "metadata": "",
@@ -2034,7 +1881,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/LightGlow3.png",
         "kind": "image",
         "metadata": "",
@@ -2047,7 +1893,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skull And Bones_No Shadow2.png",
         "kind": "image",
         "metadata": "",
@@ -2060,7 +1905,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Skull And Bones_Shadow2.png",
         "kind": "image",
         "metadata": "",
@@ -2073,7 +1917,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Tank Bullet6.png",
         "kind": "image",
         "metadata": "",
@@ -2086,7 +1929,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Tank Bullet 5_flying2.png",
         "kind": "image",
         "metadata": "",
@@ -2099,7 +1941,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Jump.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2108,7 +1949,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Jump2.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2117,7 +1957,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Jump3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2126,7 +1965,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Jump4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2135,7 +1973,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Health Kit8.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2144,7 +1981,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Health Kit8.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2153,7 +1989,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Health Kit8.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2162,7 +1997,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Health Kit8.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2171,7 +2005,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Health Kit8.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2180,7 +2013,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Health Kit9.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Health Kit9.png\"}",
@@ -2189,7 +2021,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Health Kit9.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Health Kit9.png\"}",
@@ -2198,7 +2029,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Health Kit9.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Health Kit9.png\"}",
@@ -2207,7 +2037,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Health Kit9.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Health Kit9.png\"}",
@@ -2216,7 +2045,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Health Kit10.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Health Kit10.png\"}",
@@ -2225,7 +2053,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Health Kit11.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Health Kit11.png\"}",
@@ -2234,7 +2061,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/Health Kit12.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/Health Kit12.png\"}",
@@ -2243,7 +2069,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite3.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\",\"localFilePath\":\"assets/NewSprite3.png\"}",
@@ -2252,7 +2077,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite4.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2261,7 +2085,6 @@
         "userAdded": false
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite5.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2270,7 +2093,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite6.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2279,7 +2101,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/On Screen Controls Button_Hovered.png",
         "kind": "image",
         "metadata": "",
@@ -2292,7 +2113,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/On Screen Controls Button_Idle.png",
         "kind": "image",
         "metadata": "",
@@ -2305,7 +2125,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/On Screen Controls Button_Pressed.png",
         "kind": "image",
         "metadata": "",
@@ -2329,7 +2148,6 @@
         }
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/House.png",
         "kind": "image",
         "metadata": "",
@@ -2572,7 +2390,6 @@
         "userAdded": true
       },
       {
-        "alwaysLoaded": false,
         "file": "assets/NewSprite7.png",
         "kind": "image",
         "metadata": "{\"extension\":\".png\"}",
@@ -2685,7 +2502,7 @@
         "gridColor": 8289918,
         "gridAlpha": 0.17,
         "snap": true,
-        "zoomFactor": 0.135818725795447,
+        "zoomFactor": 0.14513286445533843,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -3418,7 +3235,7 @@
           "persistentUuid": "d845be3f-71e4-4bf6-96ce-89e41ef51074",
           "width": 0,
           "x": 160,
-          "y": 224,
+          "y": 225,
           "zOrder": 10,
           "numberProperties": [],
           "stringProperties": [],
@@ -12501,6 +12318,7 @@
                 "text": "8 / 16",
                 "font": "",
                 "textAlignment": "center",
+                "verticalTextAlignment": "top",
                 "characterSize": 16,
                 "color": "255;255;255"
               }
@@ -12586,6 +12404,7 @@
                 "text": "8 / 16",
                 "font": "",
                 "textAlignment": "center",
+                "verticalTextAlignment": "top",
                 "characterSize": 16,
                 "color": "255;255;255"
               }
@@ -13240,6 +13059,8 @@
           "particleAngleRandomness2": 0,
           "particleBlue1": 160,
           "particleBlue2": 128,
+          "particleColor1": "40;80;160",
+          "particleColor2": "64;0;128",
           "particleGravityX": 0,
           "particleGravityY": 0,
           "particleGreen1": 80,
@@ -13285,6 +13106,8 @@
           "particleAngleRandomness2": 0,
           "particleBlue1": 64,
           "particleBlue2": 0,
+          "particleColor1": "255;255;64",
+          "particleColor2": "255;0;0",
           "particleGravityX": 0,
           "particleGravityY": 0,
           "particleGreen1": 255,
@@ -13561,6 +13384,7 @@
             "text": "03x",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 50,
             "color": "255;236;0"
           }
@@ -13602,6 +13426,7 @@
             "text": "01x",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 50,
             "color": "255;236;0"
           }
@@ -13643,6 +13468,7 @@
             "text": "00x",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 50,
             "color": "255;236;0"
           }
@@ -13684,6 +13510,7 @@
             "text": "30x",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 50,
             "color": "255;236;0"
           }
@@ -13965,6 +13792,7 @@
             "text": "01x",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 50,
             "color": "255;236;0"
           }
@@ -14247,6 +14075,7 @@
             "text": "Para andar aperte as setas direcionais do teclado \n\nPara pular aperte a teclar espaço\n\nPara atirar aperte a letra Z\n\nPara soltar bomba letra F\n\nPara agachar letra C\n\nPara o dash letra X",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 25,
             "color": "255;236;0"
           }
@@ -14717,7 +14546,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Dev",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -14786,7 +14614,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Personagem",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -15081,6 +14908,16 @@
                                 "Atirando",
                                 "True",
                                 ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "Recarregar",
+                                "-",
+                                "1"
                               ]
                             },
                             {
@@ -15585,7 +15422,6 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
-                  "folded": true,
                   "name": "Bomba",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -15786,6 +15622,38 @@
                           },
                           "parameters": [
                             "Ogre",
+                            "Health",
+                            "3",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "CollisionNP"
+                          },
+                          "parameters": [
+                            "RedExplosion",
+                            "BigZombie",
+                            "",
+                            "",
+                            ""
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "Health::Health::Hit"
+                          },
+                          "parameters": [
+                            "BigZombie",
                             "Health",
                             "3",
                             "",
@@ -16030,7 +15898,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Enemy",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -16426,7 +16293,7 @@
                       "parameters": [
                         "Diego2",
                         "Health",
-                        "0.5",
+                        "1",
                         "",
                         "",
                         ""
@@ -16457,7 +16324,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Points",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -16487,7 +16353,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Boss",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -16521,6 +16386,22 @@
                   "parameters": [
                     "",
                     "\"Inimigos\""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "GoldKey2"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "Cache"
+                  },
+                  "parameters": [
+                    "KeyTXT"
                   ]
                 }
               ]
@@ -16604,22 +16485,6 @@
                     "Scale",
                     "=",
                     "3"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Cache"
-                  },
-                  "parameters": [
-                    "GoldKey2"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "Cache"
-                  },
-                  "parameters": [
-                    "KeyTXT"
                   ]
                 }
               ]
@@ -16931,7 +16796,6 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
-                  "folded": true,
                   "name": "Dano",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -17106,7 +16970,6 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
-                  "folded": true,
                   "name": "Drop",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -17243,9 +17106,9 @@
                           "parameters": [
                             "Diego2",
                             "=",
-                            "Door4.X() - 150",
+                            "1120",
                             "=",
-                            "Door4.Y()"
+                            "609"
                           ]
                         }
                       ]
@@ -17473,7 +17336,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Colision doors",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -17483,6 +17345,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
+              "folded": true,
               "name": "Door 1",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -17538,6 +17401,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
+              "folded": true,
               "name": "Door 3",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -17566,9 +17430,9 @@
                       "parameters": [
                         "Diego2",
                         "=",
-                        "Door.X()-250",
+                        "-192",
                         "=",
-                        "Door.Y()"
+                        "608"
                       ]
                     },
                     {
@@ -17593,6 +17457,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
+              "folded": true,
               "name": "Door 4",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -20714,6 +20579,7 @@
                 "text": "Jogar",
                 "font": "Roboto-Bold.ttf",
                 "textAlignment": "center",
+                "verticalTextAlignment": "top",
                 "characterSize": 40,
                 "color": "255;255;255"
               }
@@ -20797,6 +20663,7 @@
                 "text": "Sair",
                 "font": "Roboto-Bold.ttf",
                 "textAlignment": "center",
+                "verticalTextAlignment": "top",
                 "characterSize": 40,
                 "color": "255;255;255"
               }
@@ -20850,6 +20717,7 @@
             "text": "Monster Strike",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 60,
             "color": "248;231;28"
           }
@@ -21052,6 +20920,7 @@
                 "text": "Tutorial",
                 "font": "Roboto-Bold.ttf",
                 "textAlignment": "center",
+                "verticalTextAlignment": "top",
                 "characterSize": 40,
                 "color": "255;255;255"
               }
@@ -23995,6 +23864,7 @@
                 "text": "Jogar",
                 "font": "Roboto-Bold.ttf",
                 "textAlignment": "center",
+                "verticalTextAlignment": "top",
                 "characterSize": 40,
                 "color": "255;255;255"
               }
@@ -24078,6 +23948,7 @@
                 "text": "Sair",
                 "font": "Roboto-Bold.ttf",
                 "textAlignment": "center",
+                "verticalTextAlignment": "top",
                 "characterSize": 40,
                 "color": "255;255;255"
               }
@@ -24131,6 +24002,7 @@
             "text": "Monster Strike",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 60,
             "color": "248;231;28"
           }
@@ -24333,6 +24205,7 @@
                 "text": "Tutorial",
                 "font": "Roboto-Bold.ttf",
                 "textAlignment": "center",
+                "verticalTextAlignment": "top",
                 "characterSize": 40,
                 "color": "255;255;255"
               }
@@ -24386,6 +24259,7 @@
             "text": "Para andar aperte as setas direcionais do teclado \n\nPara pular aperte a teclar espaço\n\nPara atirar aperte a letra Z\n\nPara soltar bomba letra F\n\nPara agachar letra C\n\nPara o dash letra X",
             "font": "",
             "textAlignment": "left",
+            "verticalTextAlignment": "top",
             "characterSize": 25,
             "color": "248;231;28"
           }
@@ -24518,6 +24392,7 @@
                 "text": "Voltar",
                 "font": "Roboto-Bold.ttf",
                 "textAlignment": "center",
+                "verticalTextAlignment": "top",
                 "characterSize": 40,
                 "color": "255;255;255"
               }
@@ -24901,6 +24776,7 @@
             "text": "Créditos\n\n\n\nMonster Strike\n\n\n\n\n\n\nProgamação: Alice Gobo\n\n\n\n\n\nDesigners: Alice Nunes e Davi Gomes\n\n\n\n\n\nProdução: Alice Nunes, Alice Gobo, Davi Gomes e Yan Barbosa\n\n\n\n\n\n\n\nEsse foi nosso TCC e muito obrigado pela presença de todos.\n\n\n\n\nFim\n\n",
             "font": "",
             "textAlignment": "center",
+            "verticalTextAlignment": "top",
             "characterSize": 60,
             "color": "248;231;28"
           }
@@ -29161,6 +29037,7 @@
           "defaultName": "Button",
           "description": "A button that can be customized.",
           "fullName": "Button (panel sprite)",
+          "isUsingLegacyInstancesRenderer": true,
           "name": "PanelSpriteButton",
           "eventsFunctions": [
             {
@@ -30568,6 +30445,7 @@
                 "text": "Text",
                 "font": "",
                 "textAlignment": "",
+                "verticalTextAlignment": "top",
                 "characterSize": 20,
                 "color": "0;0;0"
               }
@@ -42991,6 +42869,7 @@
           "description": "Display a large number of particles to create visual effects.",
           "fullName": "3D particle emitter",
           "is3D": true,
+          "isUsingLegacyInstancesRenderer": true,
           "name": "ParticleEmitter3D",
           "eventsFunctions": [
             {
@@ -46716,6 +46595,7 @@
           "defaultName": "ResourceBar",
           "description": "A bar that represents a resource in the game (health, mana, ammo, etc).",
           "fullName": "Resource bar (continuous)",
+          "isUsingLegacyInstancesRenderer": true,
           "name": "PanelSpriteContinuousBar",
           "eventsFunctions": [
             {
@@ -48462,6 +48342,7 @@
                 "text": "2 / 3",
                 "font": "",
                 "textAlignment": "center",
+                "verticalTextAlignment": "top",
                 "characterSize": 20,
                 "color": "0;0;0"
               }
