@@ -1706,6 +1706,66 @@
         "preloadAsSound": false,
         "preloadInCache": false,
         "userAdded": false
+      },
+      {
+        "file": "Cortando/Zoro/024_Zoro/Zoro Sounds/Vitoria.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Cortando\\Zoro\\024_Zoro\\Zoro Sounds\\Vitoria.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Cortando/Zoro/024_Zoro/024_voice/snd_24176.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Cortando\\Zoro\\024_Zoro\\024_voice\\snd_24176.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Cortando/Zoro/024_Zoro/Zoro Sounds/VitoriaZORO.wav",
+        "kind": "audio",
+        "metadata": "",
+        "name": "Cortando\\Zoro\\024_Zoro\\Zoro Sounds\\VitoriaZORO.wav",
+        "preloadAsMusic": false,
+        "preloadAsSound": false,
+        "preloadInCache": false,
+        "userAdded": false
+      },
+      {
+        "file": "Luffy Transforms to Gear 5 for Rob Lucci _ One Piece (online-video-cutter.com).mp4",
+        "kind": "video",
+        "metadata": "",
+        "name": "Luffy Transforms to Gear 5 for Rob Lucci _ One Piece (online-video-cutter.com).mp4",
+        "userAdded": false
+      },
+      {
+        "file": "Zoro vs Killer ｜ Purgatory Onigiri ｜ One Piece (online-video-cutter.com).mp4",
+        "kind": "video",
+        "metadata": "",
+        "name": "Zoro vs Killer ｜ Purgatory Onigiri ｜ One Piece (online-video-cutter.com).mp4",
+        "userAdded": false
+      },
+      {
+        "file": "Cortando/Zoro/024_Zoro/Zoro Win/Win/2.png",
+        "kind": "image",
+        "metadata": "",
+        "name": "Cortando\\Zoro\\024_Zoro\\Zoro Win\\Win\\2.png",
+        "smoothed": false,
+        "userAdded": false
+      },
+      {
+        "file": "assets/win.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\"}",
+        "name": "win",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -1847,7 +1907,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.3216911764705903,
+        "zoomFactor": 0.26364576737708145,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -3479,6 +3539,36 @@
                           }
                         ]
                       ]
+                    }
+                  ]
+                }
+              ]
+            },
+            {
+              "name": "win",
+              "useMultipleDirections": false,
+              "directions": [
+                {
+                  "looping": false,
+                  "metadata": "{\"pskl\":{}}",
+                  "timeBetweenFrames": 0.08,
+                  "sprites": [
+                    {
+                      "hasCustomCollisionMask": true,
+                      "image": "win",
+                      "points": [],
+                      "originPoint": {
+                        "name": "origine",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "centerPoint": {
+                        "automatic": true,
+                        "name": "centre",
+                        "x": 0,
+                        "y": 0
+                      },
+                      "customCollisionMask": []
                     }
                   ]
                 }
@@ -5231,6 +5321,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "MapaSeleionado",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -5369,6 +5460,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Personagens",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -11706,6 +11798,478 @@
           "type": "TextContainerCapability::TextContainerBehavior"
         }
       ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "FatalLuffy",
+      "name": "FatalLuffy",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.22336005893811398,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 732,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewVideo",
+          "persistentUuid": "c25d976a-c0bd-4153-b6ee-1cf59955d4f8",
+          "width": 1302,
+          "x": -11,
+          "y": -12,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "",
+          "name": "NewVideo",
+          "type": "Video::VideoObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "opacity": 255,
+            "loop": false,
+            "volume": 100,
+            "videoResource": "Luffy Transforms to Gear 5 for Rob Lucci _ One Piece (online-video-cutter.com).mp4"
+          }
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "NewVideo"
+          }
+        ]
+      },
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Video::Play"
+              },
+              "parameters": [
+                "NewVideo"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "J2",
+                "=",
+                "\"luffy\""
+              ]
+            },
+            {
+              "type": {
+                "value": "Video::Ended"
+              },
+              "parameters": [
+                "NewVideo"
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "J1_vida",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "PopScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Video::Ended"
+              },
+              "parameters": [
+                "NewVideo"
+              ]
+            },
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "J1",
+                "=",
+                "\"luffy\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PopScene"
+              },
+              "parameters": [
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "J2_vida",
+                "=",
+                "0"
+              ]
+            }
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        }
+      ]
+    },
+    {
+      "b": 209,
+      "disableInputWhenNotFocused": true,
+      "mangledName": "FatalZoro",
+      "name": "FatalZoro",
+      "r": 209,
+      "standardSortMethod": true,
+      "stopSoundsOnStartup": true,
+      "title": "",
+      "v": 209,
+      "uiSettings": {
+        "grid": false,
+        "gridType": "rectangular",
+        "gridWidth": 32,
+        "gridHeight": 32,
+        "gridOffsetX": 0,
+        "gridOffsetY": 0,
+        "gridColor": 10401023,
+        "gridAlpha": 0.8,
+        "snap": false,
+        "zoomFactor": 0.39251611754882226,
+        "windowMask": false
+      },
+      "objectsGroups": [],
+      "variables": [],
+      "instances": [
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 728,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewVideo",
+          "persistentUuid": "14048e07-a1db-48ea-a92c-391a8496f22e",
+          "width": 1294,
+          "x": -6,
+          "y": -2,
+          "zOrder": 1,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        }
+      ],
+      "objects": [
+        {
+          "assetStoreId": "",
+          "name": "NewVideo",
+          "type": "Video::VideoObject",
+          "variables": [],
+          "effects": [],
+          "behaviors": [],
+          "content": {
+            "opacity": 255,
+            "loop": false,
+            "volume": 100,
+            "videoResource": "Zoro vs Killer ｜ Purgatory Onigiri ｜ One Piece (online-video-cutter.com).mp4"
+          }
+        }
+      ],
+      "objectsFolderStructure": {
+        "folderName": "__ROOT",
+        "children": [
+          {
+            "objectName": "NewVideo"
+          }
+        ]
+      },
+      "events": [
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "DepartScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "Video::Play"
+              },
+              "parameters": [
+                "NewVideo"
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Video::Ended"
+              },
+              "parameters": [
+                "NewVideo"
+              ]
+            },
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "J2",
+                "=",
+                "\"zoro\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "J1_vida",
+                "=",
+                "0"
+              ]
+            },
+            {
+              "type": {
+                "value": "PopScene"
+              },
+              "parameters": [
+                ""
+              ]
+            }
+          ]
+        },
+        {
+          "type": "BuiltinCommonInstructions::Standard",
+          "conditions": [
+            {
+              "type": {
+                "value": "Video::Ended"
+              },
+              "parameters": [
+                "NewVideo"
+              ]
+            },
+            {
+              "type": {
+                "value": "StringVariable"
+              },
+              "parameters": [
+                "J1",
+                "=",
+                "\"zoro\""
+              ]
+            }
+          ],
+          "actions": [
+            {
+              "type": {
+                "value": "PopScene"
+              },
+              "parameters": [
+                ""
+              ]
+            },
+            {
+              "type": {
+                "value": "SetNumberVariable"
+              },
+              "parameters": [
+                "J2_vida",
+                "=",
+                "0"
+              ]
+            }
+          ]
+        }
+      ],
+      "layers": [
+        {
+          "ambientLightColorB": 200,
+          "ambientLightColorG": 200,
+          "ambientLightColorR": 200,
+          "camera3DFarPlaneDistance": 10000,
+          "camera3DFieldOfView": 45,
+          "camera3DNearPlaneDistance": 3,
+          "cameraType": "",
+          "followBaseLayerCamera": false,
+          "isLightingLayer": false,
+          "isLocked": false,
+          "name": "",
+          "renderingType": "",
+          "visibility": true,
+          "cameras": [
+            {
+              "defaultSize": true,
+              "defaultViewport": true,
+              "height": 0,
+              "viewportBottom": 1,
+              "viewportLeft": 0,
+              "viewportRight": 1,
+              "viewportTop": 0,
+              "width": 0
+            }
+          ],
+          "effects": [
+            {
+              "effectType": "Scene3D::HemisphereLight",
+              "name": "3D Light",
+              "doubleParameters": {
+                "elevation": 45,
+                "intensity": 1,
+                "rotation": 0
+              },
+              "stringParameters": {
+                "groundColor": "64;64;64",
+                "skyColor": "255;255;255",
+                "top": "Y-"
+              },
+              "booleanParameters": {}
+            }
+          ]
+        }
+      ],
+      "behaviorsSharedData": [
+        {
+          "name": "Effect",
+          "type": "EffectCapability::EffectBehavior"
+        },
+        {
+          "name": "Opacity",
+          "type": "OpacityCapability::OpacityBehavior"
+        }
+      ]
     }
   ],
   "externalEvents": [
@@ -11889,7 +12453,6 @@
           "parameters": []
         },
         {
-          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -11911,110 +12474,12 @@
               "colorR": 74,
               "creationTime": 0,
               "folded": true,
-              "name": "Vitoria",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "NumberVariable"
-                      },
-                      "parameters": [
-                        "J2_vida",
-                        "<=",
-                        "0"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetBooleanVariable"
-                      },
-                      "parameters": [
-                        "J1_Win",
-                        "True",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::IgnoreDefaultControls"
-                      },
-                      "parameters": [
-                        "Luffy",
-                        "PlatformerObject",
-                        "yes"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PlatformerCharacterAnimator::PlatformerCharacterAnimator::EnableChangingAnimations"
-                      },
-                      "parameters": [
-                        "Luffy",
-                        "PlatformerCharacterAnimator",
-                        "no",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                      },
-                      "parameters": [
-                        "Luffy",
-                        "Animation",
-                        "=",
-                        "\"win\""
-                      ]
-                    }
-                  ],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::Once"
-                          },
-                          "parameters": []
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "PlaySound"
-                          },
-                          "parameters": [
-                            "",
-                            "vitoria.wav",
-                            "",
-                            "100",
-                            "1"
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": []
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
-              "folded": true,
               "name": "Derrota",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
               "events": [
                 {
+                  "folded": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -12029,16 +12494,6 @@
                     }
                   ],
                   "actions": [
-                    {
-                      "type": {
-                        "value": "SetBooleanVariable"
-                      },
-                      "parameters": [
-                        "J1_Win",
-                        "False",
-                        ""
-                      ]
-                    },
                     {
                       "type": {
                         "value": "PlatformBehavior::IgnoreDefaultControls"
@@ -12090,6 +12545,128 @@
                           },
                           "parameters": [
                             "",
+                            "PC Computer - One Piece Burning Blood - Luffy\\022_Luffy\\022_voice_normal\\derrota.wav",
+                            "",
+                            "100",
+                            "1"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            },
+            {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "folded": true,
+              "name": "Vitoria",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "folded": true,
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "J2_vida",
+                        "<=",
+                        "0"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::IgnoreDefaultControls"
+                      },
+                      "parameters": [
+                        "Luffy",
+                        "PlatformerObject",
+                        "yes"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformerCharacterAnimator::PlatformerCharacterAnimator::EnableChangingAnimations"
+                      },
+                      "parameters": [
+                        "Luffy",
+                        "PlatformerCharacterAnimator",
+                        "no",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "Luffy",
+                        "Animation",
+                        "=",
+                        "\"win\""
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::IgnoreDefaultControls"
+                          },
+                          "parameters": [
+                            "Luffy",
+                            "PlatformerObject",
+                            "yes"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlatformerCharacterAnimator::PlatformerCharacterAnimator::EnableChangingAnimations"
+                          },
+                          "parameters": [
+                            "Luffy",
+                            "PlatformerCharacterAnimator",
+                            "no",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "Luffy",
+                            "Animation",
+                            "=",
+                            "\"win\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
                             "vitoria.wav",
                             "",
                             "100",
@@ -12115,6 +12692,16 @@
                     ">",
                     "0"
                   ]
+                },
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "J2_vida",
+                    ">",
+                    "0"
+                  ]
                 }
               ],
               "actions": [],
@@ -12124,6 +12711,7 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
+                  "folded": true,
                   "name": "Movimentação",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -12315,6 +12903,7 @@
                       "colorG": 176,
                       "colorR": 74,
                       "creationTime": 0,
+                      "folded": true,
                       "name": "Atk 1",
                       "source": "",
                       "type": "BuiltinCommonInstructions::Group",
@@ -12567,6 +13156,7 @@
                       "colorG": 176,
                       "colorR": 74,
                       "creationTime": 0,
+                      "folded": true,
                       "name": "Atk 2",
                       "source": "",
                       "type": "BuiltinCommonInstructions::Group",
@@ -12754,6 +13344,7 @@
                       "colorG": 176,
                       "colorR": 74,
                       "creationTime": 0,
+                      "folded": true,
                       "name": "Atk 3",
                       "source": "",
                       "type": "BuiltinCommonInstructions::Group",
@@ -12923,6 +13514,190 @@
                         }
                       ],
                       "parameters": []
+                    },
+                    {
+                      "colorB": 228,
+                      "colorG": 176,
+                      "colorR": 74,
+                      "creationTime": 0,
+                      "name": "Atk 4",
+                      "source": "",
+                      "type": "BuiltinCommonInstructions::Group",
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "NumberVariable"
+                              },
+                              "parameters": [
+                                "J2_vida",
+                                "<=",
+                                "10"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "KeyFromTextReleased"
+                              },
+                              "parameters": [
+                                "",
+                                "\"i\""
+                              ]
+                            }
+                          ],
+                          "actions": [],
+                          "events": [
+                            {
+                              "folded": true,
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "inverted": true,
+                                    "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                                  },
+                                  "parameters": [
+                                    "Luffy",
+                                    "Flippable"
+                                  ]
+                                }
+                              ],
+                              "actions": [],
+                              "events": [
+                                {
+                                  "type": "BuiltinCommonInstructions::Standard",
+                                  "conditions": [],
+                                  "actions": [
+                                    {
+                                      "type": {
+                                        "value": "MettreX"
+                                      },
+                                      "parameters": [
+                                        "Luffy",
+                                        "=",
+                                        "Luffy.X() - 200"
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "PlatformBehavior::IgnoreDefaultControls"
+                                      },
+                                      "parameters": [
+                                        "Luffy",
+                                        "PlatformerObject",
+                                        "yes"
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "PlatformerCharacterAnimator::PlatformerCharacterAnimator::EnableChangingAnimations"
+                                      },
+                                      "parameters": [
+                                        "Luffy",
+                                        "PlatformerCharacterAnimator",
+                                        "no",
+                                        ""
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "Wait"
+                                      },
+                                      "parameters": [
+                                        "0.5"
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "PushScene"
+                                      },
+                                      "parameters": [
+                                        "",
+                                        "\"FatalLuffy\""
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "folded": true,
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                                  },
+                                  "parameters": [
+                                    "Luffy",
+                                    "Flippable"
+                                  ]
+                                }
+                              ],
+                              "actions": [],
+                              "events": [
+                                {
+                                  "type": "BuiltinCommonInstructions::Standard",
+                                  "conditions": [],
+                                  "actions": [
+                                    {
+                                      "type": {
+                                        "value": "MettreX"
+                                      },
+                                      "parameters": [
+                                        "Luffy",
+                                        "=",
+                                        "Luffy.X() + 200"
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "PlatformBehavior::IgnoreDefaultControls"
+                                      },
+                                      "parameters": [
+                                        "Luffy",
+                                        "PlatformerObject",
+                                        "yes"
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "PlatformerCharacterAnimator::PlatformerCharacterAnimator::EnableChangingAnimations"
+                                      },
+                                      "parameters": [
+                                        "Luffy",
+                                        "PlatformerCharacterAnimator",
+                                        "no",
+                                        ""
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "Wait"
+                                      },
+                                      "parameters": [
+                                        "0.5"
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "PushScene"
+                                      },
+                                      "parameters": [
+                                        "",
+                                        "\"FatalLuffy\""
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ],
+                      "parameters": []
                     }
                   ],
                   "parameters": []
@@ -12932,7 +13707,6 @@
           ]
         },
         {
-          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -12953,104 +13727,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "name": "Vitoria",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "NumberVariable"
-                      },
-                      "parameters": [
-                        "J1_vida",
-                        "<=",
-                        "0"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetBooleanVariable"
-                      },
-                      "parameters": [
-                        "j2_Win",
-                        "True",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::IgnoreDefaultControls"
-                      },
-                      "parameters": [
-                        "Luffy",
-                        "PlatformerObject",
-                        "yes"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PlatformerCharacterAnimator::PlatformerCharacterAnimator::EnableChangingAnimations"
-                      },
-                      "parameters": [
-                        "Luffy",
-                        "PlatformerCharacterAnimator",
-                        "no",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                      },
-                      "parameters": [
-                        "Luffy",
-                        "Animation",
-                        "=",
-                        "\"win\""
-                      ]
-                    }
-                  ],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::Once"
-                          },
-                          "parameters": []
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "PlaySound"
-                          },
-                          "parameters": [
-                            "",
-                            "vitoria.wav",
-                            "",
-                            "100",
-                            "1"
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": []
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
+              "folded": true,
               "name": "Derrota",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -13070,16 +13747,6 @@
                     }
                   ],
                   "actions": [
-                    {
-                      "type": {
-                        "value": "SetBooleanVariable"
-                      },
-                      "parameters": [
-                        "j2_Win",
-                        "False",
-                        ""
-                      ]
-                    },
                     {
                       "type": {
                         "value": "PlatformBehavior::IgnoreDefaultControls"
@@ -13145,6 +13812,126 @@
               "parameters": []
             },
             {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "name": "Vitoria",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "J1_vida",
+                        "<=",
+                        "0"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::IgnoreDefaultControls"
+                      },
+                      "parameters": [
+                        "Luffy",
+                        "PlatformerObject",
+                        "yes"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformerCharacterAnimator::PlatformerCharacterAnimator::EnableChangingAnimations"
+                      },
+                      "parameters": [
+                        "Luffy",
+                        "PlatformerCharacterAnimator",
+                        "no",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "Luffy",
+                        "Animation",
+                        "=",
+                        "\"win\""
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::IgnoreDefaultControls"
+                          },
+                          "parameters": [
+                            "Luffy",
+                            "PlatformerObject",
+                            "yes"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlatformerCharacterAnimator::PlatformerCharacterAnimator::EnableChangingAnimations"
+                          },
+                          "parameters": [
+                            "Luffy",
+                            "PlatformerCharacterAnimator",
+                            "no",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "Luffy",
+                            "Animation",
+                            "=",
+                            "\"win\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "vitoria.wav",
+                            "",
+                            "100",
+                            "1"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            },
+            {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -13153,6 +13940,16 @@
                   },
                   "parameters": [
                     "J2_vida",
+                    ">",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "J1_vida",
                     ">",
                     "0"
                   ]
@@ -13165,6 +13962,7 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
+                  "folded": true,
                   "name": "Movimentação",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -13356,6 +14154,7 @@
                       "colorG": 176,
                       "colorR": 74,
                       "creationTime": 0,
+                      "folded": true,
                       "name": "Atk 1",
                       "source": "",
                       "type": "BuiltinCommonInstructions::Group",
@@ -13533,6 +14332,7 @@
                       "colorG": 176,
                       "colorR": 74,
                       "creationTime": 0,
+                      "folded": true,
                       "name": "Atk 2",
                       "source": "",
                       "type": "BuiltinCommonInstructions::Group",
@@ -13720,6 +14520,7 @@
                       "colorG": 176,
                       "colorR": 74,
                       "creationTime": 0,
+                      "folded": true,
                       "name": "Atk 3",
                       "source": "",
                       "type": "BuiltinCommonInstructions::Group",
@@ -13883,6 +14684,189 @@
                                 "J1_vida",
                                 "-",
                                 "10"
+                              ]
+                            }
+                          ]
+                        }
+                      ],
+                      "parameters": []
+                    },
+                    {
+                      "colorB": 228,
+                      "colorG": 176,
+                      "colorR": 74,
+                      "creationTime": 0,
+                      "name": "Atk 4",
+                      "source": "",
+                      "type": "BuiltinCommonInstructions::Group",
+                      "events": [
+                        {
+                          "folded": true,
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "NumberVariable"
+                              },
+                              "parameters": [
+                                "J2_vida",
+                                "<=",
+                                "10"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "KeyFromTextReleased"
+                              },
+                              "parameters": [
+                                "",
+                                "\"i\""
+                              ]
+                            }
+                          ],
+                          "actions": [],
+                          "events": [
+                            {
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "inverted": true,
+                                    "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                                  },
+                                  "parameters": [
+                                    "Luffy",
+                                    "Flippable"
+                                  ]
+                                }
+                              ],
+                              "actions": [],
+                              "events": [
+                                {
+                                  "type": "BuiltinCommonInstructions::Standard",
+                                  "conditions": [],
+                                  "actions": [
+                                    {
+                                      "type": {
+                                        "value": "MettreX"
+                                      },
+                                      "parameters": [
+                                        "Luffy",
+                                        "=",
+                                        "Luffy.X() - 200"
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "PlatformBehavior::IgnoreDefaultControls"
+                                      },
+                                      "parameters": [
+                                        "Luffy",
+                                        "PlatformerObject",
+                                        "yes"
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "PlatformerCharacterAnimator::PlatformerCharacterAnimator::EnableChangingAnimations"
+                                      },
+                                      "parameters": [
+                                        "Luffy",
+                                        "PlatformerCharacterAnimator",
+                                        "no",
+                                        ""
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "Wait"
+                                      },
+                                      "parameters": [
+                                        "0.5"
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "PushScene"
+                                      },
+                                      "parameters": [
+                                        "",
+                                        "\"FatalLuffy\""
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                                  },
+                                  "parameters": [
+                                    "Luffy",
+                                    "Flippable"
+                                  ]
+                                }
+                              ],
+                              "actions": [],
+                              "events": [
+                                {
+                                  "type": "BuiltinCommonInstructions::Standard",
+                                  "conditions": [],
+                                  "actions": [
+                                    {
+                                      "type": {
+                                        "value": "MettreX"
+                                      },
+                                      "parameters": [
+                                        "Luffy",
+                                        "=",
+                                        "Luffy.X() + 200"
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "PlatformBehavior::IgnoreDefaultControls"
+                                      },
+                                      "parameters": [
+                                        "Luffy",
+                                        "PlatformerObject",
+                                        "yes"
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "PlatformerCharacterAnimator::PlatformerCharacterAnimator::EnableChangingAnimations"
+                                      },
+                                      "parameters": [
+                                        "Luffy",
+                                        "PlatformerCharacterAnimator",
+                                        "no",
+                                        ""
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "Wait"
+                                      },
+                                      "parameters": [
+                                        "0.5"
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "PushScene"
+                                      },
+                                      "parameters": [
+                                        "",
+                                        "\"FatalLuffy\""
+                                      ]
+                                    }
+                                  ]
+                                }
                               ]
                             }
                           ]
@@ -14089,104 +15073,6 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "name": "Vitoria",
-              "source": "",
-              "type": "BuiltinCommonInstructions::Group",
-              "events": [
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "NumberVariable"
-                      },
-                      "parameters": [
-                        "J2_vida",
-                        "<=",
-                        "0"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "SetBooleanVariable"
-                      },
-                      "parameters": [
-                        "J1_Win",
-                        "True",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::IgnoreDefaultControls"
-                      },
-                      "parameters": [
-                        "Zoro",
-                        "PlatformerObject",
-                        "yes"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "PlatformerCharacterAnimator::PlatformerCharacterAnimator::EnableChangingAnimations"
-                      },
-                      "parameters": [
-                        "Zoro",
-                        "PlatformerCharacterAnimator",
-                        "no",
-                        ""
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                      },
-                      "parameters": [
-                        "Zoro",
-                        "Animation",
-                        "=",
-                        "\"win\""
-                      ]
-                    }
-                  ],
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::Once"
-                          },
-                          "parameters": []
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "PlaySound"
-                          },
-                          "parameters": [
-                            "",
-                            "Vitoria3.wav",
-                            "",
-                            "100",
-                            "1"
-                          ]
-                        }
-                      ]
-                    }
-                  ]
-                }
-              ],
-              "parameters": []
-            },
-            {
-              "colorB": 228,
-              "colorG": 176,
-              "colorR": 74,
-              "creationTime": 0,
               "folded": true,
               "name": "Derrota",
               "source": "",
@@ -14246,7 +15132,7 @@
                         "Zoro",
                         "Animation",
                         "=",
-                        "\"win\""
+                        "\"death\""
                       ]
                     }
                   ],
@@ -14282,9 +15168,140 @@
               "parameters": []
             },
             {
+              "colorB": 228,
+              "colorG": 176,
+              "colorR": 74,
+              "creationTime": 0,
+              "folded": true,
+              "name": "Vitoria",
+              "source": "",
+              "type": "BuiltinCommonInstructions::Group",
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "J2_vida",
+                        "<=",
+                        "0"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::IgnoreDefaultControls"
+                      },
+                      "parameters": [
+                        "Zoro",
+                        "PlatformerObject",
+                        "yes"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformerCharacterAnimator::PlatformerCharacterAnimator::EnableChangingAnimations"
+                      },
+                      "parameters": [
+                        "Zoro",
+                        "PlatformerCharacterAnimator",
+                        "no",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "Zoro",
+                        "Animation",
+                        "=",
+                        "\"win\""
+                      ]
+                    }
+                  ],
+                  "events": [
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::IgnoreDefaultControls"
+                          },
+                          "parameters": [
+                            "Zoro",
+                            "PlatformerObject",
+                            "yes"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlatformerCharacterAnimator::PlatformerCharacterAnimator::EnableChangingAnimations"
+                          },
+                          "parameters": [
+                            "Zoro",
+                            "PlatformerCharacterAnimator",
+                            "no",
+                            ""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                          },
+                          "parameters": [
+                            "Zoro",
+                            "Animation",
+                            "=",
+                            "\"win\""
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "Cortando\\Zoro\\024_Zoro\\Zoro Sounds\\Vitoria.wav",
+                            "",
+                            "100",
+                            "1"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            },
+            {
               "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "J1_vida",
+                    ">",
+                    "0"
+                  ]
+                },
                 {
                   "type": {
                     "value": "NumberVariable"
@@ -14673,6 +15690,7 @@
                       "colorG": 176,
                       "colorR": 74,
                       "creationTime": 0,
+                      "folded": true,
                       "name": "Atk 2",
                       "source": "",
                       "type": "BuiltinCommonInstructions::Group",
@@ -15044,12 +16062,12 @@
                       "colorG": 176,
                       "colorR": 74,
                       "creationTime": 0,
+                      "folded": true,
                       "name": "Atk 3",
                       "source": "",
                       "type": "BuiltinCommonInstructions::Group",
                       "events": [
                         {
-                          "folded": true,
                           "type": "BuiltinCommonInstructions::Standard",
                           "conditions": [
                             {
@@ -15430,6 +16448,188 @@
                         }
                       ],
                       "parameters": []
+                    },
+                    {
+                      "colorB": 228,
+                      "colorG": 176,
+                      "colorR": 74,
+                      "creationTime": 0,
+                      "name": "Atk 4",
+                      "source": "",
+                      "type": "BuiltinCommonInstructions::Group",
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "NumberVariable"
+                              },
+                              "parameters": [
+                                "J2_vida",
+                                "<=",
+                                "10"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "KeyFromTextReleased"
+                              },
+                              "parameters": [
+                                "",
+                                "\"y\""
+                              ]
+                            }
+                          ],
+                          "actions": [],
+                          "events": [
+                            {
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "inverted": true,
+                                    "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                                  },
+                                  "parameters": [
+                                    "Zoro",
+                                    "Flippable"
+                                  ]
+                                }
+                              ],
+                              "actions": [],
+                              "events": [
+                                {
+                                  "type": "BuiltinCommonInstructions::Standard",
+                                  "conditions": [],
+                                  "actions": [
+                                    {
+                                      "type": {
+                                        "value": "MettreX"
+                                      },
+                                      "parameters": [
+                                        "Zoro",
+                                        "=",
+                                        "Luffy.X() - 200"
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "PlatformBehavior::IgnoreDefaultControls"
+                                      },
+                                      "parameters": [
+                                        "Zoro",
+                                        "PlatformerObject",
+                                        "yes"
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "PlatformerCharacterAnimator::PlatformerCharacterAnimator::EnableChangingAnimations"
+                                      },
+                                      "parameters": [
+                                        "Zoro",
+                                        "PlatformerCharacterAnimator",
+                                        "no",
+                                        ""
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "Wait"
+                                      },
+                                      "parameters": [
+                                        "0.5"
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "PushScene"
+                                      },
+                                      "parameters": [
+                                        "",
+                                        "\"FatalZoro\""
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            },
+                            {
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                                  },
+                                  "parameters": [
+                                    "Zoro",
+                                    "Flippable"
+                                  ]
+                                }
+                              ],
+                              "actions": [],
+                              "events": [
+                                {
+                                  "type": "BuiltinCommonInstructions::Standard",
+                                  "conditions": [],
+                                  "actions": [
+                                    {
+                                      "type": {
+                                        "value": "MettreX"
+                                      },
+                                      "parameters": [
+                                        "Zoro",
+                                        "=",
+                                        "Luffy.X() + 200"
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "PlatformBehavior::IgnoreDefaultControls"
+                                      },
+                                      "parameters": [
+                                        "Zoro",
+                                        "PlatformerObject",
+                                        "yes"
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "PlatformerCharacterAnimator::PlatformerCharacterAnimator::EnableChangingAnimations"
+                                      },
+                                      "parameters": [
+                                        "Zoro",
+                                        "PlatformerCharacterAnimator",
+                                        "no",
+                                        ""
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "Wait"
+                                      },
+                                      "parameters": [
+                                        "0.5"
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "PushScene"
+                                      },
+                                      "parameters": [
+                                        "",
+                                        "\"FatalZoro\""
+                                      ]
+                                    }
+                                  ]
+                                }
+                              ]
+                            }
+                          ]
+                        }
+                      ],
+                      "parameters": []
                     }
                   ],
                   "parameters": []
@@ -15460,7 +16660,7 @@
               "colorR": 74,
               "creationTime": 0,
               "folded": true,
-              "name": "Movimentação",
+              "name": "Derrota",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
               "events": [
@@ -15469,63 +16669,37 @@
                   "conditions": [
                     {
                       "type": {
-                        "value": "PlatformBehavior::IsOnFloor"
+                        "value": "NumberVariable"
                       },
                       "parameters": [
-                        "Zoro",
-                        "PlatformerObject"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "inverted": true,
-                        "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
-                      },
-                      "parameters": [
-                        "Zoro",
-                        "PlatformerObject"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "BuiltinCommonInstructions::And"
-                      },
-                      "parameters": [],
-                      "subInstructions": [
-                        {
-                          "type": {
-                            "value": "BooleanVariable"
-                          },
-                          "parameters": [
-                            "Atk1_j2",
-                            "False",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "BooleanVariable"
-                          },
-                          "parameters": [
-                            "Atk2_j2",
-                            "False",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "BooleanVariable"
-                          },
-                          "parameters": [
-                            "Atk3_j2",
-                            "False",
-                            ""
-                          ]
-                        }
+                        "J2_vida",
+                        "<=",
+                        "0"
                       ]
                     }
                   ],
                   "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::IgnoreDefaultControls"
+                      },
+                      "parameters": [
+                        "Zoro",
+                        "PlatformerObject",
+                        "yes"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformerCharacterAnimator::PlatformerCharacterAnimator::EnableChangingAnimations"
+                      },
+                      "parameters": [
+                        "Zoro",
+                        "PlatformerCharacterAnimator",
+                        "no",
+                        ""
+                      ]
+                    },
                     {
                       "type": {
                         "value": "AnimatableCapability::AnimatableBehavior::SetName"
@@ -15534,102 +16708,34 @@
                         "Zoro",
                         "Animation",
                         "=",
-                        "\"Idle\""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "Right"
+                        "\"death\""
                       ]
                     }
                   ],
-                  "actions": [
+                  "events": [
                     {
-                      "type": {
-                        "value": "PlatformBehavior::SimulateRightKey"
-                      },
-                      "parameters": [
-                        "Zoro",
-                        "PlatformerObject"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "FlippableCapability::FlippableBehavior::FlipX"
-                      },
-                      "parameters": [
-                        "Zoro",
-                        "Flippable",
-                        "yes"
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "Left"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::SimulateLeftKey"
-                      },
-                      "parameters": [
-                        "Zoro",
-                        "PlatformerObject"
-                      ]
-                    },
-                    {
-                      "type": {
-                        "value": "FlippableCapability::FlippableBehavior::FlipX"
-                      },
-                      "parameters": [
-                        "Zoro",
-                        "Flippable",
-                        ""
-                      ]
-                    }
-                  ]
-                },
-                {
-                  "type": "BuiltinCommonInstructions::Standard",
-                  "conditions": [
-                    {
-                      "type": {
-                        "value": "KeyPressed"
-                      },
-                      "parameters": [
-                        "",
-                        "Up"
-                      ]
-                    }
-                  ],
-                  "actions": [
-                    {
-                      "type": {
-                        "value": "PlatformBehavior::SimulateJumpKey"
-                      },
-                      "parameters": [
-                        "Zoro",
-                        "PlatformerObject"
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::Once"
+                          },
+                          "parameters": []
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlaySound"
+                          },
+                          "parameters": [
+                            "",
+                            "Morreu.wav",
+                            "",
+                            "100",
+                            "1"
+                          ]
+                        }
                       ]
                     }
                   ]
@@ -15643,42 +16749,62 @@
               "colorR": 74,
               "creationTime": 0,
               "folded": true,
-              "name": "Ataque",
+              "name": "Vitoria",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
               "events": [
                 {
-                  "colorB": 228,
-                  "colorG": 176,
-                  "colorR": 74,
-                  "creationTime": 0,
-                  "folded": true,
-                  "name": "Atk 1",
-                  "source": "",
-                  "type": "BuiltinCommonInstructions::Group",
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "NumberVariable"
+                      },
+                      "parameters": [
+                        "J1_vida",
+                        "<=",
+                        "0"
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::IgnoreDefaultControls"
+                      },
+                      "parameters": [
+                        "Zoro",
+                        "PlatformerObject",
+                        "yes"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "PlatformerCharacterAnimator::PlatformerCharacterAnimator::EnableChangingAnimations"
+                      },
+                      "parameters": [
+                        "Zoro",
+                        "PlatformerCharacterAnimator",
+                        "no",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "Zoro",
+                        "Animation",
+                        "=",
+                        "\"win\""
+                      ]
+                    }
+                  ],
                   "events": [
                     {
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
-                        {
-                          "type": {
-                            "value": "BooleanVariable"
-                          },
-                          "parameters": [
-                            "Atk1_j2",
-                            "False",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "KeyReleased"
-                          },
-                          "parameters": [
-                            "",
-                            "Numpad1"
-                          ]
-                        },
                         {
                           "type": {
                             "value": "BuiltinCommonInstructions::Once"
@@ -15689,11 +16815,22 @@
                       "actions": [
                         {
                           "type": {
-                            "value": "SetBooleanVariable"
+                            "value": "PlatformBehavior::IgnoreDefaultControls"
                           },
                           "parameters": [
-                            "Atk1_j2",
-                            "True",
+                            "Zoro",
+                            "PlatformerObject",
+                            "yes"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "PlatformerCharacterAnimator::PlatformerCharacterAnimator::EnableChangingAnimations"
+                          },
+                          "parameters": [
+                            "Zoro",
+                            "PlatformerCharacterAnimator",
+                            "no",
                             ""
                           ]
                         },
@@ -15705,7 +16842,7 @@
                             "Zoro",
                             "Animation",
                             "=",
-                            "\"Atk_1\""
+                            "\"win\""
                           ]
                         },
                         {
@@ -15714,64 +16851,196 @@
                           },
                           "parameters": [
                             "",
-                            "Atk1.wav",
+                            "Cortando\\Zoro\\024_Zoro\\Zoro Sounds\\VitoriaZORO.wav",
                             "",
                             "100",
                             "1"
                           ]
                         }
                       ]
-                    },
+                    }
+                  ]
+                }
+              ],
+              "parameters": []
+            },
+            {
+              "folded": true,
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "J2_vida",
+                    ">",
+                    "0"
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "NumberVariable"
+                  },
+                  "parameters": [
+                    "J1_vida",
+                    ">",
+                    "0"
+                  ]
+                }
+              ],
+              "actions": [],
+              "events": [
+                {
+                  "colorB": 228,
+                  "colorG": 176,
+                  "colorR": 74,
+                  "creationTime": 0,
+                  "folded": true,
+                  "name": "Movimentação",
+                  "source": "",
+                  "type": "BuiltinCommonInstructions::Group",
+                  "events": [
                     {
                       "type": "BuiltinCommonInstructions::Standard",
                       "conditions": [
                         {
                           "type": {
-                            "value": "BooleanVariable"
-                          },
-                          "parameters": [
-                            "Atk1_j2",
-                            "True",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                            "value": "PlatformBehavior::IsOnFloor"
                           },
                           "parameters": [
                             "Zoro",
-                            "Animation"
+                            "PlatformerObject"
                           ]
                         },
                         {
                           "type": {
-                            "value": "AnimatableCapability::AnimatableBehavior::Name"
+                            "inverted": true,
+                            "value": "PlatformBehavior::PlatformerObjectBehavior::IsMovingEvenALittle"
+                          },
+                          "parameters": [
+                            "Zoro",
+                            "PlatformerObject"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "BuiltinCommonInstructions::And"
+                          },
+                          "parameters": [],
+                          "subInstructions": [
+                            {
+                              "type": {
+                                "value": "BooleanVariable"
+                              },
+                              "parameters": [
+                                "Atk1_j2",
+                                "False",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "BooleanVariable"
+                              },
+                              "parameters": [
+                                "Atk2_j2",
+                                "False",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "BooleanVariable"
+                              },
+                              "parameters": [
+                                "Atk3_j2",
+                                "False",
+                                ""
+                              ]
+                            }
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "AnimatableCapability::AnimatableBehavior::SetName"
                           },
                           "parameters": [
                             "Zoro",
                             "Animation",
                             "=",
-                            "\"Atk_1\""
+                            "\"Idle\""
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "Right"
                           ]
                         }
                       ],
                       "actions": [
                         {
                           "type": {
-                            "value": "Wait"
+                            "value": "PlatformBehavior::SimulateRightKey"
                           },
                           "parameters": [
-                            "0.1"
+                            "Zoro",
+                            "PlatformerObject"
                           ]
                         },
                         {
                           "type": {
-                            "value": "SetBooleanVariable"
+                            "value": "FlippableCapability::FlippableBehavior::FlipX"
                           },
                           "parameters": [
-                            "Atk1_j2",
-                            "False",
+                            "Zoro",
+                            "Flippable",
+                            "yes"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "type": "BuiltinCommonInstructions::Standard",
+                      "conditions": [
+                        {
+                          "type": {
+                            "value": "KeyPressed"
+                          },
+                          "parameters": [
+                            "",
+                            "Left"
+                          ]
+                        }
+                      ],
+                      "actions": [
+                        {
+                          "type": {
+                            "value": "PlatformBehavior::SimulateLeftKey"
+                          },
+                          "parameters": [
+                            "Zoro",
+                            "PlatformerObject"
+                          ]
+                        },
+                        {
+                          "type": {
+                            "value": "FlippableCapability::FlippableBehavior::FlipX"
+                          },
+                          "parameters": [
+                            "Zoro",
+                            "Flippable",
                             ""
                           ]
                         }
@@ -15782,42 +17051,22 @@
                       "conditions": [
                         {
                           "type": {
-                            "value": "BooleanVariable"
+                            "value": "KeyPressed"
                           },
                           "parameters": [
-                            "Atk1_j2",
-                            "True",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "CollisionNP"
-                          },
-                          "parameters": [
-                            "Zoro",
-                            "Personagens",
                             "",
-                            "",
-                            ""
+                            "Up"
                           ]
-                        },
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::Once"
-                          },
-                          "parameters": []
                         }
                       ],
                       "actions": [
                         {
                           "type": {
-                            "value": "SetNumberVariable"
+                            "value": "PlatformBehavior::SimulateJumpKey"
                           },
                           "parameters": [
-                            "J1_vida",
-                            "-",
-                            "10"
+                            "Zoro",
+                            "PlatformerObject"
                           ]
                         }
                       ]
@@ -15831,42 +17080,19 @@
                   "colorR": 74,
                   "creationTime": 0,
                   "folded": true,
-                  "name": "Atk 2",
+                  "name": "Ataque",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
                   "events": [
                     {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "ScalableCapability::ScalableBehavior::SetValue"
-                          },
-                          "parameters": [
-                            "Tornado",
-                            "Scale",
-                            "=",
-                            "2"
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "inverted": true,
-                            "value": "FlippableCapability::FlippableBehavior::FlippedX"
-                          },
-                          "parameters": [
-                            "Zoro",
-                            "Flippable"
-                          ]
-                        }
-                      ],
-                      "actions": [],
+                      "colorB": 228,
+                      "colorG": 176,
+                      "colorR": 74,
+                      "creationTime": 0,
+                      "folded": true,
+                      "name": "Atk 1",
+                      "source": "",
+                      "type": "BuiltinCommonInstructions::Group",
                       "events": [
                         {
                           "type": "BuiltinCommonInstructions::Standard",
@@ -15876,7 +17102,7 @@
                                 "value": "BooleanVariable"
                               },
                               "parameters": [
-                                "Atk2_j2",
+                                "Atk1_j2",
                                 "False",
                                 ""
                               ]
@@ -15887,7 +17113,7 @@
                               },
                               "parameters": [
                                 "",
-                                "Numpad2"
+                                "Numpad1"
                               ]
                             },
                             {
@@ -15903,7 +17129,7 @@
                                 "value": "SetBooleanVariable"
                               },
                               "parameters": [
-                                "Atk2_j2",
+                                "Atk1_j2",
                                 "True",
                                 ""
                               ]
@@ -15916,34 +17142,149 @@
                                 "Zoro",
                                 "Animation",
                                 "=",
-                                "\"Atk_2\""
+                                "\"Atk_1\""
                               ]
                             },
                             {
                               "type": {
-                                "value": "FireBullet::FireBullet::Fire"
+                                "value": "PlaySound"
+                              },
+                              "parameters": [
+                                "",
+                                "Atk1.wav",
+                                "",
+                                "100",
+                                "1"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "BooleanVariable"
+                              },
+                              "parameters": [
+                                "Atk1_j2",
+                                "True",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
                               },
                               "parameters": [
                                 "Zoro",
-                                "FireBullet",
-                                "Zoro.X() - 100",
-                                "Zoro.Y()",
+                                "Animation"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "AnimatableCapability::AnimatableBehavior::Name"
+                              },
+                              "parameters": [
+                                "Zoro",
+                                "Animation",
+                                "=",
+                                "\"Atk_1\""
+                              ]
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "Wait"
+                              },
+                              "parameters": [
+                                "0.1"
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "SetBooleanVariable"
+                              },
+                              "parameters": [
+                                "Atk1_j2",
+                                "False",
+                                ""
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "value": "BooleanVariable"
+                              },
+                              "parameters": [
+                                "Atk1_j2",
+                                "True",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "CollisionNP"
+                              },
+                              "parameters": [
+                                "Zoro",
+                                "Personagens",
+                                "",
+                                "",
+                                ""
+                              ]
+                            },
+                            {
+                              "type": {
+                                "value": "BuiltinCommonInstructions::Once"
+                              },
+                              "parameters": []
+                            }
+                          ],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "SetNumberVariable"
+                              },
+                              "parameters": [
+                                "J1_vida",
+                                "-",
+                                "10"
+                              ]
+                            }
+                          ]
+                        }
+                      ],
+                      "parameters": []
+                    },
+                    {
+                      "colorB": 228,
+                      "colorG": 176,
+                      "colorR": 74,
+                      "creationTime": 0,
+                      "folded": true,
+                      "name": "Atk 2",
+                      "source": "",
+                      "type": "BuiltinCommonInstructions::Group",
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [],
+                          "actions": [
+                            {
+                              "type": {
+                                "value": "ScalableCapability::ScalableBehavior::SetValue"
+                              },
+                              "parameters": [
                                 "Tornado",
-                                "180",
-                                "200",
-                                ""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
-                                "",
-                                "Atk4.wav",
-                                "",
-                                "100",
-                                "1"
+                                "Scale",
+                                "=",
+                                "2"
                               ]
                             }
                           ]
@@ -15953,311 +17294,319 @@
                           "conditions": [
                             {
                               "type": {
-                                "value": "BooleanVariable"
-                              },
-                              "parameters": [
-                                "Atk2_j2",
-                                "True",
-                                ""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                                "inverted": true,
+                                "value": "FlippableCapability::FlippableBehavior::FlippedX"
                               },
                               "parameters": [
                                 "Zoro",
-                                "Animation"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "AnimatableCapability::AnimatableBehavior::Name"
-                              },
-                              "parameters": [
-                                "Zoro",
-                                "Animation",
-                                "=",
-                                "\"Atk_2\""
+                                "Flippable"
                               ]
                             }
                           ],
-                          "actions": [
+                          "actions": [],
+                          "events": [
                             {
-                              "type": {
-                                "value": "Wait"
-                              },
-                              "parameters": [
-                                "1"
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "value": "BooleanVariable"
+                                  },
+                                  "parameters": [
+                                    "Atk2_j2",
+                                    "False",
+                                    ""
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "KeyReleased"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "Numpad2"
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "BuiltinCommonInstructions::Once"
+                                  },
+                                  "parameters": []
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "value": "SetBooleanVariable"
+                                  },
+                                  "parameters": [
+                                    "Atk2_j2",
+                                    "True",
+                                    ""
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                                  },
+                                  "parameters": [
+                                    "Zoro",
+                                    "Animation",
+                                    "=",
+                                    "\"Atk_2\""
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "FireBullet::FireBullet::Fire"
+                                  },
+                                  "parameters": [
+                                    "Zoro",
+                                    "FireBullet",
+                                    "Zoro.X() - 100",
+                                    "Zoro.Y()",
+                                    "Tornado",
+                                    "180",
+                                    "200",
+                                    ""
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "PlaySound"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "Atk4.wav",
+                                    "",
+                                    "100",
+                                    "1"
+                                  ]
+                                }
                               ]
                             },
                             {
-                              "type": {
-                                "value": "SetBooleanVariable"
-                              },
-                              "parameters": [
-                                "Atk2_j2",
-                                "False",
-                                ""
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "value": "BooleanVariable"
+                                  },
+                                  "parameters": [
+                                    "Atk2_j2",
+                                    "True",
+                                    ""
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                                  },
+                                  "parameters": [
+                                    "Zoro",
+                                    "Animation"
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                                  },
+                                  "parameters": [
+                                    "Zoro",
+                                    "Animation",
+                                    "=",
+                                    "\"Atk_2\""
+                                  ]
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "value": "Wait"
+                                  },
+                                  "parameters": [
+                                    "1"
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "SetBooleanVariable"
+                                  },
+                                  "parameters": [
+                                    "Atk2_j2",
+                                    "False",
+                                    ""
+                                  ]
+                                }
                               ]
                             }
                           ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "FlippableCapability::FlippableBehavior::FlippedX"
-                          },
-                          "parameters": [
-                            "Zoro",
-                            "Flippable"
-                          ]
-                        }
-                      ],
-                      "actions": [],
-                      "events": [
+                        },
                         {
                           "type": "BuiltinCommonInstructions::Standard",
                           "conditions": [
                             {
                               "type": {
-                                "value": "BooleanVariable"
+                                "value": "FlippableCapability::FlippableBehavior::FlippedX"
                               },
                               "parameters": [
-                                "Atk2_j2",
-                                "False",
-                                ""
+                                "Zoro",
+                                "Flippable"
                               ]
-                            },
-                            {
-                              "type": {
-                                "value": "KeyReleased"
-                              },
-                              "parameters": [
-                                "",
-                                "Numpad2"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "BuiltinCommonInstructions::Once"
-                              },
-                              "parameters": []
                             }
                           ],
-                          "actions": [
+                          "actions": [],
+                          "events": [
                             {
-                              "type": {
-                                "value": "SetBooleanVariable"
-                              },
-                              "parameters": [
-                                "Atk2_j2",
-                                "True",
-                                ""
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "value": "BooleanVariable"
+                                  },
+                                  "parameters": [
+                                    "Atk2_j2",
+                                    "False",
+                                    ""
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "KeyReleased"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "Numpad2"
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "BuiltinCommonInstructions::Once"
+                                  },
+                                  "parameters": []
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "value": "SetBooleanVariable"
+                                  },
+                                  "parameters": [
+                                    "Atk2_j2",
+                                    "True",
+                                    ""
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                                  },
+                                  "parameters": [
+                                    "Zoro",
+                                    "Animation",
+                                    "=",
+                                    "\"Atk_2\""
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "FireBullet::FireBullet::Fire"
+                                  },
+                                  "parameters": [
+                                    "Zoro",
+                                    "FireBullet",
+                                    "Zoro.X() + 100",
+                                    "Zoro.Y()",
+                                    "Tornado",
+                                    "0",
+                                    "200",
+                                    ""
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "PlaySound"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "Atk4.wav",
+                                    "",
+                                    "100",
+                                    "1"
+                                  ]
+                                }
                               ]
                             },
                             {
-                              "type": {
-                                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                              },
-                              "parameters": [
-                                "Zoro",
-                                "Animation",
-                                "=",
-                                "\"Atk_2\""
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "value": "BooleanVariable"
+                                  },
+                                  "parameters": [
+                                    "Atk2_j2",
+                                    "True",
+                                    ""
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                                  },
+                                  "parameters": [
+                                    "Zoro",
+                                    "Animation"
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                                  },
+                                  "parameters": [
+                                    "Zoro",
+                                    "Animation",
+                                    "=",
+                                    "\"Atk_2\""
+                                  ]
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "value": "Wait"
+                                  },
+                                  "parameters": [
+                                    "1"
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "SetBooleanVariable"
+                                  },
+                                  "parameters": [
+                                    "Atk2_j2",
+                                    "False",
+                                    ""
+                                  ]
+                                }
                               ]
-                            },
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
                             {
                               "type": {
-                                "value": "FireBullet::FireBullet::Fire"
+                                "value": "CollisionNP"
                               },
                               "parameters": [
-                                "Zoro",
-                                "FireBullet",
-                                "Zoro.X() + 100",
-                                "Zoro.Y()",
                                 "Tornado",
-                                "0",
-                                "200",
-                                ""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
+                                "Personagens",
                                 "",
-                                "Atk4.wav",
                                 "",
-                                "100",
-                                "1"
-                              ]
-                            }
-                          ]
-                        },
-                        {
-                          "type": "BuiltinCommonInstructions::Standard",
-                          "conditions": [
-                            {
-                              "type": {
-                                "value": "BooleanVariable"
-                              },
-                              "parameters": [
-                                "Atk2_j2",
-                                "True",
                                 ""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
-                              },
-                              "parameters": [
-                                "Zoro",
-                                "Animation"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "AnimatableCapability::AnimatableBehavior::Name"
-                              },
-                              "parameters": [
-                                "Zoro",
-                                "Animation",
-                                "=",
-                                "\"Atk_2\""
-                              ]
-                            }
-                          ],
-                          "actions": [
-                            {
-                              "type": {
-                                "value": "Wait"
-                              },
-                              "parameters": [
-                                "1"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "SetBooleanVariable"
-                              },
-                              "parameters": [
-                                "Atk2_j2",
-                                "False",
-                                ""
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "CollisionNP"
-                          },
-                          "parameters": [
-                            "Tornado",
-                            "Personagens",
-                            "",
-                            "",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::Once"
-                          },
-                          "parameters": []
-                        }
-                      ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "SetNumberVariable"
-                          },
-                          "parameters": [
-                            "J1_vida",
-                            "-",
-                            "10"
-                          ]
-                        }
-                      ]
-                    }
-                  ],
-                  "parameters": []
-                },
-                {
-                  "colorB": 228,
-                  "colorG": 176,
-                  "colorR": 74,
-                  "creationTime": 0,
-                  "folded": true,
-                  "name": "Atk 3",
-                  "source": "",
-                  "type": "BuiltinCommonInstructions::Group",
-                  "events": [
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "ScalableCapability::ScalableBehavior::SetValue"
-                          },
-                          "parameters": [
-                            "Tornado",
-                            "Scale",
-                            "=",
-                            "2"
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "inverted": true,
-                            "value": "FlippableCapability::FlippableBehavior::FlippedX"
-                          },
-                          "parameters": [
-                            "Zoro",
-                            "Flippable"
-                          ]
-                        }
-                      ],
-                      "actions": [],
-                      "events": [
-                        {
-                          "type": "BuiltinCommonInstructions::Standard",
-                          "conditions": [
-                            {
-                              "type": {
-                                "value": "BooleanVariable"
-                              },
-                              "parameters": [
-                                "Atk3_j2",
-                                "False",
-                                ""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "KeyReleased"
-                              },
-                              "parameters": [
-                                "",
-                                "Numpad3"
                               ]
                             },
                             {
@@ -16270,64 +17619,375 @@
                           "actions": [
                             {
                               "type": {
-                                "value": "SetBooleanVariable"
+                                "value": "SetNumberVariable"
                               },
                               "parameters": [
-                                "Atk3_j2",
-                                "True",
-                                ""
+                                "J1_vida",
+                                "-",
+                                "10"
                               ]
-                            },
+                            }
+                          ]
+                        }
+                      ],
+                      "parameters": []
+                    },
+                    {
+                      "colorB": 228,
+                      "colorG": 176,
+                      "colorR": 74,
+                      "creationTime": 0,
+                      "folded": true,
+                      "name": "Atk 3",
+                      "source": "",
+                      "type": "BuiltinCommonInstructions::Group",
+                      "events": [
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [],
+                          "actions": [
                             {
                               "type": {
-                                "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                                "value": "ScalableCapability::ScalableBehavior::SetValue"
+                              },
+                              "parameters": [
+                                "Tornado",
+                                "Scale",
+                                "=",
+                                "2"
+                              ]
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
+                            {
+                              "type": {
+                                "inverted": true,
+                                "value": "FlippableCapability::FlippableBehavior::FlippedX"
                               },
                               "parameters": [
                                 "Zoro",
-                                "Animation",
-                                "=",
-                                "\"Atk_3_pt1\""
+                                "Flippable"
+                              ]
+                            }
+                          ],
+                          "actions": [],
+                          "events": [
+                            {
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "value": "BooleanVariable"
+                                  },
+                                  "parameters": [
+                                    "Atk3_j2",
+                                    "False",
+                                    ""
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "KeyReleased"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "Numpad3"
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "BuiltinCommonInstructions::Once"
+                                  },
+                                  "parameters": []
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "value": "SetBooleanVariable"
+                                  },
+                                  "parameters": [
+                                    "Atk3_j2",
+                                    "True",
+                                    ""
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                                  },
+                                  "parameters": [
+                                    "Zoro",
+                                    "Animation",
+                                    "=",
+                                    "\"Atk_3_pt1\""
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "Wait"
+                                  },
+                                  "parameters": [
+                                    "1"
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "MettreX"
+                                  },
+                                  "parameters": [
+                                    "Zoro",
+                                    "=",
+                                    "Zoro.X() - 500"
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                                  },
+                                  "parameters": [
+                                    "Zoro",
+                                    "Animation",
+                                    "=",
+                                    "\"Atk_3_pt2\""
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "PlaySound"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "Atk5.wav",
+                                    "",
+                                    "100",
+                                    "1"
+                                  ]
+                                }
                               ]
                             },
                             {
-                              "type": {
-                                "value": "Wait"
-                              },
-                              "parameters": [
-                                "1"
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "value": "BooleanVariable"
+                                  },
+                                  "parameters": [
+                                    "Atk3_j2",
+                                    "True",
+                                    ""
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                                  },
+                                  "parameters": [
+                                    "Zoro",
+                                    "Animation"
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                                  },
+                                  "parameters": [
+                                    "Zoro",
+                                    "Animation",
+                                    "=",
+                                    "\"Atk_3_pt2\""
+                                  ]
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "value": "Wait"
+                                  },
+                                  "parameters": [
+                                    "1"
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "SetBooleanVariable"
+                                  },
+                                  "parameters": [
+                                    "Atk3_j2",
+                                    "False",
+                                    ""
+                                  ]
+                                }
                               ]
-                            },
+                            }
+                          ]
+                        },
+                        {
+                          "type": "BuiltinCommonInstructions::Standard",
+                          "conditions": [
                             {
                               "type": {
-                                "value": "MettreX"
+                                "value": "FlippableCapability::FlippableBehavior::FlippedX"
                               },
                               "parameters": [
                                 "Zoro",
-                                "=",
-                                "Zoro.X() - 500"
+                                "Flippable"
+                              ]
+                            }
+                          ],
+                          "actions": [],
+                          "events": [
+                            {
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "value": "BooleanVariable"
+                                  },
+                                  "parameters": [
+                                    "Atk3_j2",
+                                    "False",
+                                    ""
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "KeyReleased"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "Numpad3"
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "BuiltinCommonInstructions::Once"
+                                  },
+                                  "parameters": []
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "value": "SetBooleanVariable"
+                                  },
+                                  "parameters": [
+                                    "Atk3_j2",
+                                    "True",
+                                    ""
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                                  },
+                                  "parameters": [
+                                    "Zoro",
+                                    "Animation",
+                                    "=",
+                                    "\"Atk_3_pt1\""
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "Wait"
+                                  },
+                                  "parameters": [
+                                    "1"
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "MettreX"
+                                  },
+                                  "parameters": [
+                                    "Zoro",
+                                    "=",
+                                    "Zoro.X() + 500"
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                                  },
+                                  "parameters": [
+                                    "Zoro",
+                                    "Animation",
+                                    "=",
+                                    "\"Atk_3_pt2\""
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "PlaySound"
+                                  },
+                                  "parameters": [
+                                    "",
+                                    "Atk5.wav",
+                                    "",
+                                    "100",
+                                    "1"
+                                  ]
+                                }
                               ]
                             },
                             {
-                              "type": {
-                                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                              },
-                              "parameters": [
-                                "Zoro",
-                                "Animation",
-                                "=",
-                                "\"Atk_3_pt2\""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
-                                "",
-                                "Atk5.wav",
-                                "",
-                                "100",
-                                "1"
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "value": "BooleanVariable"
+                                  },
+                                  "parameters": [
+                                    "Atk3_j2",
+                                    "True",
+                                    ""
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                                  },
+                                  "parameters": [
+                                    "Zoro",
+                                    "Animation"
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "AnimatableCapability::AnimatableBehavior::Name"
+                                  },
+                                  "parameters": [
+                                    "Zoro",
+                                    "Animation",
+                                    "=",
+                                    "\"Atk_3_pt2\""
+                                  ]
+                                }
+                              ],
+                              "actions": [
+                                {
+                                  "type": {
+                                    "value": "Wait"
+                                  },
+                                  "parameters": [
+                                    "1"
+                                  ]
+                                },
+                                {
+                                  "type": {
+                                    "value": "SetBooleanVariable"
+                                  },
+                                  "parameters": [
+                                    "Atk3_j2",
+                                    "False",
+                                    ""
+                                  ]
+                                }
                               ]
                             }
                           ]
@@ -16347,83 +18007,14 @@
                             },
                             {
                               "type": {
-                                "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                                "value": "CollisionNP"
                               },
                               "parameters": [
                                 "Zoro",
-                                "Animation"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "AnimatableCapability::AnimatableBehavior::Name"
-                              },
-                              "parameters": [
-                                "Zoro",
-                                "Animation",
-                                "=",
-                                "\"Atk_3_pt2\""
-                              ]
-                            }
-                          ],
-                          "actions": [
-                            {
-                              "type": {
-                                "value": "Wait"
-                              },
-                              "parameters": [
-                                "1"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "SetBooleanVariable"
-                              },
-                              "parameters": [
-                                "Atk3_j2",
-                                "False",
-                                ""
-                              ]
-                            }
-                          ]
-                        }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "FlippableCapability::FlippableBehavior::FlippedX"
-                          },
-                          "parameters": [
-                            "Zoro",
-                            "Flippable"
-                          ]
-                        }
-                      ],
-                      "actions": [],
-                      "events": [
-                        {
-                          "type": "BuiltinCommonInstructions::Standard",
-                          "conditions": [
-                            {
-                              "type": {
-                                "value": "BooleanVariable"
-                              },
-                              "parameters": [
-                                "Atk3_j2",
-                                "False",
-                                ""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "KeyReleased"
-                              },
-                              "parameters": [
+                                "Personagens",
                                 "",
-                                "Numpad3"
+                                "",
+                                ""
                               ]
                             },
                             {
@@ -16436,175 +18027,206 @@
                           "actions": [
                             {
                               "type": {
-                                "value": "SetBooleanVariable"
+                                "value": "SetNumberVariable"
                               },
                               "parameters": [
-                                "Atk3_j2",
-                                "True",
-                                ""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                              },
-                              "parameters": [
-                                "Zoro",
-                                "Animation",
-                                "=",
-                                "\"Atk_3_pt1\""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "Wait"
-                              },
-                              "parameters": [
-                                "1"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "MettreX"
-                              },
-                              "parameters": [
-                                "Zoro",
-                                "=",
-                                "Zoro.X() + 500"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                              },
-                              "parameters": [
-                                "Zoro",
-                                "Animation",
-                                "=",
-                                "\"Atk_3_pt2\""
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "PlaySound"
-                              },
-                              "parameters": [
-                                "",
-                                "Atk5.wav",
-                                "",
-                                "100",
-                                "1"
+                                "J1_vida",
+                                "-",
+                                "10"
                               ]
                             }
                           ]
-                        },
+                        }
+                      ],
+                      "parameters": []
+                    },
+                    {
+                      "colorB": 228,
+                      "colorG": 176,
+                      "colorR": 74,
+                      "creationTime": 0,
+                      "folded": true,
+                      "name": "Atk 4",
+                      "source": "",
+                      "type": "BuiltinCommonInstructions::Group",
+                      "events": [
                         {
                           "type": "BuiltinCommonInstructions::Standard",
                           "conditions": [
                             {
                               "type": {
-                                "value": "BooleanVariable"
+                                "value": "NumberVariable"
                               },
                               "parameters": [
-                                "Atk3_j2",
-                                "True",
-                                ""
+                                "J1_vida",
+                                "<=",
+                                "10"
                               ]
                             },
                             {
                               "type": {
-                                "value": "AnimatableCapability::AnimatableBehavior::HasAnimationEnded"
+                                "value": "KeyFromTextReleased"
                               },
                               "parameters": [
-                                "Zoro",
-                                "Animation"
-                              ]
-                            },
-                            {
-                              "type": {
-                                "value": "AnimatableCapability::AnimatableBehavior::Name"
-                              },
-                              "parameters": [
-                                "Zoro",
-                                "Animation",
-                                "=",
-                                "\"Atk_3_pt2\""
+                                "",
+                                "\"y\""
                               ]
                             }
                           ],
-                          "actions": [
+                          "actions": [],
+                          "events": [
                             {
-                              "type": {
-                                "value": "Wait"
-                              },
-                              "parameters": [
-                                "1"
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "inverted": true,
+                                    "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                                  },
+                                  "parameters": [
+                                    "Zoro",
+                                    "Flippable"
+                                  ]
+                                }
+                              ],
+                              "actions": [],
+                              "events": [
+                                {
+                                  "type": "BuiltinCommonInstructions::Standard",
+                                  "conditions": [],
+                                  "actions": [
+                                    {
+                                      "type": {
+                                        "value": "MettreX"
+                                      },
+                                      "parameters": [
+                                        "Zoro",
+                                        "=",
+                                        "Luffy.X() - 200"
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "PlatformBehavior::IgnoreDefaultControls"
+                                      },
+                                      "parameters": [
+                                        "Zoro",
+                                        "PlatformerObject",
+                                        "yes"
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "PlatformerCharacterAnimator::PlatformerCharacterAnimator::EnableChangingAnimations"
+                                      },
+                                      "parameters": [
+                                        "Zoro",
+                                        "PlatformerCharacterAnimator",
+                                        "no",
+                                        ""
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "Wait"
+                                      },
+                                      "parameters": [
+                                        "0.5"
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "PushScene"
+                                      },
+                                      "parameters": [
+                                        "",
+                                        "\"FatalZoro\""
+                                      ]
+                                    }
+                                  ]
+                                }
                               ]
                             },
                             {
-                              "type": {
-                                "value": "SetBooleanVariable"
-                              },
-                              "parameters": [
-                                "Atk3_j2",
-                                "False",
-                                ""
+                              "type": "BuiltinCommonInstructions::Standard",
+                              "conditions": [
+                                {
+                                  "type": {
+                                    "value": "FlippableCapability::FlippableBehavior::FlippedX"
+                                  },
+                                  "parameters": [
+                                    "Zoro",
+                                    "Flippable"
+                                  ]
+                                }
+                              ],
+                              "actions": [],
+                              "events": [
+                                {
+                                  "type": "BuiltinCommonInstructions::Standard",
+                                  "conditions": [],
+                                  "actions": [
+                                    {
+                                      "type": {
+                                        "value": "MettreX"
+                                      },
+                                      "parameters": [
+                                        "Zoro",
+                                        "=",
+                                        "Luffy.X() + 200"
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "PlatformBehavior::IgnoreDefaultControls"
+                                      },
+                                      "parameters": [
+                                        "Zoro",
+                                        "PlatformerObject",
+                                        "yes"
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "PlatformerCharacterAnimator::PlatformerCharacterAnimator::EnableChangingAnimations"
+                                      },
+                                      "parameters": [
+                                        "Zoro",
+                                        "PlatformerCharacterAnimator",
+                                        "no",
+                                        ""
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "Wait"
+                                      },
+                                      "parameters": [
+                                        "0.5"
+                                      ]
+                                    },
+                                    {
+                                      "type": {
+                                        "value": "PushScene"
+                                      },
+                                      "parameters": [
+                                        "",
+                                        "\"FatalZoro\""
+                                      ]
+                                    }
+                                  ]
+                                }
                               ]
                             }
                           ]
                         }
-                      ]
-                    },
-                    {
-                      "type": "BuiltinCommonInstructions::Standard",
-                      "conditions": [
-                        {
-                          "type": {
-                            "value": "BooleanVariable"
-                          },
-                          "parameters": [
-                            "Atk3_j2",
-                            "True",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "CollisionNP"
-                          },
-                          "parameters": [
-                            "Zoro",
-                            "Personagens",
-                            "",
-                            "",
-                            ""
-                          ]
-                        },
-                        {
-                          "type": {
-                            "value": "BuiltinCommonInstructions::Once"
-                          },
-                          "parameters": []
-                        }
                       ],
-                      "actions": [
-                        {
-                          "type": {
-                            "value": "SetNumberVariable"
-                          },
-                          "parameters": [
-                            "J1_vida",
-                            "-",
-                            "10"
-                          ]
-                        }
-                      ]
+                      "parameters": []
                     }
                   ],
                   "parameters": []
                 }
-              ],
-              "parameters": []
+              ]
             }
           ]
         }
