@@ -1,7 +1,7 @@
 {
   "firstLayout": "Menu",
   "gdVersion": {
-    "build": 226,
+    "build": 228,
     "major": 5,
     "minor": 5,
     "revision": 0
@@ -21,7 +21,7 @@
     "version": "1.0.0",
     "name": "One Piece",
     "description": "",
-    "author": "",
+    "author": "Enzo Lucas & Yan Barbosa",
     "windowWidth": 1280,
     "windowHeight": 720,
     "latestCompilationDirectory": "",
@@ -1907,7 +1907,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.26364576737708145,
+        "zoomFactor": 0.27253598967729453,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -3568,7 +3568,26 @@
                         "x": 0,
                         "y": 0
                       },
-                      "customCollisionMask": []
+                      "customCollisionMask": [
+                        [
+                          {
+                            "x": 0,
+                            "y": 0
+                          },
+                          {
+                            "x": 22,
+                            "y": 0
+                          },
+                          {
+                            "x": 22,
+                            "y": 47
+                          },
+                          {
+                            "x": 0,
+                            "y": 47
+                          }
+                        ]
+                      ]
                     }
                   ]
                 }
@@ -5630,7 +5649,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.5653158055126322,
+        "zoomFactor": 0.3925161175488232,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -7019,6 +7038,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Logica para seleção",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -7106,6 +7126,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
+              "folded": true,
               "name": "Posição do selecionador",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -7197,6 +7218,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Personagens Selecionados",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -7206,6 +7228,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
+              "folded": true,
               "name": "Luffy",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -7360,6 +7383,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
+              "folded": true,
               "name": "Zoro",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -7514,6 +7538,7 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
+              "folded": true,
               "name": "Quem esta escolhendo J1 ou J2 ?",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -11130,35 +11155,6 @@
             }
           ],
           "parameters": []
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "DepartScene"
-              },
-              "parameters": [
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "RePlaySoundCanal"
-              },
-              "parameters": [
-                "",
-                "1"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": []
         }
       ],
       "layers": [
@@ -11270,7 +11266,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.43357743047023806,
+        "zoomFactor": 0.4481978045410363,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -11637,6 +11633,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Jogar",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -11819,7 +11816,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.22336005893811398,
+        "zoomFactor": 0.31119749424452037,
         "windowMask": false
       },
       "objectsGroups": [],
@@ -12453,6 +12450,7 @@
           "parameters": []
         },
         {
+          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -12479,7 +12477,6 @@
               "type": "BuiltinCommonInstructions::Group",
               "events": [
                 {
-                  "folded": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -12569,7 +12566,6 @@
               "type": "BuiltinCommonInstructions::Group",
               "events": [
                 {
-                  "folded": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -12681,6 +12677,7 @@
               "parameters": []
             },
             {
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -12894,6 +12891,7 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
+                  "folded": true,
                   "name": "Ataque",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -13520,6 +13518,7 @@
                       "colorG": 176,
                       "colorR": 74,
                       "creationTime": 0,
+                      "folded": true,
                       "name": "Atk 4",
                       "source": "",
                       "type": "BuiltinCommonInstructions::Group",
@@ -13707,6 +13706,7 @@
           ]
         },
         {
+          "folded": true,
           "type": "BuiltinCommonInstructions::Standard",
           "conditions": [
             {
@@ -13727,7 +13727,6 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "folded": true,
               "name": "Derrota",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -13932,6 +13931,7 @@
               "parameters": []
             },
             {
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -14145,6 +14145,7 @@
                   "colorG": 176,
                   "colorR": 74,
                   "creationTime": 0,
+                  "folded": true,
                   "name": "Ataque",
                   "source": "",
                   "type": "BuiltinCommonInstructions::Group",
@@ -14701,7 +14702,6 @@
                       "type": "BuiltinCommonInstructions::Group",
                       "events": [
                         {
-                          "folded": true,
                           "type": "BuiltinCommonInstructions::Standard",
                           "conditions": [
                             {
@@ -14709,7 +14709,7 @@
                                 "value": "NumberVariable"
                               },
                               "parameters": [
-                                "J2_vida",
+                                "J1_vida",
                                 "<=",
                                 "10"
                               ]
@@ -14727,6 +14727,7 @@
                           "actions": [],
                           "events": [
                             {
+                              "folded": true,
                               "type": "BuiltinCommonInstructions::Standard",
                               "conditions": [
                                 {
@@ -14799,6 +14800,7 @@
                               ]
                             },
                             {
+                              "folded": true,
                               "type": "BuiltinCommonInstructions::Standard",
                               "conditions": [
                                 {
@@ -15172,12 +15174,12 @@
               "colorG": 176,
               "colorR": 74,
               "creationTime": 0,
-              "folded": true,
               "name": "Vitoria",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
               "events": [
                 {
+                  "folded": true,
                   "type": "BuiltinCommonInstructions::Standard",
                   "conditions": [
                     {
@@ -15275,7 +15277,7 @@
                           },
                           "parameters": [
                             "",
-                            "Cortando\\Zoro\\024_Zoro\\Zoro Sounds\\Vitoria.wav",
+                            "Cortando\\Zoro\\024_Zoro\\Zoro Sounds\\VitoriaZORO.wav",
                             "",
                             "100",
                             "1"
@@ -16068,6 +16070,7 @@
                       "type": "BuiltinCommonInstructions::Group",
                       "events": [
                         {
+                          "folded": true,
                           "type": "BuiltinCommonInstructions::Standard",
                           "conditions": [
                             {
@@ -16484,6 +16487,7 @@
                           "actions": [],
                           "events": [
                             {
+                              "folded": true,
                               "type": "BuiltinCommonInstructions::Standard",
                               "conditions": [
                                 {
@@ -16556,6 +16560,7 @@
                               ]
                             },
                             {
+                              "folded": true,
                               "type": "BuiltinCommonInstructions::Standard",
                               "conditions": [
                                 {
@@ -16865,7 +16870,6 @@
               "parameters": []
             },
             {
-              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -17660,6 +17664,7 @@
                           ]
                         },
                         {
+                          "folded": true,
                           "type": "BuiltinCommonInstructions::Standard",
                           "conditions": [
                             {
@@ -17827,6 +17832,7 @@
                           ]
                         },
                         {
+                          "folded": true,
                           "type": "BuiltinCommonInstructions::Standard",
                           "conditions": [
                             {
@@ -18045,12 +18051,12 @@
                       "colorG": 176,
                       "colorR": 74,
                       "creationTime": 0,
-                      "folded": true,
                       "name": "Atk 4",
                       "source": "",
                       "type": "BuiltinCommonInstructions::Group",
                       "events": [
                         {
+                          "folded": true,
                           "type": "BuiltinCommonInstructions::Standard",
                           "conditions": [
                             {
@@ -18076,6 +18082,7 @@
                           "actions": [],
                           "events": [
                             {
+                              "folded": true,
                               "type": "BuiltinCommonInstructions::Standard",
                               "conditions": [
                                 {
@@ -18148,6 +18155,7 @@
                               ]
                             },
                             {
+                              "folded": true,
                               "type": "BuiltinCommonInstructions::Standard",
                               "conditions": [
                                 {
