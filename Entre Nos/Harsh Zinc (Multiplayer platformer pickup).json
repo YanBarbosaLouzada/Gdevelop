@@ -2182,7 +2182,7 @@
             {
               "name": "Task",
               "type": "string",
-              "value": "teste"
+              "value": "Procure a gasolina perdida"
             },
             {
               "name": "TaskAtual",
@@ -5723,7 +5723,7 @@
               "actionOnPlayerDisconnect": "DestroyObject"
             }
           ],
-          "string": "HUD MISSÃO",
+          "string": "Missão:",
           "font": "",
           "textAlignment": "center",
           "characterSize": 50,
@@ -5746,7 +5746,7 @@
             "shadowOpacity": 127,
             "smoothed": true,
             "underlined": false,
-            "text": "HUD MISSÃO",
+            "text": "Missão:",
             "font": "",
             "textAlignment": "center",
             "verticalTextAlignment": "center",
@@ -10144,6 +10144,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Quantidade De Players e Selecionar Impostor",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -10226,6 +10227,18 @@
               ]
             },
             {
+              "type": "BuiltinCommonInstructions::Comment",
+              "color": {
+                "b": 109,
+                "g": 230,
+                "r": 255,
+                "textB": 0,
+                "textG": 0,
+                "textR": 0
+              },
+              "comment": "Você pode mudar a cor do impostor aqui, porém deve achar alguma forma de fazer com que a cor apareça somente para o impostor"
+            },
+            {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -10265,42 +10278,6 @@
                     "True",
                     ""
                   ]
-                },
-                {
-                  "type": {
-                    "value": "BitmapText::SetTint"
-                  },
-                  "parameters": [
-                    "PlayerName",
-                    "\"255;0;0\""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "BooleanObjectVariable"
-                  },
-                  "parameters": [
-                    "Player",
-                    "Impostor",
-                    "=",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "BitmapText::SetTint"
-                  },
-                  "parameters": [
-                    "PlayerName",
-                    "\"255;255;255\""
-                  ]
                 }
               ]
             }
@@ -10318,6 +10295,7 @@
           "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
+              "folded": true,
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
@@ -10645,6 +10623,7 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
+          "folded": true,
           "name": "Task(s)",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -10682,6 +10661,44 @@
                         "Text",
                         "=",
                         "\"Missão: \" + Player.Task"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "Multiplayer::MultiplayerObjectBehavior::IsObjectOwnedByCurrentPlayer"
+                      },
+                      "parameters": [
+                        "Player",
+                        "MultiplayerObject"
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "BooleanObjectVariable"
+                      },
+                      "parameters": [
+                        "Player",
+                        "Impostor",
+                        "True",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "TextContainerCapability::TextContainerBehavior::SetValue"
+                      },
+                      "parameters": [
+                        "Missão",
+                        "Text",
+                        "=",
+                        "\"Missão: Mate todos os Tripulantes\""
                       ]
                     }
                   ]
@@ -10956,6 +10973,7 @@
               "colorG": 166,
               "colorR": 245,
               "creationTime": 0,
+              "folded": true,
               "name": "Task2_PeçaPerdida",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -45810,15 +45828,15 @@
         {
           "angle": 26,
           "customSize": true,
-          "depth": 0,
-          "height": 64,
+          "depth": 1,
+          "height": 36,
           "keepRatio": true,
           "layer": "",
           "name": "MineGame",
           "persistentUuid": "f1bf2a32-ef7d-4439-9af4-bdef28d02699",
-          "width": 11,
-          "x": 248,
-          "y": 335,
+          "width": 6,
+          "x": 244,
+          "y": 365,
           "zOrder": 20,
           "numberProperties": [],
           "stringProperties": [],
@@ -45835,7 +45853,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": true,
-        "zoomFactor": 0.46331118245140307,
+        "zoomFactor": 0.47893418845353114,
         "windowMask": false
       }
     },
