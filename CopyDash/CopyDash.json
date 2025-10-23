@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 242,
+    "build": 243,
     "major": 5,
     "minor": 5,
     "revision": 0
@@ -1220,6 +1220,14 @@
           "identifier": "https://asset-resources.gdevelop.io/public-resources/Industrial Platformer Pack (110 assets)/PNG/Retina/8653dd1f09a19bd4e20bea3eb4dc592fff5dd8d3ef8f3677ee77ca5203b26f01_tiled_Industrial spikes.png",
           "name": "tiled_Industrial spikes.png"
         }
+      },
+      {
+        "file": "assets/tiled_Industrial spikes.png2.png",
+        "kind": "image",
+        "metadata": "{\"extension\":\".png\",\"pskl\":{}}",
+        "name": "tiled_Industrial spikes.png2",
+        "smoothed": false,
+        "userAdded": false
       }
     ],
     "resourceFolders": []
@@ -1257,8 +1265,9 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.23089183385224904,
-        "windowMask": false
+        "zoomFactor": 0.18305734955560063,
+        "windowMask": false,
+        "selectedLayer": ""
       },
       "objectsGroups": [],
       "variables": [],
@@ -1354,8 +1363,8 @@
           "name": "Door1",
           "persistentUuid": "2ca7efb9-3f64-4d62-b2d7-b16352e83de8",
           "width": 0,
-          "x": 1413,
-          "y": 329,
+          "x": 1522,
+          "y": 333,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -1610,6 +1619,23 @@
           "x": 1972,
           "y": 9,
           "zOrder": 13,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 140,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Industrial_spikes",
+          "persistentUuid": "a764d27e-1f72-416c-9e02-370a78f136d3",
+          "width": 667,
+          "x": 665,
+          "y": 507,
+          "zOrder": 14,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -4901,7 +4927,7 @@
           "assetStoreId": "05dcaffac3114c86369a5e78f06383250e790d6929af110b5931d405faac5282",
           "height": 140,
           "name": "Industrial_spikes",
-          "texture": "tiled_Industrial spikes.png",
+          "texture": "tiled_Industrial spikes.png2",
           "type": "TiledSpriteObject::TiledSprite",
           "width": 140,
           "variables": [],
@@ -4991,6 +5017,16 @@
                 "Ninja_Boy",
                 "PlatformerObject",
                 "yes"
+              ]
+            },
+            {
+              "type": {
+                "value": "SetAngle"
+              },
+              "parameters": [
+                "Ninja_Boy",
+                "=",
+                "0"
               ]
             }
           ],
@@ -5140,6 +5176,16 @@
                     "-200",
                     ""
                   ]
+                },
+                {
+                  "type": {
+                    "value": "SetAngle"
+                  },
+                  "parameters": [
+                    "Ninja_Boy",
+                    "=",
+                    "-30"
+                  ]
                 }
               ]
             },
@@ -5155,9 +5201,32 @@
                     "",
                     "\"Space\""
                   ]
+                },
+                {
+                  "type": {
+                    "inverted": true,
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Ninja_Boy",
+                    "Wall_for_Blue_Floor",
+                    "",
+                    "",
+                    ""
+                  ]
                 }
               ],
               "actions": [
+                {
+                  "type": {
+                    "value": "SetAngle"
+                  },
+                  "parameters": [
+                    "Ninja_Boy",
+                    "=",
+                    "30"
+                  ]
+                },
                 {
                   "type": {
                     "value": "AddForceXY"
@@ -5167,6 +5236,35 @@
                     "0",
                     "200",
                     ""
+                  ]
+                }
+              ]
+            },
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "CollisionNP"
+                  },
+                  "parameters": [
+                    "Ninja_Boy",
+                    "Wall_for_Blue_Floor",
+                    "",
+                    "",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "SetAngle"
+                  },
+                  "parameters": [
+                    "Ninja_Boy",
+                    "=",
+                    "0"
                   ]
                 }
               ]

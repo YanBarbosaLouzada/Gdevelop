@@ -1,7 +1,7 @@
 {
   "firstLayout": "Lobby",
   "gdVersion": {
-    "build": 242,
+    "build": 243,
     "major": 5,
     "minor": 5,
     "revision": 0
@@ -1608,7 +1608,8 @@
         "gridAlpha": 0.8,
         "snap": false,
         "zoomFactor": 0.3797121001947935,
-        "windowMask": false
+        "windowMask": false,
+        "selectedLayer": ""
       },
       "objectsGroups": [],
       "variables": [],
@@ -1991,7 +1992,8 @@
         "gridAlpha": 0.8,
         "snap": true,
         "zoomFactor": 0.3111974942445275,
-        "windowMask": false
+        "windowMask": false,
+        "selectedLayer": ""
       },
       "objectsGroups": [
         {
@@ -10144,39 +10146,10 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Quantidade De Players e Selecionar Impostor",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
           "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [],
-              "actions": [
-                {
-                  "type": {
-                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "QUEM_E_O_IMPOSTOR",
-                    "Text",
-                    "=",
-                    "\"O impostor é: \"+Impostor"
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "TextContainerCapability::TextContainerBehavior::SetValue"
-                  },
-                  "parameters": [
-                    "AtkGlobal2",
-                    "Text",
-                    "=",
-                    "\"Atk global é : \"+AtkGlobal"
-                  ]
-                }
-              ]
-            },
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
@@ -10623,7 +10596,6 @@
           "colorG": 176,
           "colorR": 74,
           "creationTime": 0,
-          "folded": true,
           "name": "Task(s)",
           "source": "",
           "type": "BuiltinCommonInstructions::Group",
@@ -10633,7 +10605,6 @@
               "colorG": 2,
               "colorR": 208,
               "creationTime": 0,
-              "folded": true,
               "name": "Task1_Gasolina",
               "source": "",
               "type": "BuiltinCommonInstructions::Group",
@@ -24062,6 +24033,7 @@
             }
           ],
           "instances": [],
+          "editionSettings": {},
           "eventsFunctions": [
             {
               "fullName": "",
@@ -43856,6 +43828,7 @@
               "initialVariables": []
             }
           ],
+          "editionSettings": {},
           "eventsFunctions": [
             {
               "fullName": "",
@@ -45290,7 +45263,8 @@
                   "stringProperties": [],
                   "initialVariables": []
                 }
-              ]
+              ],
+              "editionSettings": {}
             },
             {
               "areaMaxX": 192,
@@ -45560,7 +45534,8 @@
                   "stringProperties": [],
                   "initialVariables": []
                 }
-              ]
+              ],
+              "editionSettings": {}
             }
           ]
         }
@@ -45854,7 +45829,8 @@
         "gridAlpha": 0.8,
         "snap": true,
         "zoomFactor": 0.47893418845353114,
-        "windowMask": false
+        "windowMask": false,
+        "selectedLayer": ""
       }
     },
     {
@@ -45992,7 +45968,8 @@
         "gridAlpha": 0.8,
         "snap": true,
         "zoomFactor": 1.2530387740589861,
-        "windowMask": false
+        "windowMask": false,
+        "selectedLayer": ""
       }
     }
   ]
