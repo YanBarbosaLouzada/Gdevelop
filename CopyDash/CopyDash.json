@@ -1,7 +1,7 @@
 {
   "firstLayout": "",
   "gdVersion": {
-    "build": 243,
+    "build": 245,
     "major": 5,
     "minor": 5,
     "revision": 0
@@ -1265,7 +1265,7 @@
         "gridColor": 10401023,
         "gridAlpha": 0.8,
         "snap": false,
-        "zoomFactor": 0.18305734955560063,
+        "zoomFactor": 0.5653158055126324,
         "windowMask": false,
         "selectedLayer": ""
       },
@@ -1363,8 +1363,8 @@
           "name": "Door1",
           "persistentUuid": "2ca7efb9-3f64-4d62-b2d7-b16352e83de8",
           "width": 0,
-          "x": 1522,
-          "y": 333,
+          "x": 1498,
+          "y": 330,
           "zOrder": 6,
           "numberProperties": [],
           "stringProperties": [],
@@ -1396,8 +1396,8 @@
           "name": "Door2",
           "persistentUuid": "ecfc5886-7be5-4081-b9d9-5108906f4993",
           "width": 0,
-          "x": 4195,
-          "y": 72,
+          "x": 3870,
+          "y": 62,
           "zOrder": 7,
           "numberProperties": [],
           "stringProperties": [],
@@ -1412,9 +1412,9 @@
           "layer": "",
           "name": "Wall_for_Blue_Floor",
           "persistentUuid": "cc3cae01-7051-4ac5-ac64-a73f5121d4fc",
-          "width": 865,
-          "x": 3615,
-          "y": -244,
+          "width": 3337,
+          "x": 4321,
+          "y": 961,
           "zOrder": 8,
           "numberProperties": [],
           "stringProperties": [],
@@ -1424,7 +1424,7 @@
           "angle": 0,
           "customSize": true,
           "depth": 1,
-          "height": 367,
+          "height": 958,
           "keepRatio": true,
           "layer": "",
           "name": "Wall_for_Blue_Floor",
@@ -1636,6 +1636,57 @@
           "x": 665,
           "y": 507,
           "zOrder": 14,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 727,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Wall_for_Blue_Floor",
+          "persistentUuid": "bcade4fc-4afd-43b9-a4d8-d218a687e475",
+          "width": 865,
+          "x": 3615,
+          "y": -604,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 367,
+          "keepRatio": true,
+          "layer": "",
+          "name": "Wall_for_Blue_Floor",
+          "persistentUuid": "9012ece3-0a8c-43c8-8e06-d089547c4cac",
+          "width": 3337,
+          "x": 4464,
+          "y": -772,
+          "zOrder": 8,
+          "numberProperties": [],
+          "stringProperties": [],
+          "initialVariables": []
+        },
+        {
+          "angle": 0,
+          "customSize": true,
+          "depth": 1,
+          "height": 64,
+          "keepRatio": true,
+          "layer": "",
+          "name": "NewSprite",
+          "persistentUuid": "069f627e-6fbf-4c0d-b516-10065d4d49cc",
+          "width": 669,
+          "x": 672,
+          "y": 592,
+          "zOrder": 15,
           "numberProperties": [],
           "stringProperties": [],
           "initialVariables": []
@@ -1866,6 +1917,7 @@
           "effects": [],
           "behaviors": [
             {
+              "isFolded": true,
               "name": "PlatformerObject",
               "type": "PlatformBehavior::PlatformerObjectBehavior",
               "acceleration": 1500,
@@ -1887,6 +1939,7 @@
               "yGrabOffset": 0
             },
             {
+              "isFolded": true,
               "name": "SmoothCamera",
               "type": "SmoothCamera::SmoothCamera",
               "LeftwardSpeed": 0.9,
@@ -1894,7 +1947,7 @@
               "UpwardSpeed": 0.9,
               "DownwardSpeed": 0.9,
               "FollowOnX": true,
-              "FollowOnY": false,
+              "FollowOnY": true,
               "FollowFreeAreaLeft": 0,
               "FollowFreeAreaRight": 0,
               "FollowFreeAreaTop": 0,
@@ -1939,6 +1992,7 @@
               "IsCalledManually": false
             },
             {
+              "isFolded": true,
               "name": "SmoothPlatformerCamera",
               "type": "SmoothCamera::SmoothPlatformerCamera",
               "PlatformerCharacter": "PlatformerObject",
@@ -4969,171 +5023,14 @@
       },
       "events": [
         {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [],
-          "actions": [
-            {
-              "type": {
-                "value": "PlatformBehavior::SimulateRightKey"
-              },
-              "parameters": [
-                "Ninja_Boy",
-                "PlatformerObject"
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "BooleanVariable"
-              },
-              "parameters": [
-                "PassouNoPortal",
-                "False",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "PlatformBehavior::Gravity"
-              },
-              "parameters": [
-                "Ninja_Boy",
-                "PlatformerObject",
-                "=",
-                "1000"
-              ]
-            },
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "Ninja_Boy",
-                "PlatformerObject",
-                "yes"
-              ]
-            },
-            {
-              "type": {
-                "value": "SetAngle"
-              },
-              "parameters": [
-                "Ninja_Boy",
-                "=",
-                "0"
-              ]
-            }
-          ],
-          "events": [
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "KeyFromTextPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Space\""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "PlatformBehavior::SimulateJumpKey"
-                  },
-                  "parameters": [
-                    "Ninja_Boy",
-                    "PlatformerObject"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "Ninja_Boy",
-                    "Door1",
-                    "",
-                    "",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetBooleanVariable"
-                  },
-                  "parameters": [
-                    "PassouNoPortal",
-                    "True",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "Ninja_Boy",
-                    "Animation",
-                    "=",
-                    "\"Jump Throw\""
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "BooleanVariable"
-              },
-              "parameters": [
-                "PassouNoPortal",
-                "True",
-                ""
-              ]
-            }
-          ],
-          "actions": [
-            {
-              "type": {
-                "value": "ActivateBehavior"
-              },
-              "parameters": [
-                "Ninja_Boy",
-                "PlatformerObject",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "SeparateFromObjects"
-              },
-              "parameters": [
-                "Ninja_Boy",
-                "Wall_for_Blue_Floor",
-                ""
-              ]
-            }
-          ],
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Sempre andar para a direita",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
           "events": [
             {
               "type": "BuiltinCommonInstructions::Standard",
@@ -5141,122 +5038,63 @@
               "actions": [
                 {
                   "type": {
-                    "value": "AddForceXY"
+                    "value": "PlatformBehavior::SimulateRightKey"
                   },
                   "parameters": [
                     "Ninja_Boy",
-                    "300",
-                    "0",
-                    ""
+                    "PlatformerObject"
                   ]
                 }
               ]
-            },
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Se não passou no portal",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
                 {
                   "type": {
-                    "value": "KeyFromTextPressed"
+                    "value": "BooleanVariable"
                   },
                   "parameters": [
-                    "",
-                    "\"Space\""
+                    "PassouNoPortal",
+                    "False",
+                    ""
                   ]
                 }
               ],
               "actions": [
                 {
                   "type": {
-                    "value": "AddForceXY"
+                    "value": "PlatformBehavior::Gravity"
                   },
                   "parameters": [
                     "Ninja_Boy",
-                    "0",
-                    "-200",
-                    ""
-                  ]
-                },
-                {
-                  "type": {
-                    "value": "SetAngle"
-                  },
-                  "parameters": [
-                    "Ninja_Boy",
+                    "PlatformerObject",
                     "=",
-                    "-30"
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "inverted": true,
-                    "value": "KeyFromTextPressed"
-                  },
-                  "parameters": [
-                    "",
-                    "\"Space\""
+                    "1000"
                   ]
                 },
                 {
                   "type": {
-                    "inverted": true,
-                    "value": "CollisionNP"
+                    "value": "ActivateBehavior"
                   },
                   "parameters": [
                     "Ninja_Boy",
-                    "Wall_for_Blue_Floor",
-                    "",
-                    "",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
-                {
-                  "type": {
-                    "value": "SetAngle"
-                  },
-                  "parameters": [
-                    "Ninja_Boy",
-                    "=",
-                    "30"
+                    "PlatformerObject",
+                    "yes"
                   ]
                 },
-                {
-                  "type": {
-                    "value": "AddForceXY"
-                  },
-                  "parameters": [
-                    "Ninja_Boy",
-                    "0",
-                    "200",
-                    ""
-                  ]
-                }
-              ]
-            },
-            {
-              "type": "BuiltinCommonInstructions::Standard",
-              "conditions": [
-                {
-                  "type": {
-                    "value": "CollisionNP"
-                  },
-                  "parameters": [
-                    "Ninja_Boy",
-                    "Wall_for_Blue_Floor",
-                    "",
-                    "",
-                    ""
-                  ]
-                }
-              ],
-              "actions": [
                 {
                   "type": {
                     "value": "SetAngle"
@@ -5267,8 +5105,323 @@
                     "0"
                   ]
                 }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Space\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "PlatformBehavior::SimulateJumpKey"
+                      },
+                      "parameters": [
+                        "Ninja_Boy",
+                        "PlatformerObject"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Ninja_Boy",
+                        "Door1",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "PassouNoPortal",
+                        "True",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "Ninja_Boy",
+                        "Animation",
+                        "=",
+                        "\"Throw\""
+                      ]
+                    }
+                  ]
+                }
               ]
-            },
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "name": "Se passou no portal",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
+            {
+              "type": "BuiltinCommonInstructions::Standard",
+              "conditions": [
+                {
+                  "type": {
+                    "value": "BooleanVariable"
+                  },
+                  "parameters": [
+                    "PassouNoPortal",
+                    "True",
+                    ""
+                  ]
+                }
+              ],
+              "actions": [
+                {
+                  "type": {
+                    "value": "ActivateBehavior"
+                  },
+                  "parameters": [
+                    "Ninja_Boy",
+                    "PlatformerObject",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
+                    "value": "SeparateFromObjects"
+                  },
+                  "parameters": [
+                    "Ninja_Boy",
+                    "Wall_for_Blue_Floor",
+                    ""
+                  ]
+                }
+              ],
+              "events": [
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AddForceXY"
+                      },
+                      "parameters": [
+                        "Ninja_Boy",
+                        "300",
+                        "0",
+                        ""
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "KeyFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Space\""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AddForceXY"
+                      },
+                      "parameters": [
+                        "Ninja_Boy",
+                        "0",
+                        "-200",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetAngle"
+                      },
+                      "parameters": [
+                        "Ninja_Boy",
+                        "=",
+                        "-30"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "KeyFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Space\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Ninja_Boy",
+                        "Wall_for_Blue_Floor",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "AddForceXY"
+                      },
+                      "parameters": [
+                        "Ninja_Boy",
+                        "0",
+                        "200",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "SetAngle"
+                      },
+                      "parameters": [
+                        "Ninja_Boy",
+                        "=",
+                        "30"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "inverted": true,
+                        "value": "KeyFromTextPressed"
+                      },
+                      "parameters": [
+                        "",
+                        "\"Space\""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Ninja_Boy",
+                        "Wall_for_Blue_Floor",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetAngle"
+                      },
+                      "parameters": [
+                        "Ninja_Boy",
+                        "=",
+                        "0"
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "type": "BuiltinCommonInstructions::Standard",
+                  "conditions": [
+                    {
+                      "type": {
+                        "value": "CollisionNP"
+                      },
+                      "parameters": [
+                        "Ninja_Boy",
+                        "Door2",
+                        "",
+                        "",
+                        ""
+                      ]
+                    }
+                  ],
+                  "actions": [
+                    {
+                      "type": {
+                        "value": "SetBooleanVariable"
+                      },
+                      "parameters": [
+                        "PassouNoPortal",
+                        "False",
+                        ""
+                      ]
+                    },
+                    {
+                      "type": {
+                        "value": "AnimatableCapability::AnimatableBehavior::SetName"
+                      },
+                      "parameters": [
+                        "Ninja_Boy",
+                        "Animation",
+                        "=",
+                        "\"Run\""
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ],
+          "parameters": []
+        },
+        {
+          "colorB": 228,
+          "colorG": 176,
+          "colorR": 74,
+          "creationTime": 0,
+          "folded": true,
+          "name": "Sistema de Morte",
+          "source": "",
+          "type": "BuiltinCommonInstructions::Group",
+          "events": [
             {
               "type": "BuiltinCommonInstructions::Standard",
               "conditions": [
@@ -5278,7 +5431,7 @@
                   },
                   "parameters": [
                     "Ninja_Boy",
-                    "Door2",
+                    "NewSprite",
                     "",
                     "",
                     ""
@@ -5288,6 +5441,16 @@
               "actions": [
                 {
                   "type": {
+                    "value": "Scene"
+                  },
+                  "parameters": [
+                    "",
+                    "\"Cena sem título\"",
+                    ""
+                  ]
+                },
+                {
+                  "type": {
                     "value": "SetBooleanVariable"
                   },
                   "parameters": [
@@ -5295,60 +5458,11 @@
                     "False",
                     ""
                   ]
-                },
-                {
-                  "type": {
-                    "value": "AnimatableCapability::AnimatableBehavior::SetName"
-                  },
-                  "parameters": [
-                    "Ninja_Boy",
-                    "Animation",
-                    "=",
-                    "\"Run\""
-                  ]
                 }
               ]
             }
-          ]
-        },
-        {
-          "type": "BuiltinCommonInstructions::Standard",
-          "conditions": [
-            {
-              "type": {
-                "value": "CollisionNP"
-              },
-              "parameters": [
-                "Ninja_Boy",
-                "NewSprite",
-                "",
-                "",
-                ""
-              ]
-            }
           ],
-          "actions": [
-            {
-              "type": {
-                "value": "Scene"
-              },
-              "parameters": [
-                "",
-                "\"Cena sem título\"",
-                ""
-              ]
-            },
-            {
-              "type": {
-                "value": "SetBooleanVariable"
-              },
-              "parameters": [
-                "PassouNoPortal",
-                "False",
-                ""
-              ]
-            }
-          ]
+          "parameters": []
         }
       ],
       "layers": [
